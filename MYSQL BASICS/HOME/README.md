@@ -30,6 +30,4 @@ This tutorial is designed for beginners familiar with basic database and program
 ## Prerequisites:
 Basic understanding of databases, particularly Relational Database Management Systems (RDBMS), and computer programming languages.
 
----
 
-Feel free to customize or expand upon these points further!
