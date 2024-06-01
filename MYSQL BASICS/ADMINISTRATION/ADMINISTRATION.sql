@@ -11,3 +11,11 @@ from customers;
 select * from customers;
 fd
 s
+
+
+
+
+sfds
+f
+drop schema
+
