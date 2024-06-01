@@ -1,6 +1,4 @@
 use personal_database;
 
-fdkajf
-delete fds
-a
-fdsa
+select *
+from customers;
