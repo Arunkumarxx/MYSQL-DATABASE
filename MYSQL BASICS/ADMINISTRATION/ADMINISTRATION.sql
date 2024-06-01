@@ -4,7 +4,3 @@ fdkajf
 delete fds
 a
 fdsa
-f
-dsa
-f
-dsa
