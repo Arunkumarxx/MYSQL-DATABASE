@@ -9,3 +9,5 @@ from customers;
 
 
 select * from customers;
+fd
+s
