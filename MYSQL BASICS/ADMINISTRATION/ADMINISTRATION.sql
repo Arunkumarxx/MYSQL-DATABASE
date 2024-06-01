@@ -6,4 +6,3 @@ from personal_database.customers;
 
 select
 
-    
