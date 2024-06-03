@@ -69,7 +69,7 @@ CREATE INDEX idx_name ON customers (name);
 ```
 
 10. **Referential Integrity:**
-```sql
+sql
 CREATE TABLE orders (
     order_id INT AUTO_INCREMENT PRIMARY KEY,
     customer_id INT,
