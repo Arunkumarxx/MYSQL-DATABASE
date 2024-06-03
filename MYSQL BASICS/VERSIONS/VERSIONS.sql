@@ -41,14 +41,12 @@ SELECT * FROM orders USE INDEX (idx_order_date) WHERE order_date > '2023-01-01';
 -- Update user passwords with stronger encryption
 UPDATE users SET password = SHA2(CONCAT(salt, password), 512);
 
--- Code snippet for a new function introduced in MySQL version X.X.X
--- New Function: UUID generation function.
+
 
 -- Generate UUID for new records
 INSERT INTO users (id, name, email) VALUES (UUID(), 'John Doe', 'john@example.com');
 
--- Code snippet for a change in default behavior in MySQL version X.X.X
--- Change: Default SQL mode changed to STRICT_TRANS_TABLES.
+
 
 -- Update SQL mode to STRICT_TRANS_TABLES
 SET GLOBAL sql_mode = 'STRICT_TRANS_TABLES';
