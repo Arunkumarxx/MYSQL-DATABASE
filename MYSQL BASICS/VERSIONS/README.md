@@ -58,5 +58,3 @@ For community support and discussions, join the `MySQL` community forums at [htt
 
 Special thanks to the `MySQL` development team and community contributors for their efforts in making this release possible.
 ```
-
-This `rovides an overview of `MySQL` version `X.X.X`, including installation instructions, features, changes, bug fixes, documentation, community support, license information, authors, and acknowledgments. Adjustments can be made as necessary to reflect specific details of the `MySQL` version.
