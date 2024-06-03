@@ -13,10 +13,9 @@ SELECT name, details->'$.color' AS color, details->'$.price' AS price
 FROM products;
 
 
--- Incorrect ordering query before the fix
 SELECT * FROM users WHERE age > 30 ORDER BY name;
 
--- Corrected query after the fix
+
 SELECT * FROM users WHERE age > 30 ORDER BY age DESC, name;
 
 
