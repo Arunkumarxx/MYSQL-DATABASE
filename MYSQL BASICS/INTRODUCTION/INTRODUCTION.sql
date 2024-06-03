@@ -79,5 +79,4 @@ CREATE TABLE orders (
 );
 ```
 
-These are basic examples to illustrate each concept. Actual implementation may vary based on the specific database system you're using and its syntax.
  */
