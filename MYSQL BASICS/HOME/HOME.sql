@@ -1,5 +1,0 @@
-use personal_database;
-
-SELECT * FROM CUSTOMERS WHERE AGE = 25;
-
-SELECT * FROM CUSTOMERS WHERE NAME = 'Chaitali';
