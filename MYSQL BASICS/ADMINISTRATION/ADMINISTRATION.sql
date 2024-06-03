@@ -35,5 +35,4 @@ SHOW PROCESSLIST;
 
 KILL connection_id;
 
--- Analyze table for optimization
 ANALYZE TABLE table_name;
