@@ -1,10 +1,8 @@
--- Create a new user for database administration
-CREATE USER 'admin'@'localhost' IDENTIFIED BY 'password';
+-- Create a new user for database administrationCREATE USER 'admin'@'localhost' IDENTIFIED BY 'password';
 
--- Grant administrative privileges to the user
+
 GRANT ALL PRIVILEGES ON personal_database.* TO 'admin'@'localhost';
 
--- Flush privileges to apply changes
 FLUSH PRIVILEGES;
 
 
