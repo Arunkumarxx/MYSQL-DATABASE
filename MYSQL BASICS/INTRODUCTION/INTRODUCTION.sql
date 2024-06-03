@@ -18,10 +18,7 @@ CREATE TABLE customers (
     address VARCHAR(100),
     salary DECIMAL(10, 2)
 );
-```
 
-3. **Inserting Data into Table:**
-```sql
 INSERT INTO customers (name, age, address, salary)
 VALUES ('John Doe', 30, '123 Main St', 50000.00);
 
