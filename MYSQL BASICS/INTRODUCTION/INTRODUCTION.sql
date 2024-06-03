@@ -7,10 +7,7 @@ Sure, here's a simple code example demonstrating each of the database concepts y
 1. **Creating a Database:**
 ```sql
 CREATE DATABASE my_database;
-```
 
-2. **Creating a Table:**
-```sql
 CREATE TABLE customers (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(50),
