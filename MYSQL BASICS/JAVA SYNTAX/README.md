@@ -183,11 +183,3 @@ public class DeleteUser {
 
 This guide provides the basics for integrating Java with MySQL, including connecting to a database, and performing CRUD operations. For more advanced usage and best practices, refer to the official documentation of MySQL and Java JDBC.
 
-### `Authors`
-
-- John Doe
-- Jane Smith
-
-### `Acknowledgements`
-
-Special thanks to the Java and MySQL communities for their contributions and support.
