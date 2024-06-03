@@ -53,10 +53,7 @@ CREATE TABLE orders (
     total_amount DECIMAL(10, 2),
     FOREIGN KEY (customer_id) REFERENCES customers(id)
 );
-```
 
-8. **Foreign Key:**
-```sql
 ALTER TABLE orders
 ADD CONSTRAINT fk_customer
 FOREIGN KEY (customer_id)
