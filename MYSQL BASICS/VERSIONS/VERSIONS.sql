@@ -26,8 +26,6 @@ SELECT * FROM users WHERE age > 30 ORDER BY name;
 -- Corrected query after the fix
 SELECT * FROM users WHERE age > 30 ORDER BY age DESC, name;
 
--- Code snippet for a performance improvement in MySQL version X.X.X
--- Performance Improvement: Optimized query execution plan for large datasets.
 
 -- Original query with performance issue
 SELECT * FROM orders WHERE order_date > '2023-01-01';
