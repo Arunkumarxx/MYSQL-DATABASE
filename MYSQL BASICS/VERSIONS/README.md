@@ -49,12 +49,3 @@ For community support and discussions, join the `MySQL` community forums at [htt
 
 `MySQL` version `X.X.X` is released under the `GPL` license. For more information, refer to the `LICENSE` file included in the installation package.
 
-### Authors
-
-- John Doe (@johndoe)
-- Jane Smith (@janesmith)
-
-### Acknowledgements
-
-Special thanks to the `MySQL` development team and community contributors for their efforts in making this release possible.
-
