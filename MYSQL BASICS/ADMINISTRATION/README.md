@@ -35,15 +35,3 @@ When troubleshooting MySQL issues, it's essential to diagnose the problem accura
 
 For community support and discussions, join the MySQL community forums. For official MySQL documentation and resources, visit the MySQL Developer Zone.
 
-### `License`
-
-This guide is released under the Creative Commons Attribution-ShareAlike 4.0 International License. You are free to share and adapt this guide for any purpose, provided you give appropriate credit and distribute your contributions under the same license.
-
-### `Authors`
-
-- John Doe
-- Jane Smith
-
-### `Acknowledgements`
-
-Special thanks to the MySQL development team and community contributors for their efforts in making MySQL administration easier and more efficient.
