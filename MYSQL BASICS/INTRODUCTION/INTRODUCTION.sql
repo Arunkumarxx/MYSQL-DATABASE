@@ -1,3 +1,4 @@
+use personal_database;
 
 
 CREATE DATABASE my_database;
