@@ -27,15 +27,11 @@ VALUES ('John Doe', 30, '123 Main St', 50000.00);
 ```
 
 4. **Selecting Data from Table:**
-```sql
-SELECT * FROM customers;
-```
 
-5. **Updating Data in Table:**
-```sql
 UPDATE customers
 SET salary = 55000.00
 WHERE id = 1;
+
 
 DELETE FROM customers
 WHERE id = 1;
