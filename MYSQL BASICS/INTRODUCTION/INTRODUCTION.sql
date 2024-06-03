@@ -13,8 +13,6 @@ CREATE TABLE customers (
 INSERT INTO customers (name, age, address, salary)
 VALUES ('John Doe', 30, '123 Main St', 50000.00);
 
-Selecting Data from Table;
-
 UPDATE customers
 SET salary = 55000.00
 WHERE id = 1;
