@@ -1,11 +1,5 @@
-/*
 
 
-
-Sure, here's a simple code example demonstrating each of the database concepts you mentioned using `SQL` queries:
-
-1. **Creating a Database:**
-```sql
 CREATE DATABASE my_database;
 
 CREATE TABLE customers (
