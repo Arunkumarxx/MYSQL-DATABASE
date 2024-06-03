@@ -1,6 +1,4 @@
--- Code snippet for a new feature in MySQL version X.X.X
--- Feature: Enhanced JSON support
--- This feature allows for improved handling and manipulation of JSON data within MySQL.
+
 
 CREATE TABLE products (
     id INT AUTO_INCREMENT PRIMARY KEY,
