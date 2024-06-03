@@ -1,6 +1,4 @@
-Sure, here's a `README.md` file for `MySQL` version:
 
-```markdown
 ## `MySQL` Version `X.X.X`
 
 Welcome to `MySQL` version `X.X.X`! This document provides an overview of the features, changes, and updates in this release.
