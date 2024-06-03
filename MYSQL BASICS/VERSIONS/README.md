@@ -57,4 +57,4 @@ For community support and discussions, join the `MySQL` community forums at [htt
 ### Acknowledgements
 
 Special thanks to the `MySQL` development team and community contributors for their efforts in making this release possible.
-```
+
