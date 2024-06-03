@@ -37,12 +37,11 @@ FOREIGN KEY (customer_id)
 REFERENCES customers(id);
 
 
-sql
 CREATE INDEX idx_name ON customers (name);
 
 
 
-sql
+
 CREATE TABLE orders (
     order_id INT AUTO_INCREMENT PRIMARY KEY,
     customer_id INT,
