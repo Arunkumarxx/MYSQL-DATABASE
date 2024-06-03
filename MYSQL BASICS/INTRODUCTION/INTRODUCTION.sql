@@ -77,6 +77,6 @@ CREATE TABLE orders (
     total_amount DECIMAL(10, 2),
     FOREIGN KEY (customer_id) REFERENCES customers(id)
 );
-```
+
 
  */
