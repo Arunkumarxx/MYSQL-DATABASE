@@ -24,7 +24,6 @@ CREATE TABLE customers (
 ```sql
 INSERT INTO customers (name, age, address, salary)
 VALUES ('John Doe', 30, '123 Main St', 50000.00);
-```
 
 4. **Selecting Data from Table:**
 
