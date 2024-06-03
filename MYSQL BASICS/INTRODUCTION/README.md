@@ -46,7 +46,6 @@ A database stores a collection of data, which can be structured or unstructured.
 
 `MySQL` remains a cornerstone in data management, offering reliability, scalability, and efficiency for diverse applications.
 
-Sure, here's a simple code example demonstrating each of the database concepts you mentioned using `SQL` queries:
 
 1. **Creating a Database:**
 ```sql
