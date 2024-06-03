@@ -17,8 +17,6 @@ VALUES ('Product A', '{"color": "red", "price": 100.00}');
 SELECT name, details->'$.color' AS color, details->'$.price' AS price
 FROM products;
 
--- Code snippet for a bug fix in MySQL version X.X.X
--- Bug Fix: Fixed issue with incorrect ordering of results in certain queries.
 
 -- Incorrect ordering query before the fix
 SELECT * FROM users WHERE age > 30 ORDER BY name;
