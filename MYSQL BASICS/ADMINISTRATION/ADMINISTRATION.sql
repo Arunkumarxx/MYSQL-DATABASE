@@ -8,7 +8,6 @@ FLUSH PRIVILEGES;
 
 BACKUP DATABASE personal_database TO '/path/to/backup/directory';
 
--- Check database size
 SELECT table_schema "Database", sum(data_length + index_length) / 1024 / 1024 "Size (MB)"
 FROM information_schema.tables
 WHERE table_schema = 'personal_database'
