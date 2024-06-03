@@ -36,10 +36,7 @@ SELECT * FROM customers;
 UPDATE customers
 SET salary = 55000.00
 WHERE id = 1;
-```
 
-6. **Deleting Data from Table:**
-```sql
 DELETE FROM customers
 WHERE id = 1;
 
