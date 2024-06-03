@@ -42,10 +42,7 @@ WHERE id = 1;
 ```sql
 DELETE FROM customers
 WHERE id = 1;
-```
 
-7. **Primary Key:**
-```sql
 CREATE TABLE orders (
     order_id INT AUTO_INCREMENT PRIMARY KEY,
     customer_id INT,
