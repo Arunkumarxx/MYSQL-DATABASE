@@ -19,24 +19,16 @@ SELECT * FROM users WHERE age > 30 ORDER BY name;
 SELECT * FROM users WHERE age > 30 ORDER BY age DESC, name;
 
 
--- Original query with performance issue
+
 SELECT * FROM orders WHERE order_date > '2023-01-01';
 
--- Optimized query with improved execution plan
+
 SELECT * FROM orders USE INDEX (idx_order_date) WHERE order_date > '2023-01-01';
 
--- Code snippet for a security enhancement in MySQL version X.X.X
--- Security Enhancement: Strengthened password encryption algorithm.
 
--- Update user passwords with stronger encryption
 UPDATE users SET password = SHA2(CONCAT(salt, password), 512);
 
 
-
--- Generate UUID for new records
 INSERT INTO users (id, name, email) VALUES (UUID(), 'John Doe', 'john@example.com');
 
-
-
--- Update SQL mode to STRICT_TRANS_TABLES
 SET GLOBAL sql_mode = 'STRICT_TRANS_TABLES';
