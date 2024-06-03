@@ -4,11 +4,11 @@ CREATE TABLE products (
     details JSON
 );
 
--- Inserting JSON data into the table
+
 INSERT INTO products (name, details)
 VALUES ('Product A', '{"color": "red", "price": 100.00}');
 
--- Querying JSON data
+
 SELECT name, details->'$.color' AS color, details->'$.price' AS price
 FROM products;
 
