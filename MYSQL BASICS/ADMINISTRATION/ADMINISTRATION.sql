@@ -1,4 +1,4 @@
--- Create a new user for database administrationCREATE USER 'admin'@'localhost' IDENTIFIED BY 'password';
+CREATE USER 'admin'@'localhost' IDENTIFIED BY 'password';
 
 
 GRANT ALL PRIVILEGES ON personal_database.* TO 'admin'@'localhost';
