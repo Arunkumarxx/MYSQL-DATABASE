@@ -7,7 +7,7 @@ GRANT ALL PRIVILEGES ON personal_database.* TO 'admin'@'localhost';
 -- Flush privileges to apply changes
 FLUSH PRIVILEGES;
 
--- Create a new database backup
+
 BACKUP DATABASE personal_database TO '/path/to/backup/directory';
 
 -- Check database size
