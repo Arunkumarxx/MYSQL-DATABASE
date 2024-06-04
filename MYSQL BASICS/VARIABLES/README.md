@@ -13,7 +13,7 @@ MySQL variables serve as temporary named storage locations within a session or c
 * Simplifying complex queries.
 * Storing temporary data within a session.
 
-## `Types of Variables`
+ `Types of Variables`
 
 MySQL offers three primary types of variables:
 
