@@ -3,5 +3,5 @@
    create procedure method()
    begin
 
-   end //
+   end //delimiter ;
 -- global variables
