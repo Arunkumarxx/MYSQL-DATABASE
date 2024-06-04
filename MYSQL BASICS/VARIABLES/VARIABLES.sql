@@ -2,6 +2,7 @@
    delimiter //
    create procedure method()
    begin
-       declare  
+       declare  arun;
+       
    end //delimiter ;
 -- global variables
