@@ -45,13 +45,10 @@ SHOW DATABASES;
 
 
 SHOW TABLES;
-
 SHOW GRANTS FOR 'workbench_user'@'localhost';
 
--- Show Current User
-SELECT USER();
 
--- Drop the Table
+SELECT USER();
 DROP TABLE employees;
 
 -- Drop the User
