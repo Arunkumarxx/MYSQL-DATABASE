@@ -1,4 +1,3 @@
-My apologies, I misunderstood your previous instruction. Here's the updated README.md using backticks (`) for all side headings:
 
 
 ## `MySQL Variables`
