@@ -51,8 +51,8 @@ SHOW GRANTS FOR 'workbench_user'@'localhost';
 SELECT USER();
 DROP TABLE employees;
 
--- Drop the User
+
 DROP USER 'workbench_user'@'localhost';
 
--- Drop the Database
+
 DROP DATABASE my_workbench_db;
