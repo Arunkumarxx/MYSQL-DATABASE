@@ -57,4 +57,5 @@ DROP USER 'workbench_user'@'localhost';
 
 DROP DATABASE my_workbench_db;
 
-SHOW GRANTS FOR 'Arunkumarxx'@'127.0.0.1';
+SELECT user, host FROM mysql.user WHERE user = 'Arunkumarxx';
+
