@@ -1,4 +1,3 @@
-Got it! You want the side headings to be highlighted. Here's the updated README.md with the side headings highlighted:
 
 # Database Export Guide
 
