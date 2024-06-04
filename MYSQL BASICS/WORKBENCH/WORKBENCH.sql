@@ -25,15 +25,15 @@ VALUES
 ('Jane', 'Smith', 'jane.smith@example.com', '2023-02-20', 60000.00),
 ('Alice', 'Johnson', 'alice.johnson@example.com', '2023-03-25', 65000.00);
 
--- Select Data from the Table
+
 SELECT * FROM employees;
 
--- Update Data in the Table
+
 UPDATE employees
 SET salary = 70000.00
 WHERE email = 'john.doe@example.com';
 
--- Delete Data from the Table
+
 DELETE FROM employees
 WHERE email = 'alice.johnson@example.com';
 
