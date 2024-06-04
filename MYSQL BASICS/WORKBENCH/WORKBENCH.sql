@@ -57,4 +57,4 @@ DROP USER 'workbench_user'@'localhost';
 
 DROP DATABASE my_workbench_db;
 
-show grants for 'Arunkumarxx'@'12'
+show grants for 'Arunkumarxx'@'127.0.0.1';
