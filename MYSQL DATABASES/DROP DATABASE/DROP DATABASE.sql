@@ -32,4 +32,4 @@ show databases ;
  drop database Two;
  drop database Three;
  drop database Four;
-drop database temp;
+drop database 
