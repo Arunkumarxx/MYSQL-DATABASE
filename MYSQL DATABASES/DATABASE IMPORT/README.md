@@ -1,4 +1,4 @@
-Markdown
+
 ## `README.md`
 
 This guide provides instructions for importing a database into your system. 
