@@ -22,7 +22,7 @@ To export a specific database from your MySQL server, follow these steps:
 
 4. Enter your MySQL password when prompted.
 
-## Exporting All Databases`
+## `Exporting All Databases`
 
 If you want to export all databases from your MySQL server, use the following command:
 
