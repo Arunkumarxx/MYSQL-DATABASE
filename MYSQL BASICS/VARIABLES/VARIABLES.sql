@@ -9,3 +9,5 @@ end
 // delimiter ;
 
 
+select *
+from call();
