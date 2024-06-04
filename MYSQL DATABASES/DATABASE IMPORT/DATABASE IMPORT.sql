@@ -10,3 +10,7 @@ insert into id() value(1,'Arunkumar');
 
 select *
 from id;
+
+/*
+ mysqldump -u Arunkumarxx -p Arunkumarxx >"G:\arunxBackup.sql"
+ */
