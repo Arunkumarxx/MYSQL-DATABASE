@@ -1,15 +1,14 @@
--- Connect to MySQL Server and Create a New Database
+
 CREATE DATABASE my_workbench_db;
 
--- Create a New User and Grant Privileges
+
 CREATE USER 'workbench_user'@'localhost' IDENTIFIED BY 'secure_password';
 GRANT ALL PRIVILEGES ON my_workbench_db.* TO 'workbench_user'@'localhost';
 FLUSH PRIVILEGES;
 
--- Use the Newly Created Database
 USE my_workbench_db;
 
--- Create a New Table
+
 CREATE TABLE employees (
     id INT AUTO_INCREMENT PRIMARY KEY,
     first_name VARCHAR(50) NOT NULL,
