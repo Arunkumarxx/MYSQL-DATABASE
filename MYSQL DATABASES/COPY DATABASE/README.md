@@ -1,4 +1,4 @@
-```markdown
+
 # `Backup Database`
 
 ## `Exporting Database using mysqldump`
