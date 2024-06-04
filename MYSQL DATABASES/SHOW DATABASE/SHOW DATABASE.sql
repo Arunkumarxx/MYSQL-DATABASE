@@ -22,5 +22,4 @@ show databases ;
 | world              |
 +--------------------+
 12 rows in set (0.00 sec)
-
  */
