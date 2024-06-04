@@ -42,6 +42,3 @@ Alternatively, you can use MySQL Workbench to export all databases from your MyS
 4. Configure other export settings as desired.
 
 5. Click the "Start Export" button to begin the export process.
-
-This will export all databases from your MySQL server according to the specified settings.
-```
