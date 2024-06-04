@@ -29,3 +29,6 @@ show databases ;
  */
 
  drop database one;
+ drop database Two;
+ drop database Three;
+ drop database Four;
