@@ -9,6 +9,6 @@ mysql>
 insert into personal_database.`customerid name`
 values(2333,'Arunkumar');
 /*
- 
+
  */
 use sakila;
