@@ -99,5 +99,3 @@ When you first open MySQL Workbench, you'll see the Home Screen. This screen all
 - [MySQL Workbench Documentation](https://dev.mysql.com/doc/workbench/en/)
 - [MySQL Workbench Tutorials](https://dev.mysql.com/doc/workbench/en/wb-tutorials.html)
 - [MySQL Forums](https://forums.mysql.com/)
-
-By following this guide, you should be able to effectively use MySQL Workbench for your database management needs. For further information and advanced usage, refer to the official documentation and tutorials.
