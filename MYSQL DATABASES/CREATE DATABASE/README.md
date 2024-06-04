@@ -1,6 +1,3 @@
-
-
-
 # Database Setup Guide
 
 ## `Introduction`
