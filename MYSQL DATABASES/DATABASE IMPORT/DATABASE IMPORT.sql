@@ -12,6 +12,10 @@ select *
 from id;
 
 /*
- mysqldump -u Arunkumarxx -p Arunkumarxx >"G:\arunxBackup.sql"
- */
 
+C:\Program Files\MySQL\MySQL Server 8.0\bin>mysqldump -u Arunkumarxx -p arunx >"G:\arunxBackup.sql"
+Enter password: *********
+
+C:\Program Files\MySQL\MySQL Server 8.0\bin>
+
+ */
