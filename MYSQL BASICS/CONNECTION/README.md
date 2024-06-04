@@ -1,4 +1,3 @@
-# README.md
 
 # `Connecting to MySQL using Java`
 
