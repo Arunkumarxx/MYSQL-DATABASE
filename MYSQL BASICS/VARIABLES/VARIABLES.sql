@@ -2,7 +2,7 @@
    delimiter //
    create procedure method()
    begin
-       declare  arun;
+       declare  arun varchar(255);
        
    end //delimiter ;
 -- global variables
