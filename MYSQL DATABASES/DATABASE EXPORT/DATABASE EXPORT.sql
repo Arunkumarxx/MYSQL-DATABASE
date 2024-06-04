@@ -1,3 +1,3 @@
 use personal_database;
 
-create database  export_Personal_database from 
+create database  export_Personal_database 
