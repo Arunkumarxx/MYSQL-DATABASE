@@ -37,7 +37,7 @@ WHERE email = 'john.doe@example.com';
 DELETE FROM employees
 WHERE email = 'alice.johnson@example.com';
 
--- Describe the Table Structure
+
 DESCRIBE employees;
 
 -- Show All Databases
