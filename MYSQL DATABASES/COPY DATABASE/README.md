@@ -25,6 +25,3 @@ This command exports the `personal_database` database to the specified `.sql` fi
 ---
 
 *Note: Ensure that the directory specified for the output file exists and you have the necessary permissions to write to it.*
-``` 
-
-This markdown snippet summarizes how to backup a MySQL database using `mysqldump`, providing the syntax, an example command, and the expected output. Adjust the paths and database credentials as needed for your environment.
