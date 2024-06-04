@@ -1,3 +1,3 @@
 select @total = sum(price) from products;
 
-drop procedure 
+drop procedure calls;
