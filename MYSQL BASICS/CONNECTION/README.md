@@ -1,4 +1,3 @@
-
 # `Connecting to MySQL using Java`
 
 This guide will help you connect to a MySQL database using Java. We'll cover the necessary steps, including setting up the environment, writing the connection code, and troubleshooting common issues.
