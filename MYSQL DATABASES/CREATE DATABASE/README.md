@@ -1,4 +1,4 @@
-Sure! Here's the simplified `README.md` focused only on creating a database:
+
 
 
 # Database Setup Guide
