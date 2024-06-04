@@ -1,3 +1,3 @@
 use personal_database;
 
-create database 
+create database backupOfPersonalData
