@@ -1,1 +1,1 @@
-select @total 
+select @total = sum()
