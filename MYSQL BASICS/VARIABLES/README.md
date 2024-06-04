@@ -1,6 +1,6 @@
 My apologies, I misunderstood your previous instruction. Here's the updated README.md using backticks (`) for all side headings:
 
-```markdown
+
 ## MySQL Variables
 
 This repository provides resources and examples for understanding and using variables effectively in MySQL.
