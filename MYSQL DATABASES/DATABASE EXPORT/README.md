@@ -1,4 +1,3 @@
-Sure, here's a basic `README.md` file explaining how to export databases using `mysqldump` with the database names included:
 
 # Database Export Guide
 
