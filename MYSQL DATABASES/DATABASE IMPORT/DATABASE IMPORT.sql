@@ -1,1 +1,1 @@
-create dataaa
+create database some;
