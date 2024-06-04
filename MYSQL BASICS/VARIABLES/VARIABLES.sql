@@ -1,3 +1,3 @@
 set @name=12;
 
-show variables  like '%name%'
+show variables  like '%name%';
