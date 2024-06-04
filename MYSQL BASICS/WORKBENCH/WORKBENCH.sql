@@ -57,5 +57,5 @@ DROP USER 'workbench_user'@'localhost';
 
 DROP DATABASE my_workbench_db;
 
-SELECT user, host FROM  mysql  WHERE user = 'Arunkumarxx';
+
 
