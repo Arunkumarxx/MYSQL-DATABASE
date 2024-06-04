@@ -1,1 +1,1 @@
-select @
+select @arun =100;
