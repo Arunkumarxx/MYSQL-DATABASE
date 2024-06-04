@@ -1,5 +1,5 @@
 use personal_database;
 
-create database backupOfPersonalDataBase;
+create database backupOfPersonalDataBase ;
 
 use backupOfPersonalDataBase;
