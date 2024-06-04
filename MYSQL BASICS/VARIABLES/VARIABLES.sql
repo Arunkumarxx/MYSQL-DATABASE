@@ -1,3 +1,3 @@
 set @name=12;
 
-select @@name
+select @@name;
