@@ -1,6 +1,6 @@
 Sure! Here's the simplified `README.md` focused only on creating a database:
 
-```markdown
+
 # Database Setup Guide
 
 ## `Introduction`
