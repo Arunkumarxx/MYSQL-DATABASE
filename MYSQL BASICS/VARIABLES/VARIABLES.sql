@@ -1,1 +1,1 @@
-select @names =
+select @names =10;
