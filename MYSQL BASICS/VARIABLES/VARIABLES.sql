@@ -1,2 +1,2 @@
 -- local variables
--- 
+-- global variables
