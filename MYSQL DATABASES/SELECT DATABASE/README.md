@@ -41,8 +41,8 @@ You can also configure `use-database` using a configuration file (`.use-db-confi
 
 ```json
 {
-    "host": "localhost",
-    "port": 5432,
+    "host": "Arunkumarxx",
+    "port": 127.0.,
     "user": "admin",
     "password": "secret"
 }
