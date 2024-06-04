@@ -8,4 +8,5 @@
    end //delimiter ;
 -- global variables
 set @arun=23;
-select arun;
+select @arun;
+
