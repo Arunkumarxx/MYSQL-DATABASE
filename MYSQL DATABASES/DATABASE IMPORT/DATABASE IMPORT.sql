@@ -1,1 +1,1 @@
-create database arunx
+create database arunx;
