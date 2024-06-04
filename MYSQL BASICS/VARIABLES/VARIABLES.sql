@@ -1,1 +1,1 @@
-declare @arun =23;
+declare @arun;
