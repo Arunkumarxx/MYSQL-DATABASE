@@ -12,4 +12,4 @@ select @arun;
 
 -- in other way
 
-select @arun=
+select @arun=()
