@@ -3,7 +3,7 @@
 
 This guide explains how to export MySQL databases using the `mysqldump` command-line utility. You can use this method to create backups of specific databases or export all databases from your MySQL server.
 
-`## Exporting Specific Databases`
+## `Exporting Specific Databases`
 
 To export a specific database from your MySQL server, follow these steps:
 
