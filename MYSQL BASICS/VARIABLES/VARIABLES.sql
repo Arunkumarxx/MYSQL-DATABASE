@@ -7,4 +7,3 @@
        select arun;
    end //delimiter ;
 -- global variables
-
