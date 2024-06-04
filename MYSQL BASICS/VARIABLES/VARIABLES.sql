@@ -9,4 +9,4 @@ end
 // delimiter ;
 
 
-call();
+call call();
