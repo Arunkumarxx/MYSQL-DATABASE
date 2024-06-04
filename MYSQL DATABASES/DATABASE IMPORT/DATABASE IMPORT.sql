@@ -6,4 +6,4 @@ create table id(
     name varchar(255)
 );
 
-insert into id() value(1,);
+insert into id() value(1,'Arunkumar');
