@@ -1,2 +1,2 @@
 create database arunx;
-drop table 
+drop table id;
