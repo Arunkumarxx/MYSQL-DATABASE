@@ -5,7 +5,7 @@ My apologies, I misunderstood your previous instruction. Here's the updated READ
 
 This repository provides resources and examples for understanding and using variables effectively in MySQL.
 
-## What are MySQL Variables?
+## `What are MySQL Variables?`
 
 MySQL variables serve as temporary named storage locations within a session or connection. They are valuable for:
 
