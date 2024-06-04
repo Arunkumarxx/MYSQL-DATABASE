@@ -85,8 +85,3 @@ This repository includes examples illustrating various applications of MySQL var
 
 * MySQL documentation on variables: [https://dev.mysql.com/doc/refman/en/set-variable.html](https://dev.mysql.com/doc/refman/en/set-variable.html)
 * Tutorials on using variables in MySQL queries: (Search online for relevant tutorials)
-
-## Contributing
-
-Feel free to contribute to this repository by adding more examples, best practices, or explanations for different variable types. Share your knowledge and help others master MySQL variables!
-```
