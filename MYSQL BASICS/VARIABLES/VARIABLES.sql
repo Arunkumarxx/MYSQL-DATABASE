@@ -1,2 +1,2 @@
 delimiter //
-create procedure 
+create procedure fun()
