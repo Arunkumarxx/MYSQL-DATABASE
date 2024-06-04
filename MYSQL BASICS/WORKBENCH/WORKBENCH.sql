@@ -40,13 +40,12 @@ WHERE email = 'alice.johnson@example.com';
 
 DESCRIBE employees;
 
--- Show All Databases
+
 SHOW DATABASES;
 
--- Show All Tables in the Current Database
+
 SHOW TABLES;
 
--- Show Grants for the Created User
 SHOW GRANTS FOR 'workbench_user'@'localhost';
 
 -- Show Current User
