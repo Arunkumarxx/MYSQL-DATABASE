@@ -32,3 +32,5 @@ show databases ;
  drop database Two;
  drop database Three;
  drop database Four;
+
+show databases ;
