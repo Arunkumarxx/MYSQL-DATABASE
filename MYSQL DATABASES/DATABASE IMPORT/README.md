@@ -1,8 +1,3 @@
-
-## `README.md`
-
-This guide provides instructions for importing a database into your system. 
-
 ### ` Prerequisites `
 
 * **Database Management System (DBMS):** Ensure you have the appropriate DBMS software installed for your specific database format (e.g., MySQL, PostgreSQL, SQL Server).
