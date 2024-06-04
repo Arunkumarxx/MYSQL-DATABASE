@@ -7,4 +7,5 @@
        select arun;
    end //delimiter ;
 -- global variables
-set 
+set @arun=23;
+select arun;
