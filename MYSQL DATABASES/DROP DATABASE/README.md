@@ -44,10 +44,10 @@ You can also configure `drop-database` using a configuration file (`.drop-db-con
 
 ```json
 {
-    "host": "localhost",
-    "port": 5432,
-    "user": "admin",
-    "password": "secret"
+    "host": "MYSQL COURSE",
+    "port": "127.0.0.1",
+    "user": "Arunkumarxx",
+    "password": "arunkumar"
 }
 ```
 
