@@ -1,5 +1,3 @@
-Ah, I see! You want the main heading and the subheadings all enclosed in backticks. Here's the updated README.md:
-
 
 # `Database Export Guide`
 
