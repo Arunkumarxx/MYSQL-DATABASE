@@ -1,5 +1,3 @@
-
-
 ## `Use Database`
 
 `use-database` is a command-line utility designed to facilitate easy and efficient selection and switching of databases. This tool is intended for database administrators and developers who need to manage and access multiple databases seamlessly.
