@@ -1,1 +1,1 @@
-drop database 
+drop database arunx;
