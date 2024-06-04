@@ -1,4 +1,3 @@
-
 ## `Show Databases`
 
 `show-databases` is a command-line utility designed to list all available databases on a MySQL server. This tool is useful for database administrators and developers who need to view and manage multiple databases.
