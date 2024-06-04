@@ -18,7 +18,7 @@ MySQL variables serve as temporary named storage locations within a session or c
 MySQL offers three primary types of variables:
 
 ```
-### Local Variables (@variables)
+ Local Variables (@variables)
 ```
 
 These variables are specific to the current connection and cannot be accessed from other sessions. They are ideal for temporary calculations and data manipulation within the current session.
