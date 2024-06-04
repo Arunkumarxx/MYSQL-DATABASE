@@ -1,5 +1,3 @@
-# README.md
-
 # `MySQL Workbench Guide`
 
 This guide provides an overview of MySQL Workbench, a visual tool for database architects, developers, and DBAs. It covers installation, basic usage, and essential features.
