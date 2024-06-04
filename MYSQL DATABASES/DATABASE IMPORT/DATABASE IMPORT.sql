@@ -1,1 +1,1 @@
-create database some;
+drop database some;
