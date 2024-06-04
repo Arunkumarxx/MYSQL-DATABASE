@@ -1,3 +1,3 @@
-set @arun=23;
+set @arun='2332';
 
 select @arun;
