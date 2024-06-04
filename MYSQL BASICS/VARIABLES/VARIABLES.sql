@@ -1,1 +1,2 @@
-select @total = sum()
+select @total = sum(price) from products;
+
