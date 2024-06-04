@@ -58,4 +58,3 @@ DROP USER 'workbench_user'@'localhost';
 DROP DATABASE my_workbench_db;
 
 
-
