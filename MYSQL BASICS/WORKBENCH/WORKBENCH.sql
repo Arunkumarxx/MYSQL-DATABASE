@@ -18,7 +18,7 @@ CREATE TABLE employees (
     salary DECIMAL(10, 2)
 );
 
--- Insert Data into the Table
+
 INSERT INTO employees (first_name, last_name, email, hire_date, salary)
 VALUES
 ('John', 'Doe', 'john.doe@example.com', '2023-01-15', 55000.00),
