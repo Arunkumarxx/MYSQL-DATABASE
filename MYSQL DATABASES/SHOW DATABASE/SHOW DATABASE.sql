@@ -1,3 +1,4 @@
 use personal_database;
 
-create 
+create database tempOne;
+
