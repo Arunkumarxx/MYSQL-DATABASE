@@ -3,5 +3,5 @@ use some;
 
 create table temp
 (
-    id int primary key 
+    id int primary key
 );
