@@ -13,3 +13,5 @@ select value2;
 end
 // delimiter ;
 
+
+call fun();
