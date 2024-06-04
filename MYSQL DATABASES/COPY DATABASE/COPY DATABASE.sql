@@ -5,3 +5,6 @@ USE personal_database;
 CREATE TABLE TempDatabse AS SELECT * FROM personal_database.customers;
 
 
+/*
+ mysqldump -u [username] -p [database_name] > [output_file.sql]
+ */
