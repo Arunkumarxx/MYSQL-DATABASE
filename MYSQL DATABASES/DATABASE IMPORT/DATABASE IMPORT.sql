@@ -7,3 +7,6 @@ create table id(
 );
 
 insert into id() value(1,'Arunkumar');
+
+select *
+from id;
