@@ -28,4 +28,4 @@ show databases ;
 15 rows in set (0.00 sec)
  */
 
- drop database 
+ drop database one;
