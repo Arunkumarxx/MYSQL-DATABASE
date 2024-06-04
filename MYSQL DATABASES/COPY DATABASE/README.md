@@ -1,6 +1,4 @@
 
-# `Backup Database`
-
 ## `Exporting Database using mysqldump`
 
 To backup a MySQL database, you can use the `mysqldump` command. Follow the steps below:
