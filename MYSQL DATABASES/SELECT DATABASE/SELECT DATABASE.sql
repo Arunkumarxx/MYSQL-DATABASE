@@ -1,6 +1,6 @@
 #use databaseName;
 
 use personal_database;
-insert into 
+insert into personal_database.`customerid name`
 
 use sakila;
