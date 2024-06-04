@@ -7,3 +7,6 @@ create table temp
 );
 insert into temp values(32);
 
+/*
+ 
+ */
