@@ -10,3 +10,5 @@
 set @arun=23;
 select @arun;
 
+-- in other way
+
