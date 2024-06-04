@@ -2,4 +2,4 @@ create database some;
 
 use some;
 select *
-from some.;
+from some;
