@@ -34,3 +34,21 @@ show databases ;
  drop database Four;
 
 show databases ;
+/*
+ mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| employees          |
+| information_schema |
+| mysql              |
+| performance_schema |
+| personal_database  |
+| personaldb         |
+| personnelschema    |
+| sakila             |
+| sys                |
+| testdatabase       |
+| world              |
++--------------------+
+ */
