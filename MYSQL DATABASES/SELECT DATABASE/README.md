@@ -42,7 +42,7 @@ You can also configure `use-database` using a configuration file (`.use-db-confi
 ```json
 {
     "host": "MYSQL COURSE",
-    "port": 127.0.0.1,
+    "port": "127.0.0.1",
     "user": "Arunkumarxx",
     "password": "arunkumar"
 }
