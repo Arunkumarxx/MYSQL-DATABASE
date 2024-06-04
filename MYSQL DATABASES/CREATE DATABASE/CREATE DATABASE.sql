@@ -7,5 +7,5 @@ mysql>
  */
  show databases ;
 /*
-
+ some
  */
