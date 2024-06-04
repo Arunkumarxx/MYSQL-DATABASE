@@ -4,3 +4,4 @@ create database backupOfPersonalDataBase;
 
 use backupOfPersonalDataBase;
 
+create table 
