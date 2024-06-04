@@ -1,5 +1,3 @@
-
-
 ## `MySQL Variables`
 
 This repository provides resources and examples for understanding and using variables effectively in MySQL.
