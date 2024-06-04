@@ -126,4 +126,4 @@ public class MySQLConnection {
 
 ## `Conclusion`
 
-By following this guide, you should be able to establish a connection to a MySQL database using Java. This basic setup can be expanded to include more advanced features such as connection pooling, prepared statements, and transaction management
+By following this guide, you should be able to establish a connection to a MySQL database using Java. This basic setup can be expanded to include more advanced features such as connection pooling, prepared statements, and transaction 
