@@ -5,4 +5,4 @@ create table temp
 (
     id int primary key
 );
-insert into 
+insert into temp()
