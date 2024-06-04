@@ -1,3 +1,6 @@
 create database arunx;
 
-create table 
+create table id(
+    id int,
+    
+);
