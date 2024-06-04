@@ -1,6 +1,7 @@
 delimiter //
 create procedure fun()
 begin
-declare 
+declare value1 int;
+declare va
 end
 // delimiter ;
