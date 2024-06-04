@@ -10,7 +10,6 @@ insert into id() value(1,'Arunkumar');
 
 select *
 from id;
-drop database arunx;
 /*
 
 C:\Program Files\MySQL\MySQL Server 8.0\bin>mysqldump -u Arunkumarxx -p arunx >"G:\arunxBackup.sql"
