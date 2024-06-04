@@ -1,4 +1,3 @@
-# `README.md` for `show-databases`
 
 ## `Show Databases`
 
