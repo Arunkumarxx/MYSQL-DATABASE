@@ -13,4 +13,3 @@ select @arun;
 -- in other way
 
 select @arun =23;
-
