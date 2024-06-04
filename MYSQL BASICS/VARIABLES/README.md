@@ -24,13 +24,13 @@ MySQL offers three primary types of variables:
 These variables are specific to the current connection and cannot be accessed from other sessions. They are ideal for temporary calculations and data manipulation within the current session.
 
 ```
-### Session Variables (@@variables)
+Session Variables (@@variables)
 ```
 
 These variables have a broader scope, shared across all connections within the same session. They are useful for configuration settings that apply to the entire session, such as timeouts or character encoding.
 
 ```
-### Global Variables (@@global.variables)
+Global Variables (@@global.variables)
 ```
 
 These variables have the most extensive scope, affecting all sessions on the MySQL server. Modify them with caution, as unintended side effects can impact all user sessions.
