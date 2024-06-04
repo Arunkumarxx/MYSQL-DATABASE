@@ -1,3 +1,1 @@
-set @arun='2332';
-
-select @arun;
+select  @arun:=23;
