@@ -9,4 +9,4 @@ show grants for  'apex'@'localhost';
 +------------------------------------------+
  */
 
- grant 
+ grant delete on 'apex'
