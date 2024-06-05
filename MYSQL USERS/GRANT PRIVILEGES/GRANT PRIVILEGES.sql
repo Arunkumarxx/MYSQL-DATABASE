@@ -1,4 +1,4 @@
 create user 'abcuser'@'localhost';
 
 use personal_database;
-grant create,update 
+grant create,update  on personal_database
