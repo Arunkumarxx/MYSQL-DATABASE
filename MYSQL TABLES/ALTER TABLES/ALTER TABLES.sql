@@ -1,4 +1,4 @@
 /*
  we use this alter clause for alter table which
- means for modify some thing in table including table name 
+ means for modify some thing in table 
  */
