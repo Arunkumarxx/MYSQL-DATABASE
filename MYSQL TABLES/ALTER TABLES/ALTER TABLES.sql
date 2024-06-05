@@ -4,7 +4,13 @@
  */
 show columns  from customer;
 /*
- 
+ +-------+--------------+------+-----+---------+-------+
+| Field | Type         | Null | Key | Default | Extra |
++-------+--------------+------+-----+---------+-------+
+| id    | varchar(255) | NO   | PRI | NULL    |       |
+| name  | varchar(255) | YES  |     | NULL    |       |
++-------+--------------+------+-----+---------+-------+
  */
 alter table customer
 modify id varchar(255);
+
