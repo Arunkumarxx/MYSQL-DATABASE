@@ -106,3 +106,5 @@ select current_user();
 | root@localhost |
 +----------------+
  */
+
+select user, host,
