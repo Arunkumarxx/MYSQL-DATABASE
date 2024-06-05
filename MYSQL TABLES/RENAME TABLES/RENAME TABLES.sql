@@ -1,2 +1,3 @@
 show tables;
 
+rename table 
