@@ -1,1 +1,4 @@
-GRANT privilege_type ON database_name.table_name TO 'username'@'host';
+
+
+GRANT privilege_type ON database_name.table_name TO 'Arunkumarxx'@'locahost';
+
