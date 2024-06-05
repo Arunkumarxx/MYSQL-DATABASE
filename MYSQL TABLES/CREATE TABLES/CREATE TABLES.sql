@@ -1,4 +1,4 @@
 create table customer
 (
-    id int 
+    id int unique 
 )
