@@ -48,4 +48,4 @@ show tables;
 +-----------------------------+------------+
 13 rows in set (0.00 sec)
  */
- show tables in personal_database like ''
+ show tables in personal_database like 'c%';
