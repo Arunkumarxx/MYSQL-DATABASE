@@ -6,3 +6,4 @@ show tables;
 
 
 rename table arunx to arunxx , arunxx to temp;
+
