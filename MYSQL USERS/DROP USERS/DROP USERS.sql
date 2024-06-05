@@ -9,4 +9,4 @@ create role 'myAdmin';
 
 drop role 'myAdmin';
 
-drop user if exists  
+drop user if exists  'myAdmin';
