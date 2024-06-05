@@ -8,3 +8,4 @@ select user from mysql.user;
 create role 'myAdmin';
 
 drop role 'myAdmin';
+
