@@ -1,2 +1,2 @@
 update user
-set authen
+set authentication
