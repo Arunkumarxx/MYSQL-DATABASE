@@ -1,1 +1,1 @@
-create user 'apex'
+create user 'apex'@'localhost';
