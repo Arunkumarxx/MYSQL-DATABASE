@@ -12,4 +12,4 @@ select user from mysql.user;
  */
 
  update user
- 
+ set pass=
