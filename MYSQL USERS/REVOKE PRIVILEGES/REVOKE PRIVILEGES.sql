@@ -1,1 +1,0 @@
-drop user 'abcuser'@'localhost';
