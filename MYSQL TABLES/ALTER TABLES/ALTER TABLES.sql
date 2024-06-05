@@ -3,7 +3,7 @@
  means for modify some values in table
  */
  alter table customer
-     
+rename column  
 
 alter table customer
 modify id varchar(255);
