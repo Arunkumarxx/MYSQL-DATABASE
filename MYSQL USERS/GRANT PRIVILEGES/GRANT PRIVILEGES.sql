@@ -1,2 +1,1 @@
-drop user arunkumart
-;
+drop user 
