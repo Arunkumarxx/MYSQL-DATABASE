@@ -1,1 +1,1 @@
-create user 'arun'@'temphost' 
+create user 'arun'@'temphost' identified by 
