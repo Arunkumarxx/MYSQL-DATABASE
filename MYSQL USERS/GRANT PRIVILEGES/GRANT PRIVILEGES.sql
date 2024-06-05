@@ -5,4 +5,3 @@ grant create,update  on personal_database.customers to 'abcuser'@'localhost';
 
 set password for 'abcuser'@'localhost'='some';
 
-show privileges  ;
