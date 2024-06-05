@@ -13,4 +13,4 @@ select user from mysql.user;
 
  update user
  set pass=PASSWORD('arun')
- where user ='Arunkumarxx'
+ where user ='Arunkumarxx' and host='localhost';
