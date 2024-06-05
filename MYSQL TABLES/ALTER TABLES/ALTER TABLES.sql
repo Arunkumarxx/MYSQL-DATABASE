@@ -23,4 +23,4 @@ alter id  drop default ;
 rename table personal_database.customer to  temss;
 
 alter table temss
-add 
+add primary key 
