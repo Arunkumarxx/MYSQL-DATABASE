@@ -3,4 +3,4 @@
  means for modify some values in table
  */
 alter table customer
-rename personal_database.customer.id to 
+rename personal_database.customer.id to
