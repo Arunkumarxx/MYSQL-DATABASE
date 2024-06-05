@@ -21,4 +21,4 @@ alter table customer
 alter id  drop default ;
 
 alter table customer
-rename personal_database.customer to 'temp';
+modify rename personal_database.customer to 'temp';
