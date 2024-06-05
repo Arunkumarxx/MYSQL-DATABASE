@@ -85,5 +85,5 @@ FROM mysql.user;
 | localhost | mysql.session    | NULL            | Y              |
 | localhost | mysql.sys        | NULL            | Y              |
 | localhost | root             | NULL            | N              |
-+-----------+------------------+-----------------+----------------+
++-----------+------------------+-----------------+----------------+ 
  */
