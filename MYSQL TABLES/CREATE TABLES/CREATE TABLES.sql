@@ -1,1 +1,1 @@
-drop user 
+drop user 'apex'@'localhost';
