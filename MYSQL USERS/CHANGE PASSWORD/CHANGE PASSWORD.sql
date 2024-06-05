@@ -10,4 +10,4 @@ select user from mysql.user;
 | root             |
 +------------------+
  */
- 
+
