@@ -73,4 +73,5 @@ U[n55lm7jZOCPKPcKK37fscdJYBgU7A5kUsNEg9Lj0vf5 | N                | 2024-05-22 22
 | User_attributes          | json                              | YES  |     | NULL                  |       |
 +--------------------------+-----------------------------------+------+-----+-----------------------+-------+
  */
-
+SELECT Host, User, User_attributes, account_locked
+FROM mysql.user;
