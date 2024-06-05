@@ -1,1 +1,2 @@
-alter user 'apex'@'localhost' ;
+
+alter user 'apex'@'localhost' account lock ;
