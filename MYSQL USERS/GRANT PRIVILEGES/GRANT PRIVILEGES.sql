@@ -1,1 +1,1 @@
-set password for user
+set password for ''
