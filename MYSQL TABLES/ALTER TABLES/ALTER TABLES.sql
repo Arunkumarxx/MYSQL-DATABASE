@@ -14,3 +14,4 @@ show columns  from customer;
 alter table customer
 modify id varchar(255);
 
+alter table 
