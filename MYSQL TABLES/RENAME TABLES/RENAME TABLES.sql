@@ -1,3 +1,3 @@
 show tables;
 
-rename table temp to 
+rename table temp to arunx;
