@@ -17,4 +17,3 @@ modify id varchar(255);
 alter table customer
 alter id set default 100;
 
-show columns  from customer;
