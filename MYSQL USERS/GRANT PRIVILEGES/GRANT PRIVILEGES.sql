@@ -1,1 +1,1 @@
-set password for 'Arunkumarxx'@'localhost'=''
+set password for 'Arunkumarxx'@'localhost'='some';
