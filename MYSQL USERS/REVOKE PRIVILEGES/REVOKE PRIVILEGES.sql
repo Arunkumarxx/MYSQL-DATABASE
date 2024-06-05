@@ -1,1 +1,1 @@
-drop user 'ab';
+drop user 'abcuser';
