@@ -98,4 +98,4 @@ select user();
 +----------------+
  */
 
- select user from mysql.user;
+ select * from mysql.user;
