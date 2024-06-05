@@ -1,1 +1,2 @@
-drop user 
+drop user abcuser
+;
