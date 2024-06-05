@@ -1,1 +1,1 @@
-grant update,
+create user ''
