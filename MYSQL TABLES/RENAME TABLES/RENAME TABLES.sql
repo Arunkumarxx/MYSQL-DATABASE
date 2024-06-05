@@ -5,3 +5,4 @@ rename table temp to arunx;
 show tables;
 
 
+rename table 
