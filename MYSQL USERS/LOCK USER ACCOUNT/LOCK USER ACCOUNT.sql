@@ -6,4 +6,4 @@ Query OK, 0 rows affected (0.01 sec)
 
  */
 
-select user  from mysql.user;
+select user,  from mysql.user;
