@@ -1,2 +1,2 @@
-select user,host,acccount_locked from mysql.user;
+select user,host,account_locked from mysql.user;
 
