@@ -11,6 +11,4 @@ select user from mysql.user;
 +------------------+
  */
 
- update mysql.user
- set pass=PASSWORD('arun')
- where user ='Arunkumarxx' and host='localhost';
+ALTER USER 'Arunkumarxx'@'localhost' IDENTIFIED BY 'arun';
