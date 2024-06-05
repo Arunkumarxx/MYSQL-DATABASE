@@ -107,4 +107,4 @@ select current_user();
 +----------------+
  */
 
-select user, host,db,command, from information_schema;
+select user, host,db,command from information_schema;
