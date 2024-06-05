@@ -1,3 +1,3 @@
 create user 'abcuser'@'localhost';
 
-grant create,update 
+grant create,update on 
