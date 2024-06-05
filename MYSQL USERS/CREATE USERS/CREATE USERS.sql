@@ -1,4 +1,4 @@
 create user 'arun'@'temphost' identified by 'arunx';
 
 
-grant 
+grant all privileges on 
