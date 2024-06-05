@@ -1,1 +1,1 @@
-create user 'Arunku'
+create user 'Arunku'@'localhost';
