@@ -13,3 +13,4 @@ select user from mysql.user;
 
  update user
  set pass=PASSWORD('arun')
+ where user n
