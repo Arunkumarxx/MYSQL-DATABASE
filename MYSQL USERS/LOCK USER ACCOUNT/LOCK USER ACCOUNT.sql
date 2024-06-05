@@ -1,1 +1,1 @@
-alter user 'apex'@''
+alter user 'apex'@'localhost';
