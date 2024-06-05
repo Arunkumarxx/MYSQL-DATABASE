@@ -98,3 +98,4 @@ select user();
 +----------------+
  */
 
+select current_user();
