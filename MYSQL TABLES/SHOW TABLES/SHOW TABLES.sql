@@ -50,3 +50,14 @@ show tables;
  */
 
  show tables in personal_database like 'c%';
+/*
+ +----------------------------------+
+| Tables_in_personal_database (c%) |
++----------------------------------+
+| categories                       |
+| customer                         |
+| customerid name                  |
+| customers                        |
++----------------------------------+
+4 rows in set (0.00 sec)
+ */
