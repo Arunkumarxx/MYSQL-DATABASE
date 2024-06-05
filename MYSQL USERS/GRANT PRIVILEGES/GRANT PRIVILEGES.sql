@@ -1,1 +1,1 @@
-grant 
+grant update,
