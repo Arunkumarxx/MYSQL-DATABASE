@@ -91,5 +91,5 @@ FROM mysql.user;
 
 select user();
 /*
- 
+
  */
