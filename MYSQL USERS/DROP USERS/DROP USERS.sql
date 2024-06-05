@@ -1,1 +1,1 @@
-drop user if exists ''
+drop user if exists 'arun'@'localhost'
