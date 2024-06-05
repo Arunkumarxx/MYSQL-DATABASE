@@ -8,4 +8,5 @@ show grants for  'apex'@'localhost';
 | GRANT USAGE ON *.* TO `apex`@`localhost` |
 +------------------------------------------+
  */
- 
+
+ grant 
