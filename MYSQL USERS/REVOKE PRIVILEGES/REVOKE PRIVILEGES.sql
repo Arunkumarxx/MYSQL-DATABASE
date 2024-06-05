@@ -1,1 +1,0 @@
-grant delete 
