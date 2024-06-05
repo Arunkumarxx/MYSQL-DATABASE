@@ -15,4 +15,4 @@ alter table customer
 modify id varchar(255);
 
 alter table customer
-alter 
+alter id set default 100;
