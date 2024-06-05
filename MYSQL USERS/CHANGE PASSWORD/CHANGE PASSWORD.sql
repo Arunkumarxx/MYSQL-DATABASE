@@ -11,3 +11,6 @@ select user from mysql.user;
 +------------------+
  */
 
+UPDATE user
+SET authentication_string = PASSWORD('xxxxxx')
+WHERE User = 'sample' AND Host = 'localhost';
