@@ -1,3 +1,3 @@
 create user 'Arunku'@'localhost';
 
-grant 
+grant delete,
