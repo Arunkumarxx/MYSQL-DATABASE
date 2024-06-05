@@ -15,3 +15,15 @@ select user,host,account_locked from mysql.user;
  alter user 'apex'@'localhost' account unlock ;
 
 select user,account_locked from mysql.user;
+/*
+ +------------------+----------------+
+| user             | account_locked |
++------------------+----------------+
+| Arunkumarxx      | N              |
+| apex             | N              |
+| mysql.infoschema | Y              |
+| mysql.session    | Y              |
+| mysql.sys        | Y              |
+| root             | N              |
++------------------+----------------+
+ */
