@@ -1,1 +1,1 @@
-select user, from mysql.user;
+select user from mysql.user;
