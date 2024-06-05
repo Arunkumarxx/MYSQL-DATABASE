@@ -26,4 +26,4 @@ alter table temss
 add primary key (id);
 
 alter table  customer
-add constraint id 
+add constraint id unique 
