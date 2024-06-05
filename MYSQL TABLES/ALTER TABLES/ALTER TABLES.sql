@@ -15,4 +15,3 @@ alter table customer
 modify id varchar(255);
 
 alter table customer
-drop index 
