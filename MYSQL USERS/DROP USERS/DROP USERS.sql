@@ -9,4 +9,3 @@ create role 'myAdmin';
 
 drop role 'myAdmin';
 
-drop user myAdmin'@localhost';
