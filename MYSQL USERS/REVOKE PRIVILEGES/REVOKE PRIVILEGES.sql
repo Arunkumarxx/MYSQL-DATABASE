@@ -13,3 +13,4 @@ show grants for  'apex'@'localhost';
 
 show grants for 'apex'@'localhost';
 
+revoke delete 
