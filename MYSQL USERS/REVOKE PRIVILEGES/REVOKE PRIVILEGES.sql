@@ -17,3 +17,4 @@ revoke delete on personal_database.customers from  'apex'@'localhost';
 
 show grants  for 'apex'@'localhost';
 
+grant all privileges  
