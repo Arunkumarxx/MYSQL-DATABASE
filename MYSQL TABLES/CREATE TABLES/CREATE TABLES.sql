@@ -4,4 +4,4 @@ create table customer
     name varchar(255)
 );
 
-show tables 
+show tables from personal_database;
