@@ -1,1 +1,1 @@
-drop user 'abcuser'@'';
+drop user 'abcuser'@'localhost';
