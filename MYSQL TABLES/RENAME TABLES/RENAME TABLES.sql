@@ -1,3 +1,3 @@
 show tables;
 
-rename table temss to 
+rename table temss 
