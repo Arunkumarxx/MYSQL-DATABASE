@@ -1,4 +1,5 @@
-set password for 'Arunkumarxx'@'localhost'='some';
+
+set password for 'Arunkumarxx'@'localhost'='arun';
 
 /*
  personal_database> set password for 'Arunkumarxx'@'localhost'='some'
