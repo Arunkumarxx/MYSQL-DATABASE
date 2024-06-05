@@ -1,4 +1,4 @@
 create table customer
 (
-    id int unique 
+    id int unique primary key 
 )
