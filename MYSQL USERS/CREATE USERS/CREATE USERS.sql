@@ -1,3 +1,3 @@
 create user 'arun'@'temphost' identified by 'arunx';
 
-drop user ''
+drop user 'arun'@'temphost';
