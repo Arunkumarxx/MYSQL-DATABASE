@@ -91,5 +91,11 @@ FROM mysql.user;
 
 select user();
 /*
-
++----------------+
+| user()         |
++----------------+
+| root@localhost |
++----------------+
  */
+
+ select user from mysql.user;
