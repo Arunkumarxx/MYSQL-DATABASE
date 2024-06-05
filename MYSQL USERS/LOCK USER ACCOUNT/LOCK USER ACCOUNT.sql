@@ -1,1 +1,1 @@
-alter user ''
+alter user 
