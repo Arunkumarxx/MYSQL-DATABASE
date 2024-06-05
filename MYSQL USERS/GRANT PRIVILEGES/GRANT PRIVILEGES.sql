@@ -9,3 +9,4 @@ personal_database> set password for 'Arunkumarxx'@'localhost'='some'
  */
 
  set password ='some';
+
