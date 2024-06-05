@@ -1,3 +1,3 @@
 show tables;
 
-rename table tem
+rename table temp to 
