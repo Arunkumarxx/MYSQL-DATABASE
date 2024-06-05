@@ -3,3 +3,4 @@
  means for modify some values in table
  */
 alter table customer
+rename 
