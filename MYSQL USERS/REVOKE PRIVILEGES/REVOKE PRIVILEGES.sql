@@ -13,4 +13,4 @@ show grants for  'apex'@'localhost';
 
 show grants for 'apex'@'localhost';
 
-revoke delete on personal_database.customers 
+revoke delete on personal_database.customers from 
