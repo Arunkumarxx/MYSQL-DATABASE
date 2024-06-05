@@ -1,1 +1,1 @@
-show privileges 
+show privileges ;
