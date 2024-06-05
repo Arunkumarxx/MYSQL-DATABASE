@@ -18,4 +18,4 @@ alter table customer
 alter id set default 100;
 
 alter table customer
-alter   drop default ;
+alter id  drop default ;
