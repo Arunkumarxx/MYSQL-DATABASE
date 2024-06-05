@@ -3,4 +3,4 @@
  means for modify some values in table
  */
 alter table customer
-modify id 
+modify id varchar(255);
