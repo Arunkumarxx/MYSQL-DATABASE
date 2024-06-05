@@ -28,3 +28,23 @@ show tables;
  */
 
  show full tables;
+/*
+ +-----------------------------+------------+
+| Tables_in_personal_database | Table_type |
++-----------------------------+------------+
+| categories                  | BASE TABLE |
+| customer                    | BASE TABLE |
+| customerid name             | VIEW       |
+| customers                   | BASE TABLE |
+| datatypes                   | BASE TABLE |
+| employees                   | BASE TABLE |
+| orderdetails                | BASE TABLE |
+| orders                      | BASE TABLE |
+| parent                      | BASE TABLE |
+| products                    | BASE TABLE |
+| shippers                    | BASE TABLE |
+| suppliers                   | BASE TABLE |
+| temp                        | BASE TABLE |
++-----------------------------+------------+
+13 rows in set (0.00 sec)
+ */
