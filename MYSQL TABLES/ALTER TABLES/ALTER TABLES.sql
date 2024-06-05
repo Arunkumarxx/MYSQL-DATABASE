@@ -25,4 +25,4 @@ rename table personal_database.customer to  temss;
 alter table temss
 add primary key (id);
 
-alter table 
+alter table  customer
