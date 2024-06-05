@@ -20,5 +20,4 @@ alter id set default 100;
 alter table customer
 alter id  drop default ;
 
-alter table customer
-modify rename personal_database.customer to 'temp';
+rename table 
