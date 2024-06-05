@@ -108,3 +108,17 @@ select current_user();
  */
 
 select user, host,db,command from information_schema.processlist;
+
+/*
+ mysql> select user, host,db,command from information_schema.processlist;
++-----------------+-----------------+-------------------+---------+
+| user            | host            | db                | command |
++-----------------+-----------------+-------------------+---------+
+| Arunkumarxx     | localhost:61146 | personal_database | Sleep   |
+| Arunkumarxx     | localhost:58625 | personal_database | Sleep   |
+| event_scheduler | localhost       | NULL              | Daemon  |
+| Arunkumarxx     | localhost:49762 | personal_database | Sleep   |
+| root            | localhost:49792 | NULL              | Query   |
++-----------------+-----------------+-------------------+---------+
+5 rows in set, 1 warning (0.01 sec)
+ */
