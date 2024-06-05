@@ -10,5 +10,4 @@ select user from mysql.user;
 | root             |
 +------------------+
  */
-
-create user 'arunkumart'@'localhost' identified  by 'arunk';
+ 
