@@ -1,1 +1,1 @@
-create user 
+create user ''
