@@ -10,3 +10,4 @@ show grants for  'apex'@'localhost';
  */
 
  grant delete on  personal_database.customers to  'apex'@'localhost';
+
