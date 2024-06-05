@@ -1,1 +1,1 @@
-create user 'arunx@'
+create user 'arun'@'ds'
