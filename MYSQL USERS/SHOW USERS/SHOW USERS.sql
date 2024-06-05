@@ -75,3 +75,15 @@ U[n55lm7jZOCPKPcKK37fscdJYBgU7A5kUsNEg9Lj0vf5 | N                | 2024-05-22 22
  */
 SELECT Host, User, User_attributes, account_locked
 FROM mysql.user;
+
+/*
+ +-----------+------------------+-----------------+----------------+
+| Host      | User             | User_attributes | account_locked |
++-----------+------------------+-----------------+----------------+
+| localhost | Arunkumarxx      | NULL            | N              |
+| localhost | mysql.infoschema | NULL            | Y              |
+| localhost | mysql.session    | NULL            | Y              |
+| localhost | mysql.sys        | NULL            | Y              |
+| localhost | root             | NULL            | N              |
++-----------+------------------+-----------------+----------------+
+ */
