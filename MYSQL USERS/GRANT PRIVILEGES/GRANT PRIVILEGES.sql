@@ -1,2 +1,1 @@
-update user
-set 
+set password for user
