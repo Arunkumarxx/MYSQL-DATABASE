@@ -3,6 +3,8 @@
  means for modify some values in table
  */
 show columns  from customer;
-
+/*
+ 
+ */
 alter table customer
 modify id varchar(255);
