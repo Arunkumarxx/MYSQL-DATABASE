@@ -1,3 +1,3 @@
 create user 'apex'@'localhost';
 
-show p
+show grants for  'apex'@'localhost';
