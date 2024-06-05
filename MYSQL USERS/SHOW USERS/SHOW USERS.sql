@@ -99,7 +99,10 @@ select user();
  */
 
 select current_user();
-
 /*
-
++----------------+
+| current_user() |
++----------------+
+| root@localhost |
++----------------+
  */
