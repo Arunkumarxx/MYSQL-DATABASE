@@ -1,4 +1,4 @@
 create user 'arun'@'temphost' identified by 'arunx';
 
 
-select now();
+CREATE USER 'sample'@'localhost' IDENTIFIED BY '123456';
