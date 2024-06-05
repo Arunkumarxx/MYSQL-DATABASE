@@ -1,1 +1,1 @@
-create view 
+create view viewname select * from customers
