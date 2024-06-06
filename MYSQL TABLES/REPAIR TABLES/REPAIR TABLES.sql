@@ -1,2 +1,3 @@
 alter table customers
-engine =
+engine =myIsam;
+
