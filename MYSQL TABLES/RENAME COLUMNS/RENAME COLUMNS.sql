@@ -5,4 +5,5 @@ rename column CustomerID to customerIDs;
 
 select * from customers;
 
-delete 
+delete  from customers
+where customerIDs>
