@@ -4,5 +4,3 @@ create table testOne (
 );
 
 insert into testone  values(1,'Arunkumar');
-
-select * from testOne;
