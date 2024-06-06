@@ -27,4 +27,4 @@ desc customers;
 
 show columns  from customers;
 
-explain 
+explain customers;
