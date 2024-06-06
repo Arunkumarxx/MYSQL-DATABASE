@@ -1,3 +1,4 @@
-show  full columns from customers like "c%";
+show  full columns in  customers like "c%";
+
 
 
