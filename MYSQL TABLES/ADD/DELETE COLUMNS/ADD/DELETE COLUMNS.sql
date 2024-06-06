@@ -19,4 +19,4 @@ drop column blood;
 desc  testOne;
 
 alter table testOne
-modify 
+modify blood 
