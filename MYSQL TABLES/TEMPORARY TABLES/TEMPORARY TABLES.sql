@@ -9,6 +9,3 @@ end //delimiter ;
 call calls();
 
 show tables;
-
-alter table personal_database
-where table name like 't%';
