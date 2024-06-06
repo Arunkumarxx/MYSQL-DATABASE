@@ -1,4 +1,7 @@
 delimiter //
-create procedure 
+create procedure call()
+begin
+    
+end //
 
 // delimiter ;
