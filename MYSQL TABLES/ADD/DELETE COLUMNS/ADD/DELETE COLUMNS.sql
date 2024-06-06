@@ -10,3 +10,5 @@ select * from testOne;
 alter table testOne
 add column blood varchar(255);
 
+select *
+from testOne;
