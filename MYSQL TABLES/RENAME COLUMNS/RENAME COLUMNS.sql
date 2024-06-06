@@ -1,3 +1,3 @@
 select * from customers;
 
-alter table 
+alter table customers
