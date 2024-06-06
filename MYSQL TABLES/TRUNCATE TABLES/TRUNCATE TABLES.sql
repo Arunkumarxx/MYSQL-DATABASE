@@ -107,5 +107,5 @@ truncate table detail;
 select * from detail;
 
 /*
-
+empty set
  */
