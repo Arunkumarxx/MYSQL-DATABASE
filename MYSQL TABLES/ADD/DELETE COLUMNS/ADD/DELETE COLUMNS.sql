@@ -8,4 +8,4 @@ insert into testone  values(1,'Arunkumar');
 select * from testOne;
 
 alter table testOne
-add column blood 
+add column blood varchar(255);
