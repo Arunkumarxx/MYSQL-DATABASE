@@ -10,4 +10,4 @@ call calls();
 
 show tables;
 
-drop table 
+alter table 
