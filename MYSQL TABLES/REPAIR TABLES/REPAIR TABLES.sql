@@ -1,1 +1,2 @@
 alter table customers
+engine =
