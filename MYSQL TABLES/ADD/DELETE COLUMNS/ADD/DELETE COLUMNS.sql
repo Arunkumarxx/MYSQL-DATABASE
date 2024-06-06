@@ -1,5 +1,4 @@
 create table testOne (
-    
-    name varchar(255),
-
+    id int ,
+    name varchar(255)
 );
