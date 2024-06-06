@@ -8,4 +8,4 @@ repair table customers extended ;
 repair table customers quick ;
 
 
-repair table customers;
+repair table customers ;
