@@ -1,1 +1,1 @@
-show columns 
+show columns from customers like ""
