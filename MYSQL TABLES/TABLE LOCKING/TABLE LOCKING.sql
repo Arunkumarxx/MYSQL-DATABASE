@@ -1,1 +1,1 @@
-lock tables customers 
+lock tables customers read;
