@@ -5,3 +5,6 @@ begin
     customers;
     select * from temp;
 end //delimiter ;
+
+
+select
