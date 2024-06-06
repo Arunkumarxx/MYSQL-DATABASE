@@ -10,5 +10,7 @@ select * from testOne;
 alter table testOne
 add column blood varchar(255) default ('undefined');
 
+select *
+from testOne;
 alter table testOne
 drop column blood;
