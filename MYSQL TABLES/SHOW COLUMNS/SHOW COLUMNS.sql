@@ -14,3 +14,6 @@ show columns  from customers;
 7 rows in set (0.00 sec)
  */
 show  full columns in  customers like "c%";
+/*
+ 
+ */
