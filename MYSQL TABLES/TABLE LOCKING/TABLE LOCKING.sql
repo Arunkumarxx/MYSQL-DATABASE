@@ -1,1 +1,1 @@
-lock table 
+lock table customer 
