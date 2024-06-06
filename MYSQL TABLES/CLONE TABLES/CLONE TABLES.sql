@@ -1,2 +1,2 @@
 
-create table detail as select * from customer;
+create table detail as select * from customers;
