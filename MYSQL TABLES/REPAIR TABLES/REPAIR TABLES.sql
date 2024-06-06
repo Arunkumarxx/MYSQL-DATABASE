@@ -1,4 +1,4 @@
 alter table customers
 engine =myIsam;
 
-repair table 
+repair table customers 
