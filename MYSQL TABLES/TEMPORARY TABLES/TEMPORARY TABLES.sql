@@ -1,5 +1,4 @@
 delimiter //
-begin
+create procedure 
 
-end
 // delimiter ;
