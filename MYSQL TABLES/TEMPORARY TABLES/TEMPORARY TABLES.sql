@@ -1,1 +1,1 @@
-create temporary table 
+create temporary table userDetail
