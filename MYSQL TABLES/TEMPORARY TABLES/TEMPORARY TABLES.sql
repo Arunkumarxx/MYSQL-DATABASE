@@ -1,1 +1,1 @@
-create temporary 
+create temporary table 
