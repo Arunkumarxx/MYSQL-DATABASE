@@ -23,3 +23,4 @@ describe cust;
 5 rows in set (0.00 sec)
  */
 
+desc customers;
