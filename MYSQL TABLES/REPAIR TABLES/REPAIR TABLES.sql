@@ -1,4 +1,4 @@
-# make sure take backup before repair otherwise may 
+# make sure take backup before repair otherwise may data loss 
 
 alter table customers
 engine =myIsam;
