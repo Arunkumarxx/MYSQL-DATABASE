@@ -1,6 +1,6 @@
 create temporary table userDetail
 (
     id int ,
-    name varchar(255),
-    
+    name varchar(255)
+
 );
