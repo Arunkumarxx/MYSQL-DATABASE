@@ -10,4 +10,5 @@ call calls();
 
 show tables;
 
-alter table 
+alter table personal_database
+where table name like 't%'
