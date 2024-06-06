@@ -1,5 +1,5 @@
 delimiter //
-create procedure calls()
+create procedure callss()
 begin
     create temporary  table tempxx as select customers.CustomerID, customers.CustomerName from
     customers;
