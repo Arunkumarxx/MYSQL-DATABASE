@@ -5,4 +5,4 @@ rename column CustomerID to customerIDs;
 
 select * from customers;
 
-alter table customer
+alter table 
