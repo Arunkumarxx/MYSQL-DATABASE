@@ -1,4 +1,4 @@
-describe  table customers;
+describe  table shippers;
 /*
  mysql> describe  table customers;
 +----+-------------+-----------+------------+------+---------------+------+---------+------+------+----------+-------+
