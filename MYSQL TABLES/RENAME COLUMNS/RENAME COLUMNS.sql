@@ -1,4 +1,4 @@
 select * from customers;
 
 alter table customers
-rename column 
+rename column customterID
