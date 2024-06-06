@@ -103,4 +103,3 @@ select * from customers;
 91 rows in set (0.00 sec)
  */
 
- 
