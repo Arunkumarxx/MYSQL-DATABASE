@@ -1,1 +1,1 @@
-drop  if exists aprocedure GetCustomers;
+drop  procedure GetCustomers;
