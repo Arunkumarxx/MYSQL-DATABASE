@@ -7,4 +7,4 @@ insert into testone  values(1,'Arunkumar');
 
 select * from testOne;
 
-alter table 
+alter table testOne
