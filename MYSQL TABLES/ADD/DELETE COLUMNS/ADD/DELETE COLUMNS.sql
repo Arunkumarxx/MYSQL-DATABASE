@@ -1,1 +1,1 @@
-drop procedure ;
+drop procedure fun;
