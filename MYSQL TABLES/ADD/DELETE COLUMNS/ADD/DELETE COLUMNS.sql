@@ -1,2 +1,2 @@
-drop table detail2;
+drop table parent;
 
