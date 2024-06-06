@@ -1,1 +1,1 @@
-drop table cust;
+drop table ;
