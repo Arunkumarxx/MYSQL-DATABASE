@@ -6,5 +6,5 @@ truncate table detail;
 select * from detail;
 
 /*
- 
+
  */
