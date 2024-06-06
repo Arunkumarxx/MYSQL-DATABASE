@@ -7,5 +7,5 @@ begin
 end //delimiter ;
 
 call calls();
-drop table temss;
+
 show tables;
