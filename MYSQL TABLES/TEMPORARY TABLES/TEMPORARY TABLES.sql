@@ -9,3 +9,5 @@ end //delimiter ;
 call calls();
 
 show tables;
+
+drop table 
