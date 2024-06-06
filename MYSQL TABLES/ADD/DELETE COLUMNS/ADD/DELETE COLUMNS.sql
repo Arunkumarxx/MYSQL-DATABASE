@@ -1,1 +1,2 @@
-drop table detail;
+drop table detail2;
+
