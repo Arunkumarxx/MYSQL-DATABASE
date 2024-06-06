@@ -6,4 +6,4 @@ repair table customers extended ;
 repair table customers quick ;
 
 
-repair table 
+repair table customers;
