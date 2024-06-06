@@ -4,6 +4,7 @@ begin
     create temporary  table tempxx as select customers.CustomerID, customers.CustomerName from
     customers;
     select * from tempxx;
+    drop temporary tempxx;
 end //delimiter ;
 
 call calls();
@@ -131,4 +132,3 @@ show tables;
 +-----------------------------+
 13 rows in set (0.00 sec)
  */
-
