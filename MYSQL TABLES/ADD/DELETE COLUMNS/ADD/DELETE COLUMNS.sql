@@ -1,1 +1,1 @@
-drop procedure GetCustomers;
+drop procedure Price;
