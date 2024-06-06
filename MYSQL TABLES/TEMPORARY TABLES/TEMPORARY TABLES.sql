@@ -7,5 +7,5 @@ begin
 end //delimiter ;
 
 call calls();
-
+drop table temp;
 show tables;
