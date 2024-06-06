@@ -7,4 +7,5 @@ begin
 end //delimiter ;
 
 call calls();
-select * from customers;
+
+show tables;
