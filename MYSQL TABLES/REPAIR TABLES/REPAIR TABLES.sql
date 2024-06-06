@@ -1,1 +1,0 @@
-repair table customers;
