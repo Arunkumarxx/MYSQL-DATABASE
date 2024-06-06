@@ -3,4 +3,3 @@ create table testOne (
     name varchar(255)
 );
 
-show tables;
