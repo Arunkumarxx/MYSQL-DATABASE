@@ -1,4 +1,5 @@
 lock tables customers read;
 
 
-delete 
+delete from customers
+where customerIDs>90;
