@@ -1,1 +1,1 @@
-show columns  from 
+show columns  from customers;
