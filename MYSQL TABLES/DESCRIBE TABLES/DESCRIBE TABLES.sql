@@ -8,3 +8,4 @@ CREATE TABLE CUST
    PRIMARY KEY (ID)
 );
 
+describe cust;
