@@ -1,3 +1,5 @@
+# make sure take backup before repair otherwise may 
+
 alter table customers
 engine =myIsam;
 
