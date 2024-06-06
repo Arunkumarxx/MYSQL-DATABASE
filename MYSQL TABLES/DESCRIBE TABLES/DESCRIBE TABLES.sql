@@ -1,1 +1,1 @@
-describe  table 
+describe  table customers;
