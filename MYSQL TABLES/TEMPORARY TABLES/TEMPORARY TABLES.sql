@@ -6,5 +6,6 @@ begin
     select * from temp;
 end //delimiter ;
 
+
 call calls();
 select * from customers;
