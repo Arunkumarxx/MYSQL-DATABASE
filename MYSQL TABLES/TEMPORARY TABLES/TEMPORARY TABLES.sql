@@ -1,5 +1,5 @@
 delimiter //
 create procedure call()
 begin
-    create temporary  table 
+    create temporary  table temp 
 end //delimiter ;
