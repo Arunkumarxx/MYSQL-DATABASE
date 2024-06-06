@@ -7,4 +7,4 @@ begin
 end //delimiter ;
 
 
-select
+select * from customers;
