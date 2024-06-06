@@ -1,4 +1,4 @@
 alter table customers
 engine =myIsam;
 
-check table 
+check table customers;
