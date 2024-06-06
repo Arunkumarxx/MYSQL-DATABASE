@@ -25,4 +25,4 @@ describe cust;
 
 desc customers;
 
-show col
+show columns  from 
