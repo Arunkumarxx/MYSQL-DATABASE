@@ -18,4 +18,5 @@ drop column blood;
 
 desc  testOne;
 
+alter table
 
