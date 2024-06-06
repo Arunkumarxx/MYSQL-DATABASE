@@ -3,3 +3,4 @@ create table testOne (
     name varchar(255)
 );
 
+insert into testone() values;
