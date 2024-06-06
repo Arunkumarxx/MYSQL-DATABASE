@@ -1,1 +1,1 @@
-drop procedure fun;
+drop procedure create_temp_table;
