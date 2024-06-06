@@ -111,3 +111,25 @@ call calls();
  */
 show tables;
 
+/*
+ +-----------------------------+
+| Tables_in_personal_database |
++-----------------------------+
+| categories                  |
+| customerid name             |
+| customers                   |
+| datatypes                   |
+| detail                      |
+| detail2                     |
+| employees                   |
+| orderdetails                |
+| orders                      |
+| parent                      |
+| products                    |
+| shippers                    |
+| suppliers                   |
++-----------------------------+
+13 rows in set (0.00 sec)
+ */
+
+ 
