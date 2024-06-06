@@ -16,3 +16,4 @@ from testOne;
 alter table testOne
 drop column blood;
 
+desc 
