@@ -1,14 +1,8 @@
-describe  table shippers;
-/*
- mysql> describe  table customers;
-+----+-------------+-----------+------------+------+---------------+------+---------+------+------+----------+-------+
-| id | select_type | table     | partitions | type | possible_keys | key  | key_len | ref  | rows | filtered | Extra |
-+----+-------------+-----------+------------+------+---------------+------+---------+------+------+----------+-------+
-|  1 | SIMPLE      | customers | NULL       | ALL  | NULL          | NULL | NULL    | NULL |   94 |   100.00 | NULL  |
-+----+-------------+-----------+------------+------+---------------+------+---------+------+------+----------+-------+
-1 row in set, 1 warning (0.00 sec)
-
- */
-
-
-
+CREATE TABLE CUSTOMERS (
+   ID INT AUTO_INCREMENT,
+   NAME VARCHAR(20) NOT NULL,
+   AGE INT NOT NULL,
+   ADDRESS CHAR (25),
+   SALARY DECIMAL (18, 2),
+   PRIMARY KEY (ID)
+);
