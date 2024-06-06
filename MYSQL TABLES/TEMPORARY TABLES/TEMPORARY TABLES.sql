@@ -131,4 +131,4 @@ show tables;
 +-----------------------------+
 13 rows in set (0.00 sec)
  */
-drop temporary table tempxx;
+drop temporary table 
