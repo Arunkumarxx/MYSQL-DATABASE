@@ -1,2 +1,2 @@
 
-create table 
+create table detail 
