@@ -1,2 +1,2 @@
 select * from customers
-where customerIDs >5 or customerIDs<5
+where customerIDs >5 or customerIDs<10;
