@@ -1,2 +1,2 @@
 select * from customers
-where customerIDs >5 or customerIDs ;
+where customerIDs >5 or CustomerName like 'a%';
