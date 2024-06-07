@@ -101,6 +101,8 @@ from customers order by  ProductID asc ;
 +-----------+
 90 rows in set (0.00 sec)
  */
-
-
- 
+select ProductID
+from products
+union -- unique values of both columns
+select customerIDs
+from customers order by  ProductID asc ;
