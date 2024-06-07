@@ -33,3 +33,7 @@ select * from customers;
 
  select customers.CustomerName, customers.Country from customers
  where Country in('Mexico') or Country in ('Spain');
+
+/*
+ 
+ */
