@@ -5,4 +5,4 @@ select * from customers
 where customerIDs not  in (select ProductID from products);
 
 select * from customers
-where customerIDs 
+where customerIDs n
