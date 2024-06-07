@@ -1,2 +1,2 @@
 select * from products
-where  price 
+where  price <> 
