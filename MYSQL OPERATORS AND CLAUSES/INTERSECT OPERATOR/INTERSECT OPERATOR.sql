@@ -1,3 +1,4 @@
+
 select customerIDs,CustomerName,ProductName from customers
 inner join products on ProductID=customerIDs;
 /*
@@ -76,4 +77,3 @@ inner join products on ProductID=customerIDs;
 |          77 | The Big Cheese                       | Original Frankfurter grüne Soße  |
 +-------------+--------------------------------------+----------------------------------+
  */
- 
