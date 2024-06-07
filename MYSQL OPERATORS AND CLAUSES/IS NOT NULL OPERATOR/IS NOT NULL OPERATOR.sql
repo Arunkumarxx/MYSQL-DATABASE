@@ -13,7 +13,7 @@ where CustomerName is not null limit 5;
 5 rows in set (0.00 sec)
  */
 select * from products
-where SupplierID is not null ;
+where SupplierID is not null limit 10;
 /*
 
  */
