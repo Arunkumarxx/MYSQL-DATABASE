@@ -1,2 +1,2 @@
 select * from orders
-where OrderID 
+where exists()
