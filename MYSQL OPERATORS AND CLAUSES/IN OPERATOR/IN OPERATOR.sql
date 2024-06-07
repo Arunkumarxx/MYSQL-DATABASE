@@ -35,5 +35,20 @@ select * from customers;
  where Country in('Mexico') or Country in ('Spain');
 
 /*
-
++--------------------------------------+---------+
+| CustomerName                         | Country |
++--------------------------------------+---------+
+| NULL                                 | Mexico  |
+| Antonio Moreno Taquería              | Mexico  |
+| Bólido Comidas preparadas            | Spain   |
+| Centro comercial Moctezuma           | Mexico  |
+| FISSA Fabrica Inter. Salchichas S.A. | Spain   |
+| Galería del gastrónomo               | Spain   |
+| Godos Cocina Típica                  | Spain   |
+| Pericles Comidas clásicas            | Mexico  |
+| Romero y tomillo                     | Spain   |
+| Tortuga Restaurante                  | Mexico  |
++--------------------------------------+---------+
  */
+
+ 
