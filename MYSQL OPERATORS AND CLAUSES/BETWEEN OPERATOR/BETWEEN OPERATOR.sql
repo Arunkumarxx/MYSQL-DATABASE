@@ -1,2 +1,2 @@
-select *from categories
-where CategoryID between 10 and 20;
+select *from products
+where ProductID between 10 and 20;
