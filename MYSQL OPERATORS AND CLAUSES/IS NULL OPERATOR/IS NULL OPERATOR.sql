@@ -1,2 +1,2 @@
 select  * from products
-where products
+where price not null;
