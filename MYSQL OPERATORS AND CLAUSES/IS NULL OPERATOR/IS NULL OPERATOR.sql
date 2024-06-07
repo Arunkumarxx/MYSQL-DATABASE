@@ -1,3 +1,3 @@
 select  * from products
-where ProductName
+where ProductID
     is   null;
