@@ -18,4 +18,3 @@ where ProductID between 10 and 20 order by ProductID asc;
 9 rows in set (0.00 sec)
  */
 
- 
