@@ -3,4 +3,4 @@ where CustomerName not like'a%';
 
 
 select * from customers
-where CustomerName 
+where CustomerName not between  10 and 40;
