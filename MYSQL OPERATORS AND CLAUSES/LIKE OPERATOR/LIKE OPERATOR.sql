@@ -3,4 +3,4 @@ where CustomerName like 'a%';
 
 
 select orders.ProductID from products
-where ProductName like '%a%'
+where ProductName like '%a%';
