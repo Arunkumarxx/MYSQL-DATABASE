@@ -1,2 +1,2 @@
 select * from customers
-where  >any(select customerIDs from customers)
+where 23 >any(select customerIDs from customers);
