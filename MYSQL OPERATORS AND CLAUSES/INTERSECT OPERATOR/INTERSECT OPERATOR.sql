@@ -1,2 +1,2 @@
 SELECT * FROM customers
-where exists()
+where exists(select )
