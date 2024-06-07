@@ -1,4 +1,4 @@
-# intersect operator is 
+# intersect operator is ot 
 select customerIDs,CustomerName,ProductName from customers
 inner join products on ProductID=customerIDs;
 /*
