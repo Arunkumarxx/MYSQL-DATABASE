@@ -1,4 +1,4 @@
 #minus operator is not supported
 
 
-select  from customers
+select customerIDs from customers
