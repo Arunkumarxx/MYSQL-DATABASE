@@ -5,4 +5,4 @@ where CustomerName like 'a%';
 select ProductID from products
 where ProductName like '%a%';
 
-select 
+select customers.CustomerName from cust
