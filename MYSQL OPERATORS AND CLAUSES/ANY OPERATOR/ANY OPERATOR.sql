@@ -5,3 +5,4 @@ where 23 >any(select customerIDs from customers);
  */
 select *  from customers
 where customerIDs = all ( select customerIDs from customers);
+
