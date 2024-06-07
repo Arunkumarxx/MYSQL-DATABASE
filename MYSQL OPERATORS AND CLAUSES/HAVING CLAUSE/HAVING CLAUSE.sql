@@ -1,1 +1,1 @@
-select * from customers
+select customerIDs, from customers
