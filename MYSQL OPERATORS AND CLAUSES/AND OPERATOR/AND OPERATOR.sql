@@ -6,4 +6,3 @@ where CategoryID between  2 and 43;
 
 select * from orders
 where OrderID between 2 and 234;
-
