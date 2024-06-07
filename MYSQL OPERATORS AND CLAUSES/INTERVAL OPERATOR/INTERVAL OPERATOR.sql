@@ -1,1 +1,1 @@
-select ''
+select '2024'
