@@ -1,6 +1,5 @@
 select * from customers
 where CustomerName is not null limit 5;
-
 /*
 +-------------+-------------------------+--------------------+-----------------+-------------+----------+---------+
 | customerIDs | CustomerName            | ContactName        | Address         | City        | pincode  | Country |
@@ -13,4 +12,4 @@ where CustomerName is not null limit 5;
 +-------------+-------------------------+--------------------+-----------------+-------------+----------+---------+
 5 rows in set (0.00 sec)
  */
-
+select * from 
