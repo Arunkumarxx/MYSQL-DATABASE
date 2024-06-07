@@ -1,4 +1,4 @@
 #minus operator is not supported
 
 
-select * from customers
+select  from customers
