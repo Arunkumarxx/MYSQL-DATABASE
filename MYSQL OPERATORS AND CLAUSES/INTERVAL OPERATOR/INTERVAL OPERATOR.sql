@@ -15,5 +15,4 @@ select '2024-11-12' - interval 2 day + interval  3 hour as Result;
 | 2024-11-10 03:00:00 |
 +---------------------+
 1 row in set (0.00 sec)
-
  */
