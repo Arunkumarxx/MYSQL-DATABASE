@@ -1,2 +1,2 @@
 select * from customers
-where customerIDs >any(select customerIDs from cust)
+where customerIDs >any(select customerIDs from customers)
