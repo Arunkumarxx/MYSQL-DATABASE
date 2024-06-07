@@ -2,7 +2,7 @@
 
 select ProductID
 from products
-union all
+union 
 select customerIDs
 from customers order by  ProductID asc;
 /*
