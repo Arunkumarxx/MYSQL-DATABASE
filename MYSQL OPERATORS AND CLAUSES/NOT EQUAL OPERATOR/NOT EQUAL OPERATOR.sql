@@ -82,4 +82,4 @@ where  price <> 1 and price <>2;
   */
 
 select * from customers
-where customerIDs 
+where customerIDs <> 
