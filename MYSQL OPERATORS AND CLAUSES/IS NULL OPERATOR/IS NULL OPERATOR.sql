@@ -1,3 +1,2 @@
-select  * from products
-where ProductID
-    is   null;
+select  * from orderdetails
+where OrderID is   null;
