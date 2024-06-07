@@ -1,1 +1,1 @@
-select customerIDs, from customers
+select customerIDs,count(CustomerName) from customers
