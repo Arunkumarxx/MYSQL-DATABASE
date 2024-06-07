@@ -1,2 +1,2 @@
 SELECT * FROM customers
-where exists(select )
+where exists(select ProductID from products);
