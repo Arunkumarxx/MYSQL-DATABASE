@@ -1,2 +1,2 @@
 select * from customers
-where Country in ('')
+where Country in ('france','uk');
