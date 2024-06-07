@@ -1,10 +1,10 @@
 
-(
+
 select ProductID
 from products
 union all
 select customerIDs
-from customers) 
+from customers
 /*
  +-----------+
 | ProductID |
