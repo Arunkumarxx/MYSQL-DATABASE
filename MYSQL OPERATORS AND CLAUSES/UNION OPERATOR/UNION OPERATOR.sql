@@ -4,7 +4,7 @@ select ProductID
 from products
 union all
 select customerIDs
-from customers) order by ;
+from customers) order by ProductID asc;
 
 /*
  +-----------+
