@@ -1,1 +1,2 @@
-select *
+select * from products
+where  price 
