@@ -2,3 +2,4 @@
 
 
 select customerIDs from customers
+where customerIDs not 
