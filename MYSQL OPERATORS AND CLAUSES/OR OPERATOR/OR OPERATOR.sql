@@ -95,3 +95,5 @@ where customerIDs >5 or CustomerName like 'a%';
 |          90 | Wilman Kala                          |
 +-------------+--------------------------------------+
  */
+
+ 
