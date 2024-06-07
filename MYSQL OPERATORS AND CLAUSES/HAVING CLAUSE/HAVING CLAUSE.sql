@@ -3,4 +3,4 @@ group by customerIDs  having customerIDs>23;
 
 
 select * from cust
-group by 
+group by sum(SALARY) having 
