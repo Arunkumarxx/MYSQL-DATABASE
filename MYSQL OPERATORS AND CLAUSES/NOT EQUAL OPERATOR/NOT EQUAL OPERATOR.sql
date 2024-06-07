@@ -85,3 +85,21 @@ select * from customers
 where customerIDs <> 5
 order by customerIDs asc
 limit 10;
+
+/*
+ +-------------+---------------------------+--------------------+-------------------------------+-------------+---------+---------+
+| customerIDs | CustomerName              | ContactName        | Address                       | City        | pincode | Country |
++-------------+---------------------------+--------------------+-------------------------------+-------------+---------+---------+
+|           1 | Alfreds Futterkiste       | Maria Anders       | Obere Str. 57                 | Berlin      | 12209   | Germany |
+|           2 | NULL                      | Ana Trujillo       | Avda. de la Constitución 2222 | México D.F. | 05021   | Mexico  |
+|           3 | Antonio Moreno Taquería   | Antonio Moreno     | Mataderos 2312                | México D.F. | 05023   | Mexico  |
+|           4 | Around the Horn           | Thomas Hardy       | 120 Hanover Sq.               | London      | WA1 1DP | UK      |
+|           6 | Blauer See Delikatessen   | Hanna Moos         | Forsterstr. 57                | Mannheim    | 68306   | Germany |
+|           7 | Blondel père et fils      | Frédérique Citeaux | 24, place Kléber              | Strasbourg  | 67000   | France  |
+|           8 | Bólido Comidas preparadas | Martín Sommer      | C/ Araquil, 67                | Madrid      | 28023   | Spain   |
+|           9 | Bon app'                  | Laurence Lebihans  | 12, rue des Bouchers          | Marseille   | 13008   | France  |
+|          10 | Bottom-Dollar Marketse    | Elizabeth Lincoln  | 23 Tsawassen Blvd.            | Tsawassen   | T2F 8M4 | Canada  |
+|          11 | B's Beverages             | Victoria Ashworth  | Fauntleroy Circus             | London      | EC2 5NT | UK      |
++-------------+---------------------------+--------------------+-------------------------------+-------------+---------+---------+
+10 rows in set (0.00 sec)
+ */
