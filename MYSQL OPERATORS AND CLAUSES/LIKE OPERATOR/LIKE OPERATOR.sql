@@ -7,3 +7,4 @@ where ProductName like '%a%';
 
 select customers.CustomerName from customers
 where CustomerName not like '%d';
+
