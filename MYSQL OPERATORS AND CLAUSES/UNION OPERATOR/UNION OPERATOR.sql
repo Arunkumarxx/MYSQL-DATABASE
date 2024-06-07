@@ -1,9 +1,10 @@
+
+(
 select ProductID
 from products
-order by 
 union all
 select customerIDs
-from customers ;
+from customers) ;
 
 /*
  +-----------+
