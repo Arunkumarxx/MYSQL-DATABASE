@@ -1,2 +1,2 @@
 select  * from orderdetails
-where OrderDetailID  is   null;
+where OrderDetailID is   null;
