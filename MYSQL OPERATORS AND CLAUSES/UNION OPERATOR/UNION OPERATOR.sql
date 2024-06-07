@@ -1,5 +1,3 @@
-
-
 select ProductID
 from products
 union
