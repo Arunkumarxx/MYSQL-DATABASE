@@ -96,4 +96,4 @@ where customerIDs >5 or CustomerName like 'a%';
 +-------------+--------------------------------------+
  */
 
- select ;
+ select 0 or 1 or null;
