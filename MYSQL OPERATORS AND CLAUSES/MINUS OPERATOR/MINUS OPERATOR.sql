@@ -33,3 +33,9 @@ where customerIDs not  in (select ProductID from products);
 
 select * from customers
 where not exists(select ProductID from products);
+
+/*
+ mysql> select * from customers
+    -> where not exists(select ProductID from products);
+Empty set (0.00 sec)
+ */
