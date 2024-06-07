@@ -1,2 +1,3 @@
 select  * from products
-where price is   null;
+where ProductName
+    is   null;
