@@ -1,3 +1,5 @@
+select 
+
 select customerIDs,CustomerName,ProductName from customers
 inner join products on ProductID=customerIDs;
 /*
@@ -77,4 +79,3 @@ inner join products on ProductID=customerIDs;
 +-------------+--------------------------------------+----------------------------------+
  */
 
- 
