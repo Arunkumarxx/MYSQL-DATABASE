@@ -1,6 +1,6 @@
 select ProductID
 from products
-union
+union all
 select customerIDs
 from customers;
 
