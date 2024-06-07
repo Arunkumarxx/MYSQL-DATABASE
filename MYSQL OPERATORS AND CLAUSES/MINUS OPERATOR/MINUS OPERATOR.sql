@@ -1,2 +1,2 @@
 select customers.customerIDs from customers
-left join 
+left join products on ProductID
