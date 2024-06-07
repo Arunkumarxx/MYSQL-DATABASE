@@ -1,2 +1,2 @@
-select * from customers
+select customerIDs, from customers
 inner join products on ProductID=customerIDs;
