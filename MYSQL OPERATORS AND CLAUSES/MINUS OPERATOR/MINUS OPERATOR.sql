@@ -1,3 +1,3 @@
-select * from cust
+#minus operator is not supported
 
 
