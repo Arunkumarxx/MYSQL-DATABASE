@@ -1,5 +1,5 @@
 #minus operator is not supported
-# atlernat
+# atlernate we use this
 
 select customerIDs from customers
 where customerIDs not  in (select ProductID from products);
