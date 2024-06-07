@@ -35,5 +35,5 @@ select * from customers;
  where Country in('Mexico') or Country in ('Spain');
 
 /*
- 
+
  */
