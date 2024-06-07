@@ -1,2 +1,2 @@
 select * from orders
-where exists()
+where exists(select * from customers where customerIDs >50);
