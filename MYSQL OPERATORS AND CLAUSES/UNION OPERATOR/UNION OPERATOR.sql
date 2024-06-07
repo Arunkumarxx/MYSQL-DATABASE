@@ -103,6 +103,6 @@ from customers order by  ProductID asc ;
  */
 select ProductID
 from products
-union  all -- all values of both columns
+union  all --  values of both columns org and dup
 select customerIDs
 from customers order by  ProductID asc ;
