@@ -1,5 +1,5 @@
 select customerIDs,count(CustomerName) from customers
 group by customerIDs  having customerIDs>23;
 
-select ProductName, count(price) from products
-group by count() having count(price) <>1;
+select count( ProductName), (price) from products
+group by count(ProductName) having count(price) <>1;
