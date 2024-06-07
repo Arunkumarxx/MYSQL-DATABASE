@@ -1,4 +1,3 @@
-select customers.customerIDs  as UniqueRows from customers
-left join products on  ProductID<>customers.customerIDs ;
+select * from cust
 
 
