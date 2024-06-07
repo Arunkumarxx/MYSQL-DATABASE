@@ -14,4 +14,3 @@ where CustomerName is null;
 
  */
 
- 
