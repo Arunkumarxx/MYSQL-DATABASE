@@ -14,3 +14,6 @@ where CustomerName is not null limit 5;
  */
 select * from products
 where SupplierID is not null;
+/*
+
+ */
