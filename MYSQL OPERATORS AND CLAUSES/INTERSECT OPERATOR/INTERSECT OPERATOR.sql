@@ -1,6 +1,8 @@
 select customers.customerIDs from customers
-intersect
-select 
+
+    intersect
+
+select products.ProductID from products;
 
 select customerIDs,CustomerName,ProductName from customers
 inner join products on ProductID=customerIDs;
