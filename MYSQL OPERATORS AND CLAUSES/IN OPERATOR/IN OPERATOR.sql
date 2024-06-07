@@ -1,2 +1,2 @@
 select * from customers
-wh
+where Country in ('')
