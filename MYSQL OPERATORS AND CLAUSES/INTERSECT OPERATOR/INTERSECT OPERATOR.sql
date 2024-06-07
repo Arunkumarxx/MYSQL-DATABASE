@@ -1,4 +1,4 @@
-# intersect operator is not supported insead we use 
+# intersect operator is not supported insead we use inner  join
 select customerIDs,CustomerName,ProductName from customers
 inner join products on ProductID=customerIDs;
 /*
