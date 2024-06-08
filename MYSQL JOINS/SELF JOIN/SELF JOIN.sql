@@ -6,3 +6,5 @@ WHERE customer_id = 1;
 
 delete orders
 from orders
+left join customers
+on CUSTOMER_ID=id;
