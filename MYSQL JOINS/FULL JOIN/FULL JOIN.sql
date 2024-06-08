@@ -1,2 +1,2 @@
-select name,
-from customers
+select name,amount
+from customers join orders 
