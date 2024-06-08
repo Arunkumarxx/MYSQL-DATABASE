@@ -40,5 +40,5 @@ select id from customers;
 select ID,orders.AMOUNT from customers
 left join orders on CUSTOMER_ID =id;
 /*
- 
+
  */
