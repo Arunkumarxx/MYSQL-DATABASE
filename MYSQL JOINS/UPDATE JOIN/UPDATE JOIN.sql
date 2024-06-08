@@ -1,2 +1,2 @@
 update customers
-set 
+set customers.SALARY=
