@@ -1,3 +1,3 @@
 use sakila;
 
-select *from customers;
+select *from actor;
