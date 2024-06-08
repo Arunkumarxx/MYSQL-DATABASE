@@ -38,4 +38,4 @@ select id from customers;
 11 rows in set (0.00 sec)
  */
 select ID from customers
-left join orders on CUSTOMER_ID
+left join orders on CUSTOMER_ID =id;
