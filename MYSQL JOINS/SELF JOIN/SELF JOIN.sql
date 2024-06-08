@@ -6,5 +6,5 @@ WHERE customer_id = 1;
 
 delete customers
 from customers
-
+join orders on CUSTOMER_ID=id;
 
