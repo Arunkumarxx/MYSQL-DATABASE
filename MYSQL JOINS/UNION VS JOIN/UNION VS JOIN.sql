@@ -39,4 +39,3 @@ select id from customers;
  */
  select * from customers
  where SALARY
- =
