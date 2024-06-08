@@ -1,6 +1,6 @@
 use sakila;
 
 select 
-from rental,customers inner join
+from customers inner join
 customers on
 CustomerID=customers.CustomerID;
