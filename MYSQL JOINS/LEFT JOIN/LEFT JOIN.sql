@@ -2,4 +2,4 @@ use sakila;
 
 select *from actor;
 
-select 
+select rental.customer_id, 
