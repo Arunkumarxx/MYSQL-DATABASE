@@ -16,4 +16,3 @@ select id from customers;
 7 rows in set (0.00 sec)
  */
 
- 
