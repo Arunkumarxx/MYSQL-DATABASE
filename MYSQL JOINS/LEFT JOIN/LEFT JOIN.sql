@@ -1,4 +1,4 @@
-use sakila;
+create database personal_database;
 
 
 
