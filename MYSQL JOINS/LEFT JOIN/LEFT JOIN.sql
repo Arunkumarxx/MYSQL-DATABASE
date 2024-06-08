@@ -2,5 +2,5 @@ use sakila;
 
 select *from actor;
 
-select 
+select actor.first_name,
 
