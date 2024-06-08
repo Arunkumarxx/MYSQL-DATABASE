@@ -1,3 +1,3 @@
-create custom (
-    name 
+create table custom (
+    name var
               );
