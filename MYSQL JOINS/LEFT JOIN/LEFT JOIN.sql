@@ -1,4 +1,4 @@
-create database personal_database;
+use personal_database;
 
 
 
