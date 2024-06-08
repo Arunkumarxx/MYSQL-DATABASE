@@ -5,3 +5,4 @@ WHERE customer_id = 1;
 
 
 delete orders
+from orders
