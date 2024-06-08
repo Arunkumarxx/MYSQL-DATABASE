@@ -1,2 +1,1 @@
-delete name from customers
-join orders
+delete from orders
