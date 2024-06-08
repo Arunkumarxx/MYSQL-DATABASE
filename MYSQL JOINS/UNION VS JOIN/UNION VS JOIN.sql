@@ -40,5 +40,17 @@ select id from customers;
 select ID,orders.AMOUNT from customers
 left join orders on CUSTOMER_ID =id;
 /*
-
++----+---------+
+| ID | AMOUNT  |
++----+---------+
+|  1 |    NULL |
+|  2 | 1560.00 |
+|  3 | 1500.00 |
+|  3 | 3000.00 |
+|  4 | 2060.00 |
+|  5 |    NULL |
+|  6 |    NULL |
+|  7 |    NULL |
++----+---------+
+8 rows in set (0.00 sec)
  */
