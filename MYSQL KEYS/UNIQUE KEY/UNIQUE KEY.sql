@@ -1,3 +1,3 @@
 create table custom (
-    name var
-              );
+    name varchar(255) unique ,
+    id int    );
