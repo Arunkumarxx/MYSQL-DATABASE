@@ -1,6 +1,6 @@
 use sakila;
 
-select 
+select CustomerName
 from customers inner join
 customers on
 CustomerID=customers.CustomerID;
