@@ -19,3 +19,6 @@ select id from customers;
 select orders.CUSTOMER_ID from orders
 union all
 select id from customers;
+/*
+
+ */
