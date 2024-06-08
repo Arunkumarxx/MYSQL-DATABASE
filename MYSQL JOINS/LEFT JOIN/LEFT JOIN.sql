@@ -2,6 +2,7 @@ use sakila;
 
 select *from actor;
 
+alter table actor
 
 
 select actor.first_name,actor.last_name,film.title
