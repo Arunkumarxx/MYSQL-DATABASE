@@ -1,2 +1,2 @@
 update customers
-set customers.SALARY=
+set customers.SALARY=3000
