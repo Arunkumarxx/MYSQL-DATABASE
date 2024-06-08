@@ -1,4 +1,5 @@
 use sakila;
 
 select rental.customer_id ,customers.CustomerName
-from customers
+from customers,rental
+where customer_id 
