@@ -1,1 +1,1 @@
-delete name,
+delete name from customers
