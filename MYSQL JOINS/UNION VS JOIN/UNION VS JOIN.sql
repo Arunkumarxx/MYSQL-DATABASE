@@ -37,4 +37,6 @@ select id from customers;
 +-------------+
 11 rows in set (0.00 sec)
  */
- select 
+ select * from customers
+ where SALARY
+ =
