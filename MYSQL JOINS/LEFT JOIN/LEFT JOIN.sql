@@ -1,0 +1,1 @@
+select rental.customer_id ,
