@@ -3,4 +3,4 @@ create table custom (
     id int
 );
 
-insert into 
+insert into custom
