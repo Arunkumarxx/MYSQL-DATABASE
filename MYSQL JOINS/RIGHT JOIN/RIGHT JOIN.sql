@@ -1,2 +1,4 @@
-select id,name,amount,date from customers
-right join orders on CUSTOMER_ID=id;
+SELECT ID, NAME, AMOUNT, DATE
+FROM CUSTOMERS
+RIGHT JOIN ORDERS
+ON CUSTOMERS.ID = ORDERS.CUSTOMER_ID;
