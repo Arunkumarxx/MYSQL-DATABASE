@@ -1,3 +1,3 @@
-select orders.CUSTOMER_ID from customers
+select orders.CUSTOMER_ID from orders
 union
-select id from 
+select id from customers;
