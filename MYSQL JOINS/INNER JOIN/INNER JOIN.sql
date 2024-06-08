@@ -1,6 +1,6 @@
 use sakila;
 
 select CustomerName
-from customers, inner join
+from customers,actor inner join
 customers on
- =customers.CustomerID;
+actor_id =customers.CustomerID;
