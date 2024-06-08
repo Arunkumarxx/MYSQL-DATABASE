@@ -1,1 +1,2 @@
-select name,
+select name,AMOUNT
+from customers
