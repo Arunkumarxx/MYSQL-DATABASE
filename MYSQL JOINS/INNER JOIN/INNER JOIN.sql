@@ -7,7 +7,8 @@ actor_id =customers.CustomerID;
 
 replace into customers
 (customerid, customername, contactname, address, city, postalcode, country)
-values(1,'Arunkumar','Arun','1/22 xyz','udumalpet',642201,'india')
-;
+values(1,'Arunkumar','Arun','1/22 xyz','udumalpet',642201,'india');
+
 truncate customers;
+
 select * from customers;
