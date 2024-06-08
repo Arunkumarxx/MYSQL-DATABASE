@@ -37,4 +37,5 @@ select id from customers;
 +-------------+
 11 rows in set (0.00 sec)
  */
-select orders.CUSTOMER_ID from customers
+select orders from customers
+left join orders on CUSTOMER_ID
