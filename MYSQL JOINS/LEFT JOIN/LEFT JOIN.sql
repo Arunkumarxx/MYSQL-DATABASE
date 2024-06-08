@@ -30,3 +30,4 @@ INSERT INTO ORDERS VALUES
 (103, '2008-05-20 00:00:00', 4, 2060.00);
 
 select id,name,amount,date from customers
+left join orders on customers.id = 
