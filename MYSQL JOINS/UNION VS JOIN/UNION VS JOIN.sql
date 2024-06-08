@@ -16,3 +16,6 @@ select id from customers;
 7 rows in set (0.00 sec)
  */
 
+select orders.CUSTOMER_ID from orders
+union all
+select id from customers;
