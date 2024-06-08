@@ -1,3 +1,3 @@
 use sakila;
 
-select 
+select rental.customer_id
