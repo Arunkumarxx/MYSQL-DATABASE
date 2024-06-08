@@ -1,1 +1,1 @@
-update table orders 
+update table 
