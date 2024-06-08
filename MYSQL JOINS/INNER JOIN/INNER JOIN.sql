@@ -6,4 +6,6 @@ customers on
 actor_id =customers.CustomerID;
 
 insert into customers
- values ();
+    (customerid, customername, contactname, address, city, postalcode, country)
+
+;
