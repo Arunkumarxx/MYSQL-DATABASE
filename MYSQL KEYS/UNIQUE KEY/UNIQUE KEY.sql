@@ -4,3 +4,4 @@ create table custom (
 );
 
 insert into custom values('Arun',1);
+insert into custom values('Arun',1);
