@@ -5,5 +5,5 @@ set SALARY=SALARY+1000
 where customers.SALARY=2000;
 
 /*
- 
+
  */
