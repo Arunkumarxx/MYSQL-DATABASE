@@ -1,1 +1,2 @@
-create table some 
+create table some
+();
