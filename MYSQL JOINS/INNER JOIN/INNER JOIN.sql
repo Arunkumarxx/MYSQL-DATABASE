@@ -7,5 +7,5 @@ actor_id =customers.CustomerID;
 
 insert into customers
 (customerid, customername, contactname, address, city, postalcode, country)
-values(1,'Arunkumar','Arun','1/22 ')
+values(1,'Arunkumar','Arun','1/22 xyz',)
 ;
