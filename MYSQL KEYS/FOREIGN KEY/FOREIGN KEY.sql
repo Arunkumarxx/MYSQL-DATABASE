@@ -11,6 +11,4 @@ create table classA(
     constraint  foreign key (id) references studentID(id)
 );
 
-insert into classA(
-                   
-);
+insert into classA values ();
