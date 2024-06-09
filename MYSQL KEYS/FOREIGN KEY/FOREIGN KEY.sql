@@ -13,4 +13,4 @@ create table classA
 );
 insert into studentID values(1,'Arun'),(2,'xyz');
 insert into classA values(1,'abc'),(2,'qwe'),(3,'zxa');
-insert into classA values (4,'fda');
+insert into classA values (4,'fda') ;
