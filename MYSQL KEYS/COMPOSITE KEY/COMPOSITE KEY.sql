@@ -1,3 +1,5 @@
 create table student(
-    id int 
+    id int ,
+    name varchar(255),
+    
 );
