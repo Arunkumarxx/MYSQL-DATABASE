@@ -10,5 +10,6 @@ create table classA(
     name varchar(255) ,
     constraint  foreign key (id) references studentID(id)
 );
+insert into classA values (1,'Arun');
 
-insert into classA values (1,'Arun'); # error
+insert into 
