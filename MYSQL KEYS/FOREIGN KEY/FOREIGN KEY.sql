@@ -2,5 +2,5 @@ use personal_database;
 
 create table studentID(
     id int primary key ,
-    name 
+    name varchar(255)
 );
