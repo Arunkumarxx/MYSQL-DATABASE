@@ -6,5 +6,5 @@ create table studentID(
 );
 
 create table classA(
-    
+    id int primary key 
 );
