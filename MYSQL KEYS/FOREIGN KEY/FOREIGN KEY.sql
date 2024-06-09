@@ -8,5 +8,5 @@ create table studentID(
 create table classA(
     id int primary key ,
     name varchar(255) ,
-    constraint  foreign key (name) references 
+    constraint  foreign key (name) references studentID;
 );
