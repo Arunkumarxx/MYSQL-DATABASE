@@ -1,1 +1,1 @@
-create table 
+drop table 
