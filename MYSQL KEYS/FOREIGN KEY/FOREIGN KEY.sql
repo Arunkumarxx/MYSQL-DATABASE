@@ -1,3 +1,3 @@
 use personal_database;
 
-create table 
+create table customer
