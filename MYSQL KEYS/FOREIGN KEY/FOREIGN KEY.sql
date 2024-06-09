@@ -1,1 +1,1 @@
-drop table orders;
+drop table stduent;
