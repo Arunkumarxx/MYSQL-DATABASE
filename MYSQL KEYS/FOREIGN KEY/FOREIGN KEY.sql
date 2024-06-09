@@ -11,4 +11,4 @@ create table classA(
     constraint  foreign key (id) references studentID(id)
 );
 insert into studentID values(1,'Arun'),(2,'xyz');
-insert into classA values(1,'abc'),(2,'qwe'),(3)
+insert into classA values(1,'abc'),(2,'qwe'),(3,'')
