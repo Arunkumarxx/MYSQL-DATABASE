@@ -10,3 +10,5 @@ create table classA(
     name varchar(255) ,
     constraint  foreign key (id) references studentID(id)
 );
+
+insert into 
