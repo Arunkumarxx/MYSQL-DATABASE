@@ -4,3 +4,4 @@ create table student(
     class varchar(255),
     primary key (id,name)#......more
 );
+
