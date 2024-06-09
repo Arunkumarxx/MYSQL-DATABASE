@@ -6,5 +6,7 @@ create table studentID(
 );
 
 create table classA(
-    id int primary key 
+    id int primary key ,
+    name varchar(255) ,
+    constraint  
 );
