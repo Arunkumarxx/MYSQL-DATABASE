@@ -5,4 +5,4 @@ create table studentID(
     name varchar(255)
 );
 
-create table 
+create table classA();
