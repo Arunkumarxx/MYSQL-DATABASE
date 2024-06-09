@@ -1,3 +1,6 @@
 use personal_database;
 
-create table 
+create table studentID(
+    id int primary key ,
+    
+);
