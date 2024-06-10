@@ -18,7 +18,8 @@ values
 ('lucifer',21,86),
 ('john wick',21,26)
 ;
-insert into 
+insert into student(name, age, score)
+values('')
 select * from student;
 /*
 
