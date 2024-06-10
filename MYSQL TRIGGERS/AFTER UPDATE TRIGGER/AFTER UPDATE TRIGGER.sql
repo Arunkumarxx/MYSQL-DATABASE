@@ -9,3 +9,6 @@ BEGIN
 END IF;
 END //
 DELIMITER ;
+
+select *
+from personinfo;
