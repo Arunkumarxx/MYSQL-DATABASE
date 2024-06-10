@@ -14,10 +14,13 @@ select *
 from personinfo;
 
 update personinfo set age=-1 where id=2;
+/*
+ personal_database> update personinfo set age=-1 where id=2
+[2024-06-10 20:52:30] [42S22][1054] Unknown column 'age' in 'field list'
 
+ */
 select *
 from personinfo;
 
 /*
- 
  */
