@@ -13,3 +13,4 @@ create trigger IsScoreLessThanZero
     end $$
 delimiter ;
 
+insert into 
