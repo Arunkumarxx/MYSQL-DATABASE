@@ -13,7 +13,7 @@ delimiter //
 create trigger Wish after insert on remainder for each row
     begin
         if new.birthDATE is not null and new.name is not null
-            then insert into birthdaylist values(new.id,)
+            then insert into birthdaylist values(new.id,new.birthDATE,new.notifications)
             end if;
     end //
  // delimiter ;
