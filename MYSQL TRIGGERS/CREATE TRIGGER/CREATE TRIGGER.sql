@@ -4,7 +4,7 @@ create table student
     age int,
     score int
 );
-delimiter $$
+delimiter 
 create trigger IsScoreLessThanZero
     before insert on student for each row
     begin
