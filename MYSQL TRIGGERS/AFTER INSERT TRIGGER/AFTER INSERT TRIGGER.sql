@@ -18,9 +18,5 @@ create trigger Wish after insert on remainder for each row
  // delimiter ;
 
 insert into remainder values(1,'2004-08-21','Arun kumar');
-drop trigger Wish;
 
-drop table birthDayList;
-
-drop table remainder;
-
+select * from birthDayList;
