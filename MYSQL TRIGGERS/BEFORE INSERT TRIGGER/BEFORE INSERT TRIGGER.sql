@@ -18,6 +18,7 @@ values
 ('lucifer',21,86),
 ('john wick',21,26)
 ;
+insert into 
 select * from student;
 /*
 
