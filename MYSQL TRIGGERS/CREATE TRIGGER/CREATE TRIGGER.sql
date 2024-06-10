@@ -3,4 +3,4 @@ create trigger somes before update  on studentid
         insert into studentid(1,'ARun');
 end;
 
-select * from st
+select * from stduentid;
