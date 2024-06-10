@@ -10,7 +10,7 @@ create trigger IsScoreLessThanZero
     begin
         if New.score<0 then set NEW.score=0;
             end if;
-    end //;
+    end 
 delimiter //
 
 insert into student values('Arun',19,-23);
