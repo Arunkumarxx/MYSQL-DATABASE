@@ -1,2 +1,4 @@
  delimiter //
  create trigger 
+
+     // delimiter ;
