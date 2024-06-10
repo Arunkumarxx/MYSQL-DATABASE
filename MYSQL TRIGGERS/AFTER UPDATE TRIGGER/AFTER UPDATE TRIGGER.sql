@@ -13,4 +13,4 @@ DELIMITER ;
 select *
 from personinfo;
 
-update 
+update personinfo 
