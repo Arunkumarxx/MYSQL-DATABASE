@@ -9,4 +9,6 @@ delimiter //
      end //
      // delimiter ;
 
-insert into student(name, age, score) values ('Arun',21,76);
+insert into student(name, age, score)
+values
+('Arun',21,76);
