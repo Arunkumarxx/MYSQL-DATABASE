@@ -9,7 +9,7 @@ delimiter //
 create trigger Wish after insert on remainder for each row
     begin
         if new.birthDATE is not null
-            then set notifications='Happy Birthday'
+            then set notifications='Happy Birthday,'+concat()
     end //
  // delimiter ;
 
