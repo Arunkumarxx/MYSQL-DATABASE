@@ -13,5 +13,7 @@ create trigger CheckAgeIsNotNeg before update on personInfo
     begin
         if new.age<0
             then signal sqlstate '45000'
-            set 
+            set message_text ='age cannot be neg';
+            end if;
     end //
+    
