@@ -21,4 +21,4 @@ DELIMITER ;
 drop trigger before_update_trigger;
 select * from personInfo;
 
-update personInfo set personInfo.age =-1 where personInfo.id=1;
+UPDATE personInfo SET age = -1 WHERE id = 1;
