@@ -1,7 +1,7 @@
 create table remainder(
      id int ,
     birthDATE date,
-    no
+    notifications 
 );
 
 delimiter //
