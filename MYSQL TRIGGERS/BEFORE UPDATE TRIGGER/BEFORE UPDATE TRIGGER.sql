@@ -9,7 +9,7 @@ insert into personInfo values (1,'Arunkumar',19,'2004-08-21');
 
 DELIMITER //
 CREATE TRIGGER before_update_trigger
-BEFORE UPDATE ON  FOR EACH ROW
+BEFORE UPDATE ON personInfo FOR EACH ROW
 BEGIN
    IF NEW.AGE < 0
    THEN SIGNAL SQLSTATE '45000'
@@ -17,6 +17,7 @@ BEGIN
 END IF;
 END //
 DELIMITER ;
+drop trigger 
 insert into personInfo values(2,'szkx',-1,'2004-09-22');
 
 select * from personInfo;
