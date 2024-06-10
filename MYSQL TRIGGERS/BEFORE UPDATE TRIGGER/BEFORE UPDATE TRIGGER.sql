@@ -1,2 +1,2 @@
 delimiter //
-create trigger CheckAgeIsNotNeg 
+create trigger CheckAgeIsNotNeg before update 
