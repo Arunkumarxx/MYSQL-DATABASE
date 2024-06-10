@@ -1,4 +1,4 @@
-show triggers ;
+show triggers in ;
 
 /*
  mysql> show triggers ;
