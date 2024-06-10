@@ -4,14 +4,14 @@ create table student
     age int,
     score int
 );
-delimiter //
+delimiter $$
 create trigger IsScoreLessThanZero
     before insert on student for each row
     begin
         if New.score<0 then set NEW.score=0;
             end if;
-    end //
-delimiter //
+    end $$
+delimiter $$
 
 insert into student values('Arun',19,-23);
 
