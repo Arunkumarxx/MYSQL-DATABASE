@@ -5,4 +5,5 @@ create table student
     score int
 );
 delimiter //
-create trigger IsScoreLessThanOrEqualTo
+create trigger IsScoreLessThanOrEqualToZero
+    
