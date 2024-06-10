@@ -13,4 +13,4 @@ DELIMITER ;
 select *
 from personinfo;
 
-update personinfo 
+update personinfo set age=-1 where id=2;
