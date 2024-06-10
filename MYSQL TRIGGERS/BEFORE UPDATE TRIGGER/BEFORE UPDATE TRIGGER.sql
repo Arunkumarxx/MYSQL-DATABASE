@@ -1,2 +1,2 @@
 delimiter //
-create trigger 
+create trigger Check
