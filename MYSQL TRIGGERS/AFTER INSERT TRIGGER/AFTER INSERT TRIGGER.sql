@@ -7,7 +7,8 @@ create table remainder(
 delimiter //
 create trigger Wish after insert on remainder for each row
     begin
-        
+        if new.birthDATE is not null
+            then 
     end //
  // delimiter ;
 
