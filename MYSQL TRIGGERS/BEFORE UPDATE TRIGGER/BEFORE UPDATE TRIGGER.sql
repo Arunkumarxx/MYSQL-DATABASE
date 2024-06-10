@@ -17,6 +17,6 @@ BEGIN
 END IF;
 END //
 DELIMITER ;
-truncate table 
+truncate table personInfo;
 drop trigger before_update_trigger;
 select * from personInfo;
