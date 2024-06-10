@@ -8,3 +8,5 @@ delimiter //
          end if ;
      end //
      // delimiter ;
+
+     truncate table student;
