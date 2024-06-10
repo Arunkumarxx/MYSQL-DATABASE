@@ -1,5 +1,5 @@
 
-
+ drop trigger  if exists IsScoreLessThanZero
 
 /*
 personal_database> drop trigger  if exists IsScoreLessThanZero
