@@ -16,7 +16,7 @@ values
 ('Arun',21,76),
 ('wicky',19,66),
 ('lucifer',21,86),
-('john wick',21,26)
+('john wick',21,26),
 ;
 select * from student;
 /*
