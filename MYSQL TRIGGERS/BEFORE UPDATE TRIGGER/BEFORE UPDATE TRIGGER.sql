@@ -17,7 +17,7 @@ BEGIN
 END IF;
 END //
 DELIMITER ;
-drop trigger CheckAgeIsNotNeg;
+drop trigger 
 insert into personInfo values(2,'szkx',-1,'2004-09-22');
 
 select * from personInfo;
