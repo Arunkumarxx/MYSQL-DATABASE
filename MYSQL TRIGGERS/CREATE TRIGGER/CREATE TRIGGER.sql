@@ -6,4 +6,4 @@ create table student
 );
 delimiter //
 create trigger IsScoreLessThanOrEqualToZero
-    before 
+    before insert 
