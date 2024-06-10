@@ -1,1 +1,1 @@
-drop table studentid;
+drop table student;
