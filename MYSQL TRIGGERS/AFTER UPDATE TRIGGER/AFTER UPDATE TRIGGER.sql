@@ -1,4 +1,4 @@
-insert into personInfo values (2,'Arunkumar',19,'2004-08-21');
+insert into personInfo values (2,'',19,'2004-08-21');
 
 DELIMITER //
 CREATE TRIGGER before_update_trigger
