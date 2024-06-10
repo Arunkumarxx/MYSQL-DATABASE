@@ -5,6 +5,6 @@ create table remainder(
 );
 
 delimiter //
-create trigger Wish after insert on 
+create trigger Wish after insert on remainder 
  // delimiter ;
 
