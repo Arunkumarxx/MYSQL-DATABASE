@@ -1,4 +1,5 @@
  delimiter //
- create trigger 
+ create trigger isFailOrPass
+     
 
      // delimiter ;
