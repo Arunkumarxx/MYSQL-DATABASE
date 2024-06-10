@@ -1,5 +1,5 @@
 alter table student
-add column grade varchar(255) default '';
+add column grade varchar(255);
 delimiter //
  create trigger isFailOrPass before insert on student
      begin
