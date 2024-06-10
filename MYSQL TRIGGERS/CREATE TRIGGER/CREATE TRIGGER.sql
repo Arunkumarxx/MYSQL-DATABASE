@@ -3,3 +3,4 @@ create trigger somes before update  on studentid
         insert into studentid values(1,'ARun');
 end;
 
+truncate studentid;
