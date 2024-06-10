@@ -17,4 +17,4 @@ create trigger CheckAgeIsNotNeg before update on personInfo
             end if;
     end //
     // delimiter ;
-insert into personInfo values();
+insert into personInfo values(2,'szkx',);
