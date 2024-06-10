@@ -1,6 +1,7 @@
 create table remainder(
-    int id,
-    
+     id int ,
+    birthDATE date,
+    no
 );
 
 delimiter //
