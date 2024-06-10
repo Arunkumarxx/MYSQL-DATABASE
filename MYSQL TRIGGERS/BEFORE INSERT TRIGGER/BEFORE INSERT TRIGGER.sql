@@ -1,2 +1,2 @@
  delimiter //
- create trigger  on 
+ create trigger 
