@@ -1,4 +1,7 @@
-create table 
+create table remainder(
+    int id,
+    
+);
 
 delimiter //
 create trigger
