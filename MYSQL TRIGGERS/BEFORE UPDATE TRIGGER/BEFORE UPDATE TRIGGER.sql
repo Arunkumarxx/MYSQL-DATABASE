@@ -12,5 +12,5 @@ create trigger CheckAgeIsNotNeg before update on personInfo
     for each row
     begin
         update personInfo
-            
+            if new.age<0 then set 
     end //
