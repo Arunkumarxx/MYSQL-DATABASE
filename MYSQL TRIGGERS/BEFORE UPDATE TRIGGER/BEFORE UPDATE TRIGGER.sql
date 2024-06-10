@@ -6,6 +6,6 @@ create table personInfo(
 );
 
 insert into personInfo values
-                           
+                           ()
 delimiter //
 create trigger CheckAgeIsNotNeg before update on
