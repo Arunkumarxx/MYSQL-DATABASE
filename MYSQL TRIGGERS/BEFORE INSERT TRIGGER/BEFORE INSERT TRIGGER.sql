@@ -1,7 +1,7 @@
  delimiter //
  create trigger isFailOrPass before insert on student
      begin
-         if new.score
+         if new.score<35
      end //
 
      // delimiter ;
