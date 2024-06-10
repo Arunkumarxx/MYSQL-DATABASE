@@ -1,1 +1,5 @@
-drop trigger  if exists 
+drop trigger  if exists IsScoreLessThanZero;
+
+/*
+ 
+ */
