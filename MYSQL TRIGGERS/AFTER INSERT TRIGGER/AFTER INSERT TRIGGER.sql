@@ -1,2 +1,3 @@
 delimiter //
-//
+
+ // delimiter ;
