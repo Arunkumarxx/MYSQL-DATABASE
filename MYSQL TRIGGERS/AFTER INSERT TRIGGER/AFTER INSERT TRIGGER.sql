@@ -21,5 +21,5 @@ insert into remainder values(1,'2004-08-21','Arun kumar');
 
 select * from birthDayList;
 /*
- 
+
  */
