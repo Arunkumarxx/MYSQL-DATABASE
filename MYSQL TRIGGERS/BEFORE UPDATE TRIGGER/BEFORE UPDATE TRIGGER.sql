@@ -5,7 +5,7 @@ create table personInfo(
     birthDate date
 );
 
-insert into personInfo values
-                           (1,'Arunkumar',19,'2004-08-21');
+insert into personInfo  (1,'Arunkumar',19,'2004-08-21');
+
 delimiter //
 create trigger CheckAgeIsNotNeg before update on
