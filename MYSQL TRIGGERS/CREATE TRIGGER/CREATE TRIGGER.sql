@@ -4,11 +4,15 @@ create table student
     age int,
     score int
 );
-delimiter //
-create trigger IsScoreLessThanZero
-    before insert on student for each row
-    begin
-        if student.score<0 then set student.score=0;
-            end if;
-    end
-//delimiter ;
+DELIMITER $$
+
+CREATE TRIGGER IsScoreLessThanZero
+    BEFORE INSERT ON student
+    FOR EACH ROW
+BEGIN
+    IF NEW.score < 0 THEN
+        SET NEW.score = 0;
+    END IF;
+END $$
+
+DELIMITER ;
