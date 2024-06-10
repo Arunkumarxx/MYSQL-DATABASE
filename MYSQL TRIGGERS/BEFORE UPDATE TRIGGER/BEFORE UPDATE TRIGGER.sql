@@ -16,4 +16,4 @@ create trigger CheckAgeIsNotNeg before update on personInfo
             set message_text ='age cannot be neg';
             end if;
     end //
-    
+    // delimiter ;
