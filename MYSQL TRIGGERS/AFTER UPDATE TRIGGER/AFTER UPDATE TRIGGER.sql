@@ -12,3 +12,4 @@ DELIMITER ;
 
 select *
 from personinfo;
+truncate 
