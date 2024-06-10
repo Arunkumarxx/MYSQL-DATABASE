@@ -1,4 +1,7 @@
  delimiter //
- create trigger isFailOrPass before insert on student 
+ create trigger isFailOrPass before insert on student
+     begin
+         
+     end //
 
      // delimiter ;
