@@ -9,4 +9,4 @@ delimiter //
      end //
      // delimiter ;
 
-insert into student values ('Arun',21,76,)
+insert into student() values ('Arun',21,76,null)
