@@ -17,6 +17,7 @@ BEGIN
 END IF;
 END //
 DELIMITER ;
+truncate table personInfo;
 insert into personInfo values(2,'szkx',32,'2004-09-22');
 drop trigger before_update_trigger;
 select * from personInfo;
