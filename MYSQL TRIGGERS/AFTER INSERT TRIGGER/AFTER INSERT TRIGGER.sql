@@ -17,4 +17,4 @@ create trigger Wish after insert on remainder for each row
     end //
  // delimiter ;
 
-insert into remainder values(1,'2004-08-21',);
+insert into remainder values(1,'2004-08-21','Arun kumar');
