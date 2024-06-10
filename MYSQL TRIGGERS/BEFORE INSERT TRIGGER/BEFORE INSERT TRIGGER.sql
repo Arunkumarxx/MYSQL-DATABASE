@@ -1,2 +1,2 @@
  delimiter //
- create trigger isFailOrPass on 
+ create trigger isFailOrPass 
