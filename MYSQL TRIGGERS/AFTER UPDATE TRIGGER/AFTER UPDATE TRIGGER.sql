@@ -1,4 +1,4 @@
-insert into personInfo values (2,'',19,'2004-08-21');
+insert into personInfo values (2,'john wick',19,'2004-08-21');
 
 DELIMITER //
 CREATE TRIGGER before_update_trigger
