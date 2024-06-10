@@ -1,8 +1,7 @@
 create table remainder(
      id int ,
     birthDATE date,
-     name varchar(255),
-    notifications varchar(255)
+     name varchar(255)
 );
 create table birthDayList(
     id int,
