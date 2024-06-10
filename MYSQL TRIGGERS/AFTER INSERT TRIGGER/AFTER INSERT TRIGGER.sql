@@ -4,7 +4,7 @@ create table remainder(
      name varchar(255),
     notifications varchar(255)
 );
-
+create table 
 delimiter //
 create trigger Wish after insert on remainder for each row
     begin
