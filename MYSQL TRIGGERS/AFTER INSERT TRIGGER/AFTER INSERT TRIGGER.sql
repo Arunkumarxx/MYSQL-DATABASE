@@ -22,4 +22,5 @@ drop trigger Wish;
 
 drop table birthDayList;
 
-drop table 
+drop table remainder
+
