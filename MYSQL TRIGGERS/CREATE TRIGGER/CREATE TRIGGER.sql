@@ -1,1 +1,1 @@
-create trigger some 
+create trigger some before 
