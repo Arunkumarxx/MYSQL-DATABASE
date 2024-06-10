@@ -22,5 +22,14 @@ insert into student(name, age, score)
 values('heinrich klassen',22,23);
 select * from student;
 /*
-
++------------------+------+-------+-------+
+| name             | age  | score | grade |
++------------------+------+-------+-------+
+| Arun             |   21 |    76 | PASS  |
+| wicky            |   19 |    66 | PASS  |
+| lucifer          |   21 |    86 | PASS  |
+| john wick        |   21 |    26 | FAIL  |
+| heinrich klassen |   22 |    23 | FAIL  |
++------------------+------+-------+-------+
+5 rows in set (0.00 sec)
  */
