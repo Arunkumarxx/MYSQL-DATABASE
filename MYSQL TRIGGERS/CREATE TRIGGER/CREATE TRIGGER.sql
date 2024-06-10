@@ -4,4 +4,4 @@ create trigger somes before update  on studentid
 end;
 
 alter table studentid
-drop foreign key ;
+drop 
