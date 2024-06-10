@@ -14,3 +14,5 @@ create trigger IsScoreLessThanZero
 delimiter ;
 
 insert into student values('Arun',19,-23);
+
+select * from student;
