@@ -12,3 +12,4 @@ create trigger IsScoreLessThanZero
             end if;
     end $$
 delimiter ;
+
