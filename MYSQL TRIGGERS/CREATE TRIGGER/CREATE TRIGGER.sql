@@ -9,5 +9,6 @@ create trigger IsScoreLessThanZero
     before insert on student for each row
     begin
         if score<0 then set score=0
+            end if
     end
 //delimiter ;
