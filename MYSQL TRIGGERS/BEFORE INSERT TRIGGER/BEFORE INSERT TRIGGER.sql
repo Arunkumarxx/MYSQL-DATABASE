@@ -1,4 +1,5 @@
-
+alter table student
+add column 
 delimiter //
  create trigger isFailOrPass before insert on student
      begin
