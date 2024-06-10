@@ -12,7 +12,7 @@ delimiter //
 insert into student(name, age, score)
 values
 ('Arun',21,76),
-('Arun',21,76),
-('Arun',21,76),
-('Arun',21,76)
+('',19,66),
+('Arun',21,86),
+('',21,26)
 ;
