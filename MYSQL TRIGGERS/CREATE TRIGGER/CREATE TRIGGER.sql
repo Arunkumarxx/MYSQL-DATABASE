@@ -13,4 +13,4 @@ create trigger IsScoreLessThanZero
     end $$
 delimiter ;
 
-insert into 
+insert into student values()
