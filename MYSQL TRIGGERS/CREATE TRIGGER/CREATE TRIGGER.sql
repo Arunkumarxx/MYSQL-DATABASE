@@ -1,1 +1,1 @@
-create trigger some before 
+create trigger some before update 
