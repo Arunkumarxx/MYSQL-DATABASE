@@ -1,1 +1,2 @@
-create trigger somes before update  on 
+create trigger somes before update  on studentid
+    
