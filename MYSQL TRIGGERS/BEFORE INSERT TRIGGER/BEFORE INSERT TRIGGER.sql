@@ -1,5 +1,4 @@
  delimiter //
- create trigger isFailOrPass
-     before insert 
+ create trigger isFailOrPass before insert on  
 
      // delimiter ;
