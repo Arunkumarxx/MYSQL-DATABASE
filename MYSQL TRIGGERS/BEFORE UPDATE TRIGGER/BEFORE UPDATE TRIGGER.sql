@@ -19,3 +19,4 @@ create trigger CheckAgeIsNotNeg before update on personInfo
     // delimiter ;
 insert into personInfo values(2,'szkx',-1,'2004-09-22');
 
+select * from personInfo;
