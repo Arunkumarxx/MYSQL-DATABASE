@@ -19,7 +19,7 @@ values
 ('john wick',21,26)
 ;
 insert into student(name, age, score)
-values('heinrich klassen',)
+values('heinrich klassen',22,)
 select * from student;
 /*
 
