@@ -5,5 +5,6 @@ create table personInfo(
     birthDate date
 );
 
+
 delimiter //
 create trigger CheckAgeIsNotNeg before update on
