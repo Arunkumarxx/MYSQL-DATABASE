@@ -18,5 +18,5 @@ END IF;
 END //
 DELIMITER ;
 insert into personInfo values(2,'szkx',-1,'2004-09-22');
-drop trigger before_update_trigger
+drop trigger before_update_trigger;
 select * from personInfo;
