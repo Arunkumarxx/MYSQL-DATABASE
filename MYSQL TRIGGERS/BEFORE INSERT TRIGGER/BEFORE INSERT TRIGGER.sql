@@ -7,5 +7,4 @@ delimiter //
          else set new.grade='PASS';
          end if ;
      end //
-
      // delimiter ;
