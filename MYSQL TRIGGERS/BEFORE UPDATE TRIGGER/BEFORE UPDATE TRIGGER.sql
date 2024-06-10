@@ -8,4 +8,8 @@ create table personInfo(
 insert into personInfo values (1,'Arunkumar',19,'2004-08-21');
 
 delimiter //
-create trigger CheckAgeIsNotNeg before update on
+create trigger CheckAgeIsNotNeg before update on personInfo
+    for each row
+    begin
+        
+    end //
