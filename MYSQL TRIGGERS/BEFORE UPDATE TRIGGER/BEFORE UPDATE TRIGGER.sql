@@ -1,2 +1,4 @@
+create table 
+
 delimiter //
-create trigger CheckAgeIsNotNeg before update on 
+create trigger CheckAgeIsNotNeg before update on
