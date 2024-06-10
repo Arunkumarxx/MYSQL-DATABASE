@@ -11,6 +11,5 @@ delimiter //
 create trigger CheckAgeIsNotNeg before update on personInfo
     for each row
     begin
-        update personInfo 
-            if new.age<0 then set age='Aghe cannot be negative'
+        if new.age<0 
     end //
