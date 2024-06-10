@@ -1,1 +1,2 @@
 # ss
+select * from studentid;
