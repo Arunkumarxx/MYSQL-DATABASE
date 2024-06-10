@@ -18,4 +18,3 @@ create trigger Wish after insert on remainder for each row
     end //
  // delimiter ;
 
- 
