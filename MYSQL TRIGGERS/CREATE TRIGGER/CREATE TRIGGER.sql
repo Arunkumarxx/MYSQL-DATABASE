@@ -1,1 +1,4 @@
-drop table student;
+create table student
+(
+    
+);
