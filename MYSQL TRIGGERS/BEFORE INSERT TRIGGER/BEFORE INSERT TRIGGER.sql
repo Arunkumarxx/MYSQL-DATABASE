@@ -3,7 +3,7 @@
      begin
          if new.score<35 then set new.grade='FAIL';
          else set new.grade='PASS';
-         end if;
+         end if ;
      end //
 
      // delimiter ;
