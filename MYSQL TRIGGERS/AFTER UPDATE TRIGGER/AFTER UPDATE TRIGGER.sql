@@ -14,3 +14,6 @@ select *
 from personinfo;
 
 update personinfo set age=-1 where id=2;
+
+select *
+from personinfo;
