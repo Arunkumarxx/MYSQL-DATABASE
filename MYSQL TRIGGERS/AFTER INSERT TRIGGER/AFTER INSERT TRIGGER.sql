@@ -8,6 +8,7 @@ create table birthDayList(
     birthDate varchar(255),
     name varchar(255)
 );
+drop table birthdaylist;
 delimiter //
 create trigger Wish after insert on remainder for each row
     begin
