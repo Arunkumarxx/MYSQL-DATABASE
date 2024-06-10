@@ -6,7 +6,7 @@ create table remainder(
 create table birthDayList(
     id int,
     birthDate varchar(255),
-    nofication varchar(255)
+    name varchar(255)
 );
 delimiter //
 create trigger Wish after insert on remainder for each row
