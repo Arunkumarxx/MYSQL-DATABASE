@@ -20,3 +20,5 @@ DELIMITER ;
 
 drop trigger before_update_trigger;
 select * from personInfo;
+
+update 
