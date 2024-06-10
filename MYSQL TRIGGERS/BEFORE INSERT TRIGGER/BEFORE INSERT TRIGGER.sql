@@ -4,7 +4,7 @@ delimiter //
  create trigger isFailOrPass before insert on student for each row
      begin
          if new.score<35 then set new.grade='FAIL';
-         if new.score>
+         if new.score>100 then set new.score=100;
          else set new.grade='PASS';
          end if ;
      end //
