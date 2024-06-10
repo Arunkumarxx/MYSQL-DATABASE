@@ -7,16 +7,16 @@ create table personInfo(
 
 insert into personInfo values (1,'Arunkumar',19,'2004-08-21');
 
-delimiter //
-create trigger CheckAgeIsNotNeg before update on personInfo
-    for each row
-    begin
-        if new.age<0
-            then signal sqlstate '45000'
-            set message_text ='age cannot be neg';
-            end if;
-    end //
-    // delimiter ;
+DELIMITER //
+CREATE TRIGGER before_update_trigger
+BEFORE UPDATE ON USERS FOR EACH ROW
+BEGIN
+   IF NEW.AGE < 0
+   THEN SIGNAL SQLSTATE '45000'
+   SET MESSAGE_TEXT = 'Age Cannot be Negative';
+END IF;
+END //
+DELIMITER ;
 insert into personInfo values(2,'szkx',-1,'2004-09-22');
 
 select * from personInfo;
