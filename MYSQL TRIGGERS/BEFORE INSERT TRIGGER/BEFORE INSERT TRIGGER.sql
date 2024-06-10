@@ -13,6 +13,6 @@ insert into student(name, age, score)
 values
 ('Arun',21,76),
 ('wicky',19,66),
-('',21,86),
+('lucifer',21,86),
 ('',21,26)
 ;
