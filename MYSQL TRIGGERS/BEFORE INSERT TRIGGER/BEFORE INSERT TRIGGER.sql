@@ -9,4 +9,4 @@ delimiter //
      end //
      // delimiter ;
 
-     truncate table student;
+insert into ()
