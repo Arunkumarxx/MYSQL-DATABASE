@@ -22,3 +22,8 @@ drop trigger before_update_trigger;
 select * from personInfo;
 
 UPDATE personInfo SET age = -1 WHERE id = 1;
+/*
+ personal_database> UPDATE personInfo SET age = -1 WHERE id = 1
+[2024-06-10 20:48:30] [42S22][1054] Unknown column 'age' in 'field list'
+
+ */
