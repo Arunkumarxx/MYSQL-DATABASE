@@ -4,3 +4,4 @@ create table student
     age int,
     score int
 );
+delimiter //
