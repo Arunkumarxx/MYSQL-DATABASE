@@ -8,5 +8,6 @@ delimiter //
 create trigger IsScoreLessThanOrEqualToZero
     before insert on student for each row
     begin
-        
-    end //
+
+    end
+    //
