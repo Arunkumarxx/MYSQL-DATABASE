@@ -1,3 +1,3 @@
 delimiter //
-
+create trigger 
  // delimiter ;
