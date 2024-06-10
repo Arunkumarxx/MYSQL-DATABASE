@@ -1,4 +1,4 @@
-insert into personInfo values (2,'john wick',19,'2004-08-21');
+insert into personInfo values (2,'john wick',-1,'2004-08-21');
 DELIMITER //
 CREATE TRIGGER after_update_trigger
 after UPDATE ON personInfo FOR EACH ROW
