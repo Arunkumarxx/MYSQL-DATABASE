@@ -1,3 +1,4 @@
 create table old_student(
-    name 
+    name varchar(255),
+    
 );
