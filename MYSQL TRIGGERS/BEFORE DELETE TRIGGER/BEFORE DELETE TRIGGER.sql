@@ -1,1 +1,3 @@
-create table old_student
+create table old_student(
+    
+);
