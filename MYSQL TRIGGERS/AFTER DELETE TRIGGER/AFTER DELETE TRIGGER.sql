@@ -26,6 +26,5 @@ CREATE TABLE OLD_CUSTOMERS (
 );
 
 delimiter //
-create trigger AfterDelete after delete on customers
-
+create trigger AfterDelete after delete on customer
     delimiter ;
