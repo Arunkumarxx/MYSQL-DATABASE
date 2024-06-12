@@ -39,3 +39,5 @@ from customers;
 delete
 from customers
 where id=3;
+
+
