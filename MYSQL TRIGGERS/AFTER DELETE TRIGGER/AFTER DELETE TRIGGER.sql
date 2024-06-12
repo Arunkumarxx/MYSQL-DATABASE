@@ -26,3 +26,6 @@ CREATE TABLE OLD_CUSTOMERS (
 );
 
 delimiter //
+create trigger 
+
+    delimiter ;
