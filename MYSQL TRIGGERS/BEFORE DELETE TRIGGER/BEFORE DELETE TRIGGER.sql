@@ -6,7 +6,7 @@ create table old_student(
 );
 
 create table student(
-    name int,
+    name varchar(255),
     age int,
     score int ,
     grade int
