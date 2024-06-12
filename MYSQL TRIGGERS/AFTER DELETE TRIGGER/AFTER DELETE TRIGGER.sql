@@ -40,4 +40,4 @@ delete
 from customers
 where id=3;
 
-
+select * from old_customers;
