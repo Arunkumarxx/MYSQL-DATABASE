@@ -6,5 +6,5 @@ create table DataTypes (
     bigInteger bigint,
     floats float,
     doubles double,
-    dec
+    decimals decimal
 );
