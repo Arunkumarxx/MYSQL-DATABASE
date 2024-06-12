@@ -4,6 +4,8 @@ create table old_student(
     score int,
     grade int
 );
-
+create table student(
+    
+);
 delimiter //
-create trigger beforeDelete before delete on 
+create trigger beforeDelete before delete on
