@@ -9,4 +9,4 @@ create table DataTypes (
     decimals decimal
 );
 
-insert into datatypes values (100233,122,2333,232323,);
+insert into datatypes values (100233,122,2333,232323,3294392,);
