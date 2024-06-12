@@ -11,8 +11,8 @@ create table student(
     score int ,
     grade int
 );
-alter table student
-modify name varchar(255);
+
+
 insert into student values('Arunkumar',19,99,1);
 insert into student values('cxkljasd',21,88,3);
 delimiter //
