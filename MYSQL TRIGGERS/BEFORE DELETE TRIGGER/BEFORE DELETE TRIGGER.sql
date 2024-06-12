@@ -28,7 +28,5 @@ select * from student;
 delete from student
 where grade=1;
 
-select *
-from student;
 
 select * from old_student;
