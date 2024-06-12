@@ -4,4 +4,3 @@ create table old_student(
     score int,
     grade int
 );
-
