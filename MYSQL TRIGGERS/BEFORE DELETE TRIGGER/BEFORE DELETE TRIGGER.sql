@@ -21,3 +21,5 @@ begin
     insert into old_student value (new.name,new.age,new.score,new.grade);
 end //
 delimiter ;
+
+select * from student;
