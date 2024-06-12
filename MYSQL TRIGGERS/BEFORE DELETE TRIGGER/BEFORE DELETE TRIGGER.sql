@@ -31,3 +31,5 @@ select *
 from student;
 
 select * from old_student;
+
+drop trigger 
