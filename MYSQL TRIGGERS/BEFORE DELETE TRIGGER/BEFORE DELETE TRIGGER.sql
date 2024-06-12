@@ -24,3 +24,4 @@ delimiter ;
 
 select * from student;
 
+delete student
