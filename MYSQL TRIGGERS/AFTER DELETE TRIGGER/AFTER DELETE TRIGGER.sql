@@ -32,3 +32,5 @@ create trigger AfterDelete after delete on customers
         insert into old_customers value (old.ID,OLD.ID,OLD.age,old.ADDRESS,old.SALARY);
     end //
     delimiter ;
+
+    
