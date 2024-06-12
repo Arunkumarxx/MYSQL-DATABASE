@@ -9,4 +9,4 @@ create table DataTypes (
     decimals decimal
 );
 
-
+select * from datatypes;
