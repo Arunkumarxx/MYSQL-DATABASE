@@ -9,4 +9,4 @@ create table DataTypes (
     decimals decimal
 );
 
-insert into datatypes values ();
+insert into datatypes values (100,);
