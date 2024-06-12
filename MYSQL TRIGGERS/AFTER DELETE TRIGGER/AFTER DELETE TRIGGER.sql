@@ -15,3 +15,4 @@ INSERT INTO CUSTOMERS VALUES
 (5, 'Hardik', 27, 'Bhopal', 8500.00 ),
 (6, 'Komal', 22, 'MP', 4500.00 ),
 (7, 'Muffy', 24, 'Indore', 10000.00 );
+
