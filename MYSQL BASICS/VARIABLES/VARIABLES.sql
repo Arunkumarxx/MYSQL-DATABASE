@@ -17,3 +17,4 @@ select @arun:=23;
 
 set @aruss=23;
 
+select @arunss;
