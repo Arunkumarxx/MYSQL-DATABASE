@@ -3,5 +3,6 @@ create table DataTypes (
     tinyinteger tinyint,
     smallInteger smallint,
     meidumInt mediumint,
-    bigInteger
+    bigInteger bigint,
+    
 );
