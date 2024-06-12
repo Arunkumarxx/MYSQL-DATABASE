@@ -10,5 +10,6 @@ create table student(
     score int ,
     grade int
 );
+
 delimiter //
 create trigger beforeDelete before delete on
