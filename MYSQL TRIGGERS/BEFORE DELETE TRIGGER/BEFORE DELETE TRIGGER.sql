@@ -18,6 +18,6 @@ insert into student values('cxkljasd',21,88,3);
 delimiter //
 create trigger beforeDelete before delete on student for each row
 begin
-    insert into old_student value (new.name,new.age,);
+    insert into old_student value (new.name,new.age,new.score,);
 end //
 delimiter ;
