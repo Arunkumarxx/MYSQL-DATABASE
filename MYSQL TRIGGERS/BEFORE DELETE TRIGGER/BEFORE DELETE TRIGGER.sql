@@ -5,6 +5,7 @@ create table old_student(
     grade int
 );
 create table student(
+    name int,
     
 );
 delimiter //
