@@ -26,3 +26,6 @@ select * from student;
 
 delete from student
 where grade=99;
+
+select *
+from student;
