@@ -8,3 +8,5 @@ create table DataTypes (
     doubles double,
     decimals decimal
 );
+
+
