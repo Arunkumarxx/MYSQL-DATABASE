@@ -29,6 +29,6 @@ delimiter //
 create trigger AfterDelete after delete on customers
     for each row
     begin
-        insert into old_customers
+        insert into old_customers value ();
     end //
     delimiter ;
