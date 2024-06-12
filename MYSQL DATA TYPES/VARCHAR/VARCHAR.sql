@@ -4,5 +4,6 @@ create table DataTypes (
     smallInteger smallint,
     meidumInt mediumint,
     bigInteger bigint,
-    float
+    floats float,
+    doubles double,
 );
