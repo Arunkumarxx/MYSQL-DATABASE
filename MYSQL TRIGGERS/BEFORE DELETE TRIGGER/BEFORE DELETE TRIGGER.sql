@@ -13,4 +13,4 @@ create table student(
 );
 
 delimiter //
-create trigger beforeDelete before delete on
+create trigger beforeDelete before delete on 
