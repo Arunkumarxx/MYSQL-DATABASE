@@ -6,3 +6,4 @@ create table old_student(
 );
 
 delimiter //
+create 
