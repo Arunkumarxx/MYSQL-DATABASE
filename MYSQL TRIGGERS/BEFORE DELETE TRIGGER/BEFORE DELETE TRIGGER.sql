@@ -6,7 +6,9 @@ create table old_student(
 );
 create table student(
     name int,
-    
+    age int,
+    score int ,
+    grade int
 );
 delimiter //
 create trigger beforeDelete before delete on
