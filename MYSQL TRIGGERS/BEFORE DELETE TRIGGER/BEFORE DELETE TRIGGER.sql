@@ -12,6 +12,6 @@ create table student(
     grade int
 );
 
-insert into student values('Arunkumar',19,);
+insert into student values('Arunkumar',19,99,);
 delimiter //
 create trigger beforeDelete before delete on student for each row
