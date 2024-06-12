@@ -33,4 +33,9 @@ create trigger AfterDelete after delete on customers
     end //
     delimiter ;
 
+select *
+from customers;
 
+delete
+from customers
+where id=3;
