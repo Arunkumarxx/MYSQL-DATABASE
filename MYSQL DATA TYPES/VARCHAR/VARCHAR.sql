@@ -1,5 +1,6 @@
 create table DataTypes (
     integer int,
     tinyinteger tinyint,
-    small
+    smallInteger smallint,
+    
 );
