@@ -33,4 +33,4 @@ create trigger AfterDelete after delete on customers
     end //
     delimiter ;
 
-    
+
