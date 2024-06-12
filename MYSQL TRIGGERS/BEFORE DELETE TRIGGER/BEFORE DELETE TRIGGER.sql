@@ -12,6 +12,7 @@ create table student(
     grade int
 );
 
+drop table student;
 
 insert into student values('Arunkumar',19,99,1);
 insert into student values('cxkljasd',21,88,3);
