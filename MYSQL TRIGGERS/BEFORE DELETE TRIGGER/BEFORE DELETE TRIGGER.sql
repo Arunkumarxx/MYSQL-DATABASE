@@ -5,3 +5,4 @@ create table old_student(
     grade int
 );
 
+delimiter //
