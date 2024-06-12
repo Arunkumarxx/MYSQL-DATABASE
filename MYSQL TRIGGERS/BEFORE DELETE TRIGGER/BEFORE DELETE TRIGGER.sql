@@ -6,4 +6,4 @@ create table old_student(
 );
 
 delimiter //
-create trigger beforeDelete
+create trigger beforeDelete before delete on 
