@@ -12,7 +12,7 @@ create table student(
     grade int
 );
 
-drop 
+drop table 
 
 delimiter //
 create trigger beforeDelete before delete on
