@@ -10,3 +10,5 @@ create table DataTypes (
 );
 
 insert into datatypes values (100233,122,2333,232323,3294392,23.233,2324.2324,44);
+
+select * from datatypes;
