@@ -25,3 +25,4 @@ CREATE TABLE OLD_CUSTOMERS (
    PRIMARY KEY(ID)
 );
 
+delimiter //
