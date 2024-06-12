@@ -24,4 +24,5 @@ delimiter ;
 
 select * from student;
 
-delete student
+delete from student
+where grade=99;
