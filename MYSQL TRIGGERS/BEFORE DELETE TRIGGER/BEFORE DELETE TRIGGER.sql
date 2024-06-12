@@ -17,3 +17,7 @@ insert into student values('Arunkumar',19,99,1);
 insert into student values('cxkljasd',21,88,3);
 delimiter //
 create trigger beforeDelete before delete on student for each row
+begin
+    
+end //
+delimiter ;
