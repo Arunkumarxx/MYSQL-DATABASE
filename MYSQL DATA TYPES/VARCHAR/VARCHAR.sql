@@ -1,5 +1,5 @@
 create table DataTypes (
-    integer int,
+    integers int,
     tinyinteger tinyint,
     smallInteger smallint,
     meidumInt mediumint,
