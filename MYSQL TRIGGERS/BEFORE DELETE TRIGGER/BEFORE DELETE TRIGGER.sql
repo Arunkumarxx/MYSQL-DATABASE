@@ -1,8 +1,8 @@
 create table old_student(
-    name va
-        rchar(255),
+    name varchar(255),
     age int,
     score int,
     grade int
 );
+
 
