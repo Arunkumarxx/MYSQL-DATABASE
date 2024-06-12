@@ -4,6 +4,7 @@ create table old_student(
     score int,
     grade int
 );
+
 create table student(
     name int,
     age int,
