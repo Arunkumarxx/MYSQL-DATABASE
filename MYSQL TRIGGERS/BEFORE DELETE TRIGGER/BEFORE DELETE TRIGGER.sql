@@ -4,7 +4,7 @@ create table old_student(
     score int,
     grade int
 );
-
+drop table old_student;
 create table student(
     name varchar(255),
     age int,
