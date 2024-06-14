@@ -187,5 +187,5 @@ select * from customers
 
 where name regexp '[c-d]';
 /*
- 
+
  */
