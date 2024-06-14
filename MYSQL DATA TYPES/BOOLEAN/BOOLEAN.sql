@@ -1,3 +1,4 @@
 create table BikeDetails(
-    company longtext
+    company longtext,
+    
 );
