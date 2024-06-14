@@ -1,3 +1,5 @@
 create table some(
-    id 
+    id tinyint,
+    name varchar(20)
 );
+
