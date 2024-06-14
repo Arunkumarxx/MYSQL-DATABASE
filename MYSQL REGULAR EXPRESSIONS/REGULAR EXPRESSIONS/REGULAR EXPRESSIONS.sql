@@ -143,3 +143,5 @@ where salary regexp '0{3,3}';
 
  SELECT * FROM customers
 WHERE name REGEXP '^[^ABC]';
+
+
