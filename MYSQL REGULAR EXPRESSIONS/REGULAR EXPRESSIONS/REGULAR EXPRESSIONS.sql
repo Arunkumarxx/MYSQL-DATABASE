@@ -160,7 +160,7 @@ insert into namelist values
 ('s'),
 ('a');                         ;
 
-truncate  table 
+truncate  table namelist;
 insert into personal_database.namelist values('as');
 
 select *from namelist;
