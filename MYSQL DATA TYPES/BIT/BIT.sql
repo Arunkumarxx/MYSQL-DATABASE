@@ -1,3 +1,4 @@
 create table BinaryValueOfNumber (
-    number bit()
+    number bit
 );
+
