@@ -1,5 +1,5 @@
 
-CREATE TABLE blob (
+CREATE TABLE blobss (
     image LONGBLOB
 );
 
