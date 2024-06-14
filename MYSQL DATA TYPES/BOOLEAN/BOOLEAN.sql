@@ -9,12 +9,13 @@ delimiter //
 create trigger isBlack after insert on bikedetails for each row
     begin
         if new.colour like '%k' then
-            set isBlack=true;
+            set new.isBlack=true;
             else
-            set isBlack=false;
+            set new.isBlack=false;
         end if ;
     end //
 delimiter ;
+drop trigger isBlack;
 
 INSERT INTO bikedetails (company, price, colour)
 VALUES ('Royal Enfield', 300000, 'Black'),
