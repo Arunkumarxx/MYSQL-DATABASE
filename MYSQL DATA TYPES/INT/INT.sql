@@ -1,7 +1,8 @@
 create table testInt(
-    Integer int,
-    TinyInt tinyint,
-    SmallInt smallint,
-    MediumInt mediumint,
-    BigInt bigint
+    Integers int,
+    TinyInts tinyint,
+    SmallInts smallint,
+    MediumInts mediumint,
+    BigInts bigint
 );
+
