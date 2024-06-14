@@ -118,3 +118,6 @@ where name regexp '^c';
 
  select * from customers
  where age regexp '2$';
+/*
+ 
+ */
