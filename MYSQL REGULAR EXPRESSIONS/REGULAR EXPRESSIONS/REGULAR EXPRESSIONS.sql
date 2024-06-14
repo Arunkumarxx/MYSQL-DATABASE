@@ -9,6 +9,6 @@ create table customers
 
 insert into customers (name,age,address,salary)
 values
-(),
+(''),
 
 ;
