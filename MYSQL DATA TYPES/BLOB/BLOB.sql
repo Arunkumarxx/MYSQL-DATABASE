@@ -1,7 +1,3 @@
-create table blobs
-(
-    image longblob
-);
 
 CREATE TABLE blobs (
     image LONGBLOB
