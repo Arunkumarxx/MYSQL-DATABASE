@@ -93,4 +93,4 @@ select * from customers where name regexp '[aeiou]';
  */
 
 select * from customers
-where name regexp  'a*b';
+where name regexp  'r*m';
