@@ -18,6 +18,6 @@ delimiter ;
 
 INSERT INTO bikedetails (company, price, colour)
 VALUES ('Royal Enfield', 300000, 'Black'),
-VALUES ('BMW', 900000, 'Blue'),
-VALUES ('Jawa', 150000, 'Black'),
-VALUES ('Triumph', 1200000, 'Red');
+ ('BMW', 900000, 'Blue'),
+ ('Jawa', 150000, 'Black'),
+ ('Triumph', 1200000, 'Red');
