@@ -14,5 +14,3 @@ create trigger isBlack after insert on bikedetails for each row
         end if;
     end //
 delimiter ;
-
-insert into bikedetails values('');
