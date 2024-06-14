@@ -5,5 +5,4 @@ create table customers
     age tinyint,
     address varchar(255),
     salary decimal(10,2)
-)
-;
+);
