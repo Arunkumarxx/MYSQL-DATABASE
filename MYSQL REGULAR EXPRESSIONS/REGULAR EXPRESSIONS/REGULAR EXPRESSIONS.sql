@@ -175,5 +175,12 @@ select * from namelist where name regexp 'a+s';
  where name regexp 'as{2}';
 
 /*
-
++------+
+| name |
++------+
+| aass |
++------+
+1 row in set (0.00 sec)
  */
+
+ 
