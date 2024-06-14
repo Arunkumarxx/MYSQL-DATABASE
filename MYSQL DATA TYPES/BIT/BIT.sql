@@ -1,5 +1,5 @@
 create table BinaryValueOfNumber (
-    number bit
+    number bit()
 );
 
 insert into BinaryValueOfNumber
