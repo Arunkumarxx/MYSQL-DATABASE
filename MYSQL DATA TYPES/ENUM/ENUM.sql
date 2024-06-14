@@ -6,4 +6,4 @@ create table testTable
 );
 
 insert into testTable
-values(1,3,'cfckj'),();
+values(1,3,'cfckj'),(2,);
