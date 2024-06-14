@@ -7,7 +7,7 @@ delimiter //
          end if;
          if new.score>100 then set new.score=100;
          else set new.grade='PASS';
-         end if ;
+         end if 
      end //
      // delimiter ;
 
