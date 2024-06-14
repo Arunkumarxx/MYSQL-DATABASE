@@ -1,1 +1,1 @@
-create table testTable
+# create table testTable
