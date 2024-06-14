@@ -104,4 +104,5 @@ where name regexp  'r?m';
 +----+--------+------+-----------+----------+
 3 rows in set (0.00 sec)
  */
-select * from customers 
+select * from customers
+where name 
