@@ -115,3 +115,6 @@ where name regexp '^c';
 +----+----------+------+---------+---------+
 1 row in set (0.00 sec)
  */
+
+ select * from customers
+ where age
