@@ -15,7 +15,7 @@ create trigger isBlack after insert on bikedetails for each row
     end //
 delimiter ;
 
-INSERT INTO CUSTOMERS VALUES
+INSERT INTO CUSTOMER VALUES
 (1, 'Ramesh', FALSE),
 (2, 'Khilan', TRUE),
 (4, 'Kaushik', NULL);
