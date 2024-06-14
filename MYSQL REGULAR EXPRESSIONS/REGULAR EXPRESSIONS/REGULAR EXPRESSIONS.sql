@@ -1,4 +1,1 @@
-select * from binaryvalueofnumber;
-
-drop table binaryvalueofnumber;
-
+create table customers
