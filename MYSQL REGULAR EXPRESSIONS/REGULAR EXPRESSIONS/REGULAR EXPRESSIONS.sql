@@ -7,4 +7,3 @@ create table customers
     salary decimal(10,2)
 );
 
-truncate personal_database;
