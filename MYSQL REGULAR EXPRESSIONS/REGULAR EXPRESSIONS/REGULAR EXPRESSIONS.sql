@@ -19,3 +19,5 @@ values
 ;
 
 select * from customers;
+
+select * from customers where 
