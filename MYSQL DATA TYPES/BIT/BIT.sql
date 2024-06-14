@@ -3,6 +3,6 @@ create table BinaryValueOfNumber (
 );
 
 insert into BinaryValueOfNumber
-values(23),(123),(0342),(0223),;
+values(23),(123),(0342),(0223),();
 
 select *  from binaryvalueofnumber;
