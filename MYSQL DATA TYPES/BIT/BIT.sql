@@ -1,1 +1,3 @@
-create table BinaryValueOf
+create table BinaryValueOfNumber (
+    
+);
