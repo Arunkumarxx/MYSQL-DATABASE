@@ -1,3 +1,3 @@
 create table test(
-    ranges decimal(88,2)
+    ranges decimal(66,2)
 );
