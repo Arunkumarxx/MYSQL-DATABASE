@@ -1,5 +1,6 @@
 create table BikeDetails(
     company longtext,
     price bigint,
-    colour 
+    colour text,
+    
 );
