@@ -146,19 +146,6 @@ where salary regexp '0{3,3}';
 WHERE name REGEXP '^[^ABC]';
 
 
-create table NameList(
-    name varchar(25)
-);
-
-insert into namelist values
-('aas'),
-('aaaaas'),
-('as'),
-('bs'),
-('aass'),
-('aa'),
-('s'),
-('a');                         ;
 
 truncate  table namelist;
 select *from namelist;
