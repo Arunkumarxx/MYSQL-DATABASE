@@ -8,4 +8,4 @@ select * from some;
 
 update some
 set id=32
-where id=1
+where id=1;
