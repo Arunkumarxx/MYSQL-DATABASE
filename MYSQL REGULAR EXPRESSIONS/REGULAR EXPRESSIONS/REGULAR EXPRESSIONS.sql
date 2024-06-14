@@ -33,4 +33,4 @@ select * from customers where name regexp 'a';
 +----+----------+------+-----------+---------+
 6 rows in set (0.00 sec)
  */
-select * from customers where name 
+select * from customers where name regexp 
