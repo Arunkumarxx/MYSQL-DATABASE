@@ -20,4 +20,4 @@ values
 
 select * from customers;
 
-select * from customers where name regexp ;
+select * from customers where name regexp '^k';
