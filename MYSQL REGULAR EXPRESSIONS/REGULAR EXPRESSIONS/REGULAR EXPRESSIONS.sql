@@ -77,3 +77,6 @@ select * from customers where name regexp '[aeiou]';
  */
 
  select * from customers where name regexp 'k*';
+/*
+
+ */
