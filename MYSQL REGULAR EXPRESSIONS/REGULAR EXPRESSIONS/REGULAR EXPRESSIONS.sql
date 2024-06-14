@@ -183,4 +183,6 @@ select * from namelist where name regexp 'a+s';
 1 row in set (0.00 sec)
  */
 
- 
+select * from customers
+
+where name regexp '[a-]';
