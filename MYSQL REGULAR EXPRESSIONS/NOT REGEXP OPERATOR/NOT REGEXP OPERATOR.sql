@@ -26,7 +26,7 @@ where name not regexp 'a';
 +----+-------+------+---------+----------+
 1 row in set (0.00 sec)
  */
-
+select * from customers where salary not regexp '0{3}';
  /*
   +----+----------+------+-----------+---------+
 | id | name     | age  | address   | salary  |
