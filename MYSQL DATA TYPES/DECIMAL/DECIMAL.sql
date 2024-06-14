@@ -1,3 +1,3 @@
 create table test(
-    range decimal(3232,2)
+    range decimal(65,2)
 );
