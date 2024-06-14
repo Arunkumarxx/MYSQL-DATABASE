@@ -4,3 +4,4 @@ create table BikeDetails(
     colour text,
     isBlack boolean
 );
+
