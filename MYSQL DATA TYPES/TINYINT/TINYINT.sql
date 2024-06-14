@@ -6,7 +6,6 @@ insert into rangelowOrer values (-124)
 ,(-128),(120);
 
 select * from rangelowOrer;
-
 /*
  +----------+
 | tinyInts |
