@@ -1,1 +1,1 @@
-create table 
+create table BinaryValueOf
