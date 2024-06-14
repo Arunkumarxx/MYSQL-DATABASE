@@ -6,3 +6,5 @@ create table BikeDetails(
 );
 
 delimiter //
+
+delimiter ;
