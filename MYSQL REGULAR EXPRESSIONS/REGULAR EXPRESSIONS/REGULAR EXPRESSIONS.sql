@@ -151,3 +151,5 @@ create table NameList(
 );
 
 insert into namelist values('abedsc');
+
+select * from namelist where name regexp ''
