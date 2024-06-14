@@ -10,7 +10,8 @@ create trigger isBlack after insert on bikedetails for each row
     begin
         if new.colour like '%k' then
             set isBlack=true;
-            else 
+            else
+            set isBlack=false;
         end if //
 end if //
     end //
