@@ -4,3 +4,4 @@ create table floats (
 
 insert into floats
 values();
+
