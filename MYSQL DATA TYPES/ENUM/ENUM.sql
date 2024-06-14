@@ -1,5 +1,5 @@
 create table testTable
 (
     id int,
-    StudentType enum()
+    StudentType enum('')
 );
