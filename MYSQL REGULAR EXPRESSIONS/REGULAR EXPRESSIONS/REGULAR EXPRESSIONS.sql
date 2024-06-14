@@ -162,4 +162,4 @@ insert into namelist values
 
 truncate  table namelist;
 select *from namelist;
-select * from namelist where name regexp '^s';
+select * from namelist where name regexp 's';
