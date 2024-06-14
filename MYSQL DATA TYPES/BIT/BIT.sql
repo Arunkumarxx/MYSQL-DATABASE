@@ -4,3 +4,5 @@ create table BinaryValueOfNumber (
 
 insert into BinaryValueOfNumber
 values(23);
+
+select *  from binaryvalueofnumber;
