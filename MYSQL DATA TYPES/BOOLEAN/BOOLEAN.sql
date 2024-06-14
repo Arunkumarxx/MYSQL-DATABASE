@@ -6,5 +6,5 @@ create table BikeDetails(
 );
 
 delimiter //
-
+create trigger 
 delimiter ;
