@@ -160,5 +160,5 @@ select * from namelist where name regexp 'a+s';
  where name regexp 'a{2}';
 
 /*
- 
+
  */
