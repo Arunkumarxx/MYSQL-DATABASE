@@ -152,4 +152,4 @@ create table NameList(
 
 insert into namelist values('abedscs');
 
-select * from namelist where name regexp 'a*';
+select * from namelist where name regexp 'a*c';
