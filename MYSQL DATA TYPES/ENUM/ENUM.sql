@@ -4,3 +4,5 @@ create table testTable
     StudentType enum('Good','Fair','Bad'),
     name varchar(16)
 );
+
+insert into testTable
