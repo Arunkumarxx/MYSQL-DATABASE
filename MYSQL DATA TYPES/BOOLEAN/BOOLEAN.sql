@@ -8,7 +8,7 @@ create table BikeDetails(
 delimiter //
 create trigger isBlack after insert on bikedetails for each row
     begin
-        if colour like '%k' then
+        if new.colour like '%k' then
         insert into bikedetails(isBlack) values(true);
         else insert into bikedetails(isBlack) values(false);
         end if;
