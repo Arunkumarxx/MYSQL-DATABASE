@@ -1,1 +1,4 @@
 create table customers
+(
+    
+);
