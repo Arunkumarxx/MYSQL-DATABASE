@@ -197,4 +197,5 @@ where name regexp '[c-d]';
  */
 
 
-select * from customers where age 
+select * from customers where age
+
