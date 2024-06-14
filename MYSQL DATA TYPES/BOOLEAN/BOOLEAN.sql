@@ -22,4 +22,4 @@ VALUES ('Royal Enfield', 300000, 'Black'),
  ('Jawa', 150000, 'Black'),
  ('Triumph', 1200000, 'Red');
 
-select * from bikedetails
+select * from bikedetails;
