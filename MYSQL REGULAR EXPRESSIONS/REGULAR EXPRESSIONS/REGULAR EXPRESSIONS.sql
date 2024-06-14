@@ -157,4 +157,4 @@ select * from namelist where name regexp 'a+s';
 
 
  select * from namelist
- where name regexp 'a{}'
+ where name regexp 'a{2}';
