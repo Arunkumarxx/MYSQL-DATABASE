@@ -1,1 +1,3 @@
-create table 
+create table BikeDetails(
+    
+);
