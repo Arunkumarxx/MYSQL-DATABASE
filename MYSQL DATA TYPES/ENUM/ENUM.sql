@@ -1,5 +1,6 @@
 create table testTable
 (
     id int,
-    StudentType enum('VeryGood','G')
+    StudentType enum('Good','Fair','Bad'),
+    
 );
