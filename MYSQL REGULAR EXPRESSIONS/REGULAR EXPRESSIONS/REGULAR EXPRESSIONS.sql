@@ -7,3 +7,8 @@ create table customers
     salary decimal(10,2)
 );
 
+insert into customers
+values
+(),
+
+;
