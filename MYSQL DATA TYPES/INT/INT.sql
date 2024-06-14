@@ -6,4 +6,5 @@ create table testInt(
     BigInts bigint
 );
 
-insert into 
+insert into  test
+values()
