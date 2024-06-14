@@ -1,1 +1,4 @@
-create table range
+create table rangelowOrer (
+    tinyInts  tinyint
+);
+
