@@ -7,4 +7,4 @@ create table customers
     salary decimal(10,2)
 );
 
-drop 
+drop table 
