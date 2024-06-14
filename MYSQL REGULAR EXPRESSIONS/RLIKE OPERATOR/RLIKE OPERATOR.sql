@@ -17,4 +17,3 @@ select 'some' rlike '[a-b]';
 +----------------------+
 1 row in set (0.00 sec)
  */
- 
