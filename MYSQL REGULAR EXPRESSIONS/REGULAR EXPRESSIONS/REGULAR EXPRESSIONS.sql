@@ -155,4 +155,4 @@ insert into namelist values('abedscs');
 insert into personal_database.namelist values('as');
 
 select *from namelist;
-select * from namelist where name regexp 'a+c';
+select * from namelist where name regexp 'a+s';
