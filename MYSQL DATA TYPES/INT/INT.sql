@@ -8,3 +8,5 @@ create table testInt(
 
 insert into  testint
 values(23233,120,-23432,99923,-91113232);
+
+select * from testint;
