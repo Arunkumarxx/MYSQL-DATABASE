@@ -7,4 +7,4 @@ create table testInt(
 );
 
 insert into  testint
-values(232323,120,-232432,999923,-911123232);
+values(23233,120,-232432,999923,-911123232);
