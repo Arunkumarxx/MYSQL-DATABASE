@@ -185,7 +185,7 @@ select * from namelist where name regexp 'a+s';
 
 select * from customers
 
-where name regexp '[c-d]';
+where name regexp '[C-D]';
 /*
 +----+----------+------+---------+---------+
 | id | name     | age  | address | salary  |
