@@ -161,7 +161,5 @@ insert into namelist values
 ('a');                         ;
 
 truncate  table namelist;
-insert into personal_database.namelist values('as');
-
 select *from namelist;
 select * from namelist where name regexp 'a+s';
