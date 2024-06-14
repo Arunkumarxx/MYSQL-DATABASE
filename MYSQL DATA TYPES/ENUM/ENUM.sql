@@ -7,3 +7,5 @@ create table testTable
 
 insert into testTable
 values(1,3,'cfckj'),(2,1,'arun');
+
+select * from testTable;
