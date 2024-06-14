@@ -117,4 +117,4 @@ where name regexp '^c';
  */
 
  select * from customers
- where age regexp '^3';
+ where age regexp '^2';
