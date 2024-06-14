@@ -149,3 +149,5 @@ WHERE name REGEXP '^[^ABC]';
 create table NameList(
     name varchar(25)
 );
+
+insert into namelist values('');
