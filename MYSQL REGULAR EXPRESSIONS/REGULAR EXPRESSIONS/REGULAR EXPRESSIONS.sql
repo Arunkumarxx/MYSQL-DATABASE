@@ -131,5 +131,12 @@ select * from customers
 where salary regexp '0{3,3}';
 
 /*
-
++----+---------+------+-----------+----------+
+| id | name    | age  | address   | salary   |
++----+---------+------+-----------+----------+
+|  1 | Ramesh  |   32 | Ahmedabad |  2000.00 |
+|  3 | Kaushik |   23 | Kota      |  2000.00 |
+|  7 | Muffy   |   24 | Indore    | 10000.00 |
++----+---------+------+-----------+----------+
+3 rows in set (0.00 sec)
  */
