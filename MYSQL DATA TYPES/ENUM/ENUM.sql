@@ -6,3 +6,4 @@ create table testTable
 );
 
 insert into testTable
+values(1,);
