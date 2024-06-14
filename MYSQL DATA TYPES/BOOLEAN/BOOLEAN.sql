@@ -9,9 +9,9 @@ delimiter //
 create trigger isBlack after insert on bikedetails for each row
     begin
         if new.colour like '%k' then
-        insert into bikedetails(isBlack) values(true);
-        else insert into bikedetails(isBlack) values(false);
-        end if;
+            set 
+        end if //
+end if //
     end //
 delimiter ;
 
