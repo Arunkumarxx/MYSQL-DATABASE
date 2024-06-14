@@ -1,3 +1,4 @@
 create table testInt(
-    int 
+    Integer int,
+    
 );
