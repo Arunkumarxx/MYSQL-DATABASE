@@ -160,5 +160,15 @@ select * from namelist where name regexp 'a+s';
  where name regexp 'a{2}';
 
 /*
-
++--------+
+| name   |
++--------+
+| aas    |
+| aaaaas |
+| aass   |
+| aa     |
++--------+
+4 rows in set (0.00 sec)
  */
+
+ 
