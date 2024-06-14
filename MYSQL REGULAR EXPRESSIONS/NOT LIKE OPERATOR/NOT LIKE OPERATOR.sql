@@ -1,2 +1,2 @@
 select * from customers
-where name not like '';
+where name not like '[a]';
