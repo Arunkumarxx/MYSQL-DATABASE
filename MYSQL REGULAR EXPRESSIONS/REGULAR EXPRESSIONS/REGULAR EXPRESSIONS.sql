@@ -19,6 +19,6 @@ values
 ;
 
 select * from customers;
-select * from customers where name not like ''
+select * from customers where name not like '%k%';
 
 select * from customers where name regexp '^k';
