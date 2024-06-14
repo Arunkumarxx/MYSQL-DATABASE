@@ -12,12 +12,11 @@ create trigger isBlack after insert on bikedetails for each row
             set isBlack=true;
             else
             set isBlack=false;
-        end if //
-end if //
+        end if ;
     end //
 delimiter ;
 
-
+drop trigger isBlack;
 INSERT INTO bikedetails (company, price, colour)
 VALUES ('Royal Enfield', 300000, 'Black'),
  ('BMW', 900000, 'Blue'),
