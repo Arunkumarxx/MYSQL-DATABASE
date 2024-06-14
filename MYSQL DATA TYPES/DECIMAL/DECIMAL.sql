@@ -1,3 +1,4 @@
 create table test(
-    range decimal(64,2)
+    r
+        ange decimal(64,2)
 );
