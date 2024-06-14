@@ -142,9 +142,4 @@ where salary regexp '0{3,3}';
 3 rows in set (0.00 sec)
  */
 
-
-
-
-truncate  table namelist;
-select *from namelist;
-select * from namelist where name regexp 's';
+select * from namelist where name regexp '';
