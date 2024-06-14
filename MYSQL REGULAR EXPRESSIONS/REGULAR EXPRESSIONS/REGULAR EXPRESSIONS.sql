@@ -152,4 +152,6 @@ create table NameList(
 
 insert into namelist values('abedscs');
 
+insert into personal_database.namelist
+
 select * from namelist where name regexp 'a.*s$';
