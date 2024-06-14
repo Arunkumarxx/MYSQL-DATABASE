@@ -1,1 +1,1 @@
-select 
+select 'arunkumar' rlike''
