@@ -3,3 +3,5 @@ create table test(
 );
 
 insert into test values(23223232.23);
+
+select * from test;
