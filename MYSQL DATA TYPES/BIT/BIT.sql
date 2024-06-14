@@ -2,4 +2,5 @@ create table BinaryValueOfNumber (
     number bit
 );
 
-insert into 
+insert into BinaryValueOfNumber
+values(23);
