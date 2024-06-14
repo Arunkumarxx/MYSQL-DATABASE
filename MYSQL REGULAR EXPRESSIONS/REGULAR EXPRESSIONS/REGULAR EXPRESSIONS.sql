@@ -187,5 +187,13 @@ select * from customers
 
 where name regexp '[c-d]';
 /*
-
++----+----------+------+---------+---------+
+| id | name     | age  | address | salary  |
++----+----------+------+---------+---------+
+|  4 | Chaitali |   25 | Mumbai  | 6500.00 |
+|  5 | Hardik   |   27 | Bhopal  | 8500.00 |
++----+----------+------+---------+---------+
+2 rows in set (0.00 sec)
  */
+
+ 
