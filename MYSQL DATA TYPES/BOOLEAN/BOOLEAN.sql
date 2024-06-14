@@ -1,4 +1,5 @@
 create table BikeDetails(
     company longtext,
-    price 
+    price bigint,
+    
 );
