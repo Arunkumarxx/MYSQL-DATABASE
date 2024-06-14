@@ -154,4 +154,4 @@ insert into namelist values('abedscs');
 
 insert into personal_database.namelist values('as');
 
-select * from namelist where name regexp 'a.*s$';
+select * from namelist where name regexp 'a$';
