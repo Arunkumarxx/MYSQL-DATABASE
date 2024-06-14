@@ -1,1 +1,1 @@
-select 'arunkumar' rlike'';
+select 'arunkumar' rlike'[]';
