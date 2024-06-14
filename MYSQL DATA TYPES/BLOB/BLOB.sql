@@ -1,3 +1,4 @@
-create table blobs(
+create table blobs
+(
     image longblob
 );
