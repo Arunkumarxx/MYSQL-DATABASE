@@ -1,4 +1,5 @@
 create table customers
 (
-    id int 
+    id int auto_increment,
+    
 );
