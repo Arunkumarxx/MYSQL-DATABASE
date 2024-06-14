@@ -143,3 +143,6 @@ where salary regexp '0{3,3}';
  */
 
 select * from namelist where name regexp 'a+s';
+/*
+ 
+ */
