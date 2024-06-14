@@ -141,5 +141,5 @@ where salary regexp '0{3,3}';
 3 rows in set (0.00 sec)
  */
 
- SELECT * FROM 
+ SELECT * FROM customers
 WHERE name REGEXP '^[^ABC]';
