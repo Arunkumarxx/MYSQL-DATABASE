@@ -106,3 +106,12 @@ where name regexp  'r?m';
  */
 select * from customers
 where name regexp '^c';
+
+/*
+ +----+----------+------+---------+---------+
+| id | name     | age  | address | salary  |
++----+----------+------+---------+---------+
+|  4 | Chaitali |   25 | Mumbai  | 6500.00 |
++----+----------+------+---------+---------+
+1 row in set (0.00 sec)
+ */
