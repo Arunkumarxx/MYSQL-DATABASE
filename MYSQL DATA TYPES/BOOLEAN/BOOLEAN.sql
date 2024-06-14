@@ -5,3 +5,4 @@ create table BikeDetails(
     isBlack boolean
 );
 
+delimiter //
