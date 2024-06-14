@@ -1,1 +1,1 @@
-drop table customers;
+drop table old_customers;
