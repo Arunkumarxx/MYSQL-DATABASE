@@ -198,4 +198,4 @@ where name regexp '[c-d]';
 
 
 select * from customers where age
-regexp  '[[]]';
+regexp  '[[:<:]]';
