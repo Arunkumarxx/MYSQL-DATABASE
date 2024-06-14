@@ -17,3 +17,5 @@ values
 ( 'Komal', 22, 'Hyderabad', 4500.00 ),
 ( 'Muffy', 24, 'Indore', 10000.00 );
 ;
+
+select * from customers;
