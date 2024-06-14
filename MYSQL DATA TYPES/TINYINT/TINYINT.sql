@@ -2,4 +2,4 @@ create table rangelowOrer (
     tinyInts  tinyint
 );
 
-insert into
+insert into rangelowOrer values ()
