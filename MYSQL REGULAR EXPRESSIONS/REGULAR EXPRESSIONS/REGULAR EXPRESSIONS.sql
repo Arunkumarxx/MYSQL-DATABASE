@@ -6,5 +6,3 @@ create table customers
     address varchar(255),
     salary decimal(10,2)
 );
-
-
