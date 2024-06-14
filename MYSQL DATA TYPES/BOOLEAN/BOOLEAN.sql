@@ -21,3 +21,5 @@ VALUES ('Royal Enfield', 300000, 'Black'),
  ('BMW', 900000, 'Blue'),
  ('Jawa', 150000, 'Black'),
  ('Triumph', 1200000, 'Red');
+
+select * from bikedetails
