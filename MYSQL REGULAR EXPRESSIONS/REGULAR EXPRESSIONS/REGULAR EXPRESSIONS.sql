@@ -185,4 +185,4 @@ select * from namelist where name regexp 'a+s';
 
 select * from customers
 
-where name regexp '[c-w]';
+where name regexp '[c-d]';
