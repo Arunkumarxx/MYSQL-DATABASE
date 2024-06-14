@@ -154,4 +154,7 @@ select * from namelist where name regexp 'a+s';
 +--------+
 4 rows in set (0.00 sec)
  */
- 
+
+
+ select * from namelist
+ where name 
