@@ -7,4 +7,4 @@ insert into some values (1,'Arunkumar'),(2,'sakdalkcd');
 select * from some;
 
 update some
-set 
+set id=32
