@@ -7,5 +7,7 @@ create table BikeDetails(
 
 delimiter //
 create trigger isBlack on bikedetails for each row
-    
+    begin
+        
+    end //
 delimiter ;
