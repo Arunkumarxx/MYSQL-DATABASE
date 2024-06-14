@@ -1,3 +1,3 @@
 select * from binaryvalueofnumber;
 
-drop table 
+drop table binaryvalueofnumber;
