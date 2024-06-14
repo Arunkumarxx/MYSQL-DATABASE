@@ -10,6 +10,7 @@ create trigger isBlack after insert on bikedetails for each row
     begin
         if old.isBlack like '%k' then
         insert into bikedetails(isBlack) values()
-            
+            if end;
+        else 
     end //
 delimiter ;
