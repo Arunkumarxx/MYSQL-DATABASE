@@ -3,4 +3,4 @@ create table rangelowOrer (
 );
 
 insert into rangelowOrer values (-124)
-,;
+,(-128);
