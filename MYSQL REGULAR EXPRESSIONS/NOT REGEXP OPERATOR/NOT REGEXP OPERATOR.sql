@@ -19,5 +19,10 @@ select * from customers
 where name not regexp 'a';
 
 /*
-
++----+-------+------+---------+----------+
+| id | name  | age  | address | salary   |
++----+-------+------+---------+----------+
+|  7 | Muffy |   24 | Indore  | 10000.00 |
++----+-------+------+---------+----------+
+1 row in set (0.00 sec)
  */
