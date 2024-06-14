@@ -1,1 +1,1 @@
-drop table 
+drop table customers;
