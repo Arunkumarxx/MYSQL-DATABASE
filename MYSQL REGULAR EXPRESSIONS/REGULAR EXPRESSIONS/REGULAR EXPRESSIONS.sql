@@ -4,5 +4,5 @@ create table customers
     name varchar(16),
     age tinyint,
     address varchar(255),
-    
+    salary 
 );
