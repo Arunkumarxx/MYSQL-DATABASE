@@ -119,5 +119,11 @@ where name regexp '^c';
  select * from customers
  where age regexp '2$';
 /*
- 
+ +----+--------+------+-----------+---------+
+| id | name   | age  | address   | salary  |
++----+--------+------+-----------+---------+
+|  1 | Ramesh |   32 | Ahmedabad | 2000.00 |
+|  6 | Komal  |   22 | Hyderabad | 4500.00 |
++----+--------+------+-----------+---------+
+2 rows in set (0.00 sec)
  */
