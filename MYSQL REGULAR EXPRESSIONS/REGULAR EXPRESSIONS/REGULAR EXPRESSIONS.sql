@@ -150,7 +150,15 @@ create table NameList(
     name varchar(25)
 );
 
-insert into namelist values('abedscs');
+insert into namelist values
+('aas'),
+('aaaaas'),
+('as'),
+('bs'),
+('aass'),
+('aa'),
+('s'),
+('a');                         ;
 
 insert into personal_database.namelist values('as');
 
