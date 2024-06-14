@@ -1,3 +1,3 @@
 select 'arunkumar' rlike'[acb]';
 
-select 'some' rlike '[]'
+select 'some' rlike '[a-b]';
