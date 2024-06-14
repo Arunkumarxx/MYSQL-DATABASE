@@ -3,5 +3,5 @@ create table testInt(
     TinyInt tinyint,
     SmallInt smallint,
     MediumInt mediumint,
-    BigInt
+    BigInt bigint
 );
