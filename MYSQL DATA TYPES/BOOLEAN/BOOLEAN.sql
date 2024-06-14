@@ -15,7 +15,11 @@ create trigger isBlack after insert on bikedetails for each row
     end //
 delimiter ;
 
-INSERT INTO CUSTOMER VALUES
-(1, 'Ramesh', FALSE),
-(2, 'Khilan', TRUE),
-(4, 'Kaushik', NULL);
+INSERT INTO BIKES (COMPANY, PRICE, COLOUR, IS_BLACK)
+VALUES ('Royal Enfield', 300000, 'Black', 1);
+INSERT INTO BIKES (COMPANY, PRICE, COLOUR, IS_BLACK)
+VALUES ('BMW', 900000, 'Blue', 0);
+INSERT INTO BIKES (COMPANY, PRICE, COLOUR, IS_BLACK)
+VALUES ('Jawa', 150000, 'Black', 1);
+INSERT INTO BIKES (COMPANY, PRICE, COLOUR, IS_BLACK)
+VALUES ('Triumph', 1200000, 'Red', 0);
