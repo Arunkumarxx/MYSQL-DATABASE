@@ -150,6 +150,6 @@ create table NameList(
     name varchar(25)
 );
 
-insert into namelist values('abedsc');
+insert into namelist values('abedscs');
 
 select * from namelist where name regexp 'ab*c';
