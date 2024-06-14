@@ -3,4 +3,4 @@ create table floats (
 );
 
 insert into floats
-values();
+values(23.233232);
