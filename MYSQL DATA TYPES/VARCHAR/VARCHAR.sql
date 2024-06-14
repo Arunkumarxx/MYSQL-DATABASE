@@ -1,3 +1,4 @@
 create table testTable (
-    one varchar(327)
+    one varchar(32765),
+    two varchar(32)
 );
