@@ -66,4 +66,4 @@ select  concat('arun',space(100),'kumar');
 
 select strcmp('arun','arun');
 
-select substr('arun',1);
+select substr('arun',2);
