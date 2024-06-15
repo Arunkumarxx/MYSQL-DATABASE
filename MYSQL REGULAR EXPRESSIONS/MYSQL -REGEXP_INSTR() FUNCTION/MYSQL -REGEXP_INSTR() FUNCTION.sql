@@ -1,4 +1,4 @@
 select * from customers;
 
 
-select name regexp from customers
+select name regexp_instr() from customers
