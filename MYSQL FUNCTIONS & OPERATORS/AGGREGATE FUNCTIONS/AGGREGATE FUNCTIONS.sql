@@ -7,3 +7,5 @@ select count(price) from film_list;
 select  sum(price) from film_list;
 
 select max(price) from film_list;
+
+select 
