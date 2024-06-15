@@ -1,6 +1,5 @@
-UPDATE customers
-SET name = 'Arun Kumar'
-WHERE REGEXP_LIKE(name, '^a', 'i');
+update customers
+set name='Arun kumar'
+where regexp_replace(name,'^a','i');
 
-
-SELECT * FROM customers;
+select * from customers;
