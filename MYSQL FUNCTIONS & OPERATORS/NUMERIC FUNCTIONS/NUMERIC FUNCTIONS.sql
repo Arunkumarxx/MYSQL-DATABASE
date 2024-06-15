@@ -1,4 +1,4 @@
 select abs(-5);
 
 
-select acos(-1);
+select acos(2);
