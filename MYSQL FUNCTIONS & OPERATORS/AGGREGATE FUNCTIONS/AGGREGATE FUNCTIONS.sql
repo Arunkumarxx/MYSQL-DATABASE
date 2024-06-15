@@ -64,5 +64,4 @@ mysql> select std(price) from film_list;
 | 1.6443744917467624 |
 +--------------------+
 1 row in set (0.02 sec)
-
  */
