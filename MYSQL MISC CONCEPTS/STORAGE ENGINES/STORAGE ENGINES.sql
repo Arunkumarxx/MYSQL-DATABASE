@@ -19,5 +19,5 @@ show engines;
 11 rows in set (0.00 sec)
  */
 
-SELECT *
+SELECT * from customers
 INTO OUTFILE 'H:/some_other_directory/file_name.csv'
