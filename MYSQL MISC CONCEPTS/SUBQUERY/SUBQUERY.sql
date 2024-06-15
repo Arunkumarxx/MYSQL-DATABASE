@@ -10,4 +10,3 @@ where id=any(select id from customers);
 1 row in set (0.00 sec)
  */
 
- 
