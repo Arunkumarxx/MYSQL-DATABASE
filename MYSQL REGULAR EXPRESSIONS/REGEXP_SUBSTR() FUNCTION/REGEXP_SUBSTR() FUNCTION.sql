@@ -1,4 +1,3 @@
-select * from customers;
-
-select * from customers
-where regexp_substr(name,'a%',1,1,'run');
+SELECT * 
+FROM customers 
+WHERE REGEXP_LIKE(name, '^a.*run', 'i');
