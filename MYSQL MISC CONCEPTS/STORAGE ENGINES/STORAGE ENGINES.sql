@@ -20,5 +20,5 @@ show engines;
  */
 
 
-SELECT column_name1, column_name2,...
-INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/file_name.csv'  
+SELECT 
+INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/file_name.csv'
