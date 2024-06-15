@@ -5,4 +5,4 @@ select ceil(2.2);
 
 select ceiling(2.2);
 
-select conv(2,2);
+select conv();
