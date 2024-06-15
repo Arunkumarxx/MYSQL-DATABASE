@@ -3,6 +3,5 @@ create table some(
     name varchar(21)
 );
 
-drop table some;
 
 insert into some values (null)
