@@ -38,5 +38,5 @@ FROM customers
 WHERE REGEXP_LIKE(name, '^2');
 
 /*
- 
+
  */
