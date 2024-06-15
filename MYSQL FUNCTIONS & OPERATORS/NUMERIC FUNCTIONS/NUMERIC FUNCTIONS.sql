@@ -10,3 +10,5 @@ select conv(5,10,2);
 select floor(-2.2);
 
 select format(250,0);
+
+select hex(234);
