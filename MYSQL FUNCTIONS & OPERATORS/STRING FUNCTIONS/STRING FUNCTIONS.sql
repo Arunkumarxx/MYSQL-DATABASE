@@ -17,4 +17,4 @@ select concat_ws(',','arun','ckja','cdas');
 select elt(3,'one','two','three');
 
 
-select field('some','some','creaet','fd','fdas');
+select field('wel','some','creaet','fd','fdas');
