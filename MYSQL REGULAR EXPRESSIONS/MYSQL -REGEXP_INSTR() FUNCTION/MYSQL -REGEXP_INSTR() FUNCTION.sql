@@ -1,6 +1,6 @@
 select * from customers;
 
-SELECT name, REGEXP_INSTR(name, '^25') AS result
+SELECT name, REGEXP_INSTR(name, '^2') AS result
 FROM customers;
 
 /*
