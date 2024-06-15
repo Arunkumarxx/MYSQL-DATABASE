@@ -1,2 +1,2 @@
 select  *from customers
-where regexp_replace(name,'')
+where regexp_replace(name,'a');
