@@ -21,5 +21,5 @@ select adddate('2004-08-21','23');
  select curdate();
 
 /*
- 2024-06-15
+
  */
