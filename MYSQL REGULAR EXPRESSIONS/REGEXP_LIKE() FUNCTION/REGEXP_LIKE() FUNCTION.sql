@@ -12,3 +12,7 @@ INSERT INTO customers (name, age) VALUES
 ('Oscar', 55),
 ('M@rk!', 33),
 ('Hexa1F2', 28);
+
+
+select * from customers
+where regexp_instr(name,)
