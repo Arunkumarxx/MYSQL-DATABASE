@@ -40,3 +40,5 @@ select date_format('2004-08-21','%W %D %M %Y');
 select dayofmonth('2004-08-21');
 
 select to_days('0000-08-21');
+
+select 
