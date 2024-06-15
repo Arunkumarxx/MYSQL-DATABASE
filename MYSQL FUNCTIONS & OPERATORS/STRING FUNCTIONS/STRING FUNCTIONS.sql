@@ -63,3 +63,5 @@ select right('aarun',2);
 select rpad('arun',char_length('arun')+23,'*');
 
 select  concat('arun',space(100),'kumar');
+
+select 
