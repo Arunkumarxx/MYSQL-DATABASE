@@ -8,4 +8,4 @@ select adddate('2004-08-21','23');
 1 row in set (0.00 sec)
  */
 
- select addtime('')
+ select addtime('2004-08-21')
