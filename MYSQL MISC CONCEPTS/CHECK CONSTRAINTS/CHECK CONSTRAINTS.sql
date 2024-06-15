@@ -3,4 +3,4 @@ create table list(
     age tinyint check ( age>18 )
 );
 
-insert into list values(1,)
+insert into list values(1,1)
