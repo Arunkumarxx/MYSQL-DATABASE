@@ -2,4 +2,5 @@ select * from customers;
 
 
 select  name  as somes
-from customers;
+from customers
+where name regexp '';
