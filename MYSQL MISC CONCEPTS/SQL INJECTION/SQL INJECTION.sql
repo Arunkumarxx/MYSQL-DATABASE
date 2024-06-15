@@ -1,1 +1,1 @@
-' or '
+select * from users
