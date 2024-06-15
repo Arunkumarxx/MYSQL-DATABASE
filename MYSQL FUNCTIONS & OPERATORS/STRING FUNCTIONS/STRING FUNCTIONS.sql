@@ -28,4 +28,4 @@ select instr('kumar','a');
 
 select lower('kumaR');
 
-select upper('')
+select upper('kumar');
