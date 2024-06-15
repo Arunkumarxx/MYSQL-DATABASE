@@ -1,5 +1,5 @@
 select * from customers;
 
 
-select  as somes
+select  name  as somes
 from customers;
