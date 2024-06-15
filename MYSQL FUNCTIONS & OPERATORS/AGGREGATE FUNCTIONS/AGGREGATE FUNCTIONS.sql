@@ -12,6 +12,6 @@ select min(price) from film_list;
 
 select std(price) from film_list;
 
-select avg(price) from film_list;
+
 
 
