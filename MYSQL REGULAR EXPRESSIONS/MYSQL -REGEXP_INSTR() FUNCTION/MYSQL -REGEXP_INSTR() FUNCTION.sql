@@ -1,6 +1,6 @@
 select * from customers;
 
-SELECT name, REGEXP_INSTR(name, 'a{1}',1,1,'Yes') AS Position
+SELECT name, REGEXP_INSTR(name, 'a{1}',1,1,'YesFound') AS Position
 FROM customers;
 
 /*
