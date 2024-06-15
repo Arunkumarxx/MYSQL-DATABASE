@@ -1,3 +1,3 @@
 SELECT * 
 FROM customers 
-WHERE REGEXP_LIKE(name, '^a*r');
+WHERE regexp_substr(name, '^a*r');
