@@ -4,4 +4,3 @@ WHERE REGEXP_LIKE(name, '^a', 'i');
 
 
 SELECT * FROM customers;
-
