@@ -1,3 +1,3 @@
 select ascii('a');
 
-select bin('a');
+select bin(1);
