@@ -1,1 +1,1 @@
-select ascii(2);
+select ascii('');
