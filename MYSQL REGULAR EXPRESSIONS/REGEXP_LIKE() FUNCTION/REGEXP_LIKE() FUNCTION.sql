@@ -35,4 +35,4 @@ where regexp_like(name,'^a','i');
 
 SELECT name, age
 FROM customers
-WHERE REGEXP_LIKE(name, '^[31-39]');
+WHERE REGEXP_LIKE(name, '^[3-9]');
