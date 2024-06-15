@@ -15,4 +15,4 @@ select hex(234);
 
 select pow(2,2);
 
-select 
+select power(2,2);
