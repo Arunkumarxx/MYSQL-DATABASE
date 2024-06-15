@@ -8,4 +8,4 @@ select char(23);
 
 select character_length('Arun');
 
-select char_length('fdsajd fdsj');
+select char_length('');
