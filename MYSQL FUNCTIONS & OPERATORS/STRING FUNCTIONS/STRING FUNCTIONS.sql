@@ -51,3 +51,5 @@ select rtrim(' we wel ');
 select  trim(' we  we ');
 
 select mid('arunkumar',2);
+
+select ;
