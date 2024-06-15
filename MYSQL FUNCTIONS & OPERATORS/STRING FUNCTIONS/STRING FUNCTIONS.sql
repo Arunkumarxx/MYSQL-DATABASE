@@ -29,3 +29,5 @@ select instr('kumar','a');
 select lower('kumaR');
 
 select upper('kumar');
+
+select lcase('arun');
