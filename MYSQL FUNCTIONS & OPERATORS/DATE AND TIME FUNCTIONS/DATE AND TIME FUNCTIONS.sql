@@ -32,4 +32,4 @@ select adddate('2004-08-21','23');
 
 select  date_add('2004-09-21',23);
 
-select  ;
+select day() ;
