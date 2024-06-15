@@ -1,2 +1,2 @@
 select * from customers
-where match()
+where match(name,age) 
