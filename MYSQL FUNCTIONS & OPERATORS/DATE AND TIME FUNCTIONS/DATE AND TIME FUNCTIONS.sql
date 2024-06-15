@@ -30,4 +30,4 @@ select adddate('2004-08-21','23');
 
  select current_time;
 
-select current_time()
+select current_time(23)
