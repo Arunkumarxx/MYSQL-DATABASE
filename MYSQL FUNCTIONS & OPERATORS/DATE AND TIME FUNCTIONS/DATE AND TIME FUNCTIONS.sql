@@ -42,3 +42,5 @@ select dayofmonth('2004-08-21');
 select to_days('0000-08-21');
 
 select utc_date();
+
+select week();
