@@ -20,5 +20,5 @@ show engines;
  */
 
 
-SELECT *
+SELECT * from customers
 INTO OUTFILE 'H:/file_name.csv'
