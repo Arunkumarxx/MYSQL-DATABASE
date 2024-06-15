@@ -3,3 +3,8 @@ INTO TABLE customers
 FIELDS TERMINATED BY ','
 OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n';
+
+/*
+ done
+ */
+
