@@ -14,5 +14,5 @@ INSERT INTO customers (name, age) VALUES
 ('Hexa1F2', 28);
 
 
-select * from customers
+select name from customers
 where regexp_instr(name,'^a','c');
