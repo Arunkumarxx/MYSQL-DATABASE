@@ -1,5 +1,4 @@
 create table list(
     name varchar(20),
-    age tinyint
-                 
+    age tinyint check ( age> )
 );
