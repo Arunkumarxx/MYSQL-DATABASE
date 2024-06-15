@@ -1,1 +1,1 @@
-select 
+select 10%23;
