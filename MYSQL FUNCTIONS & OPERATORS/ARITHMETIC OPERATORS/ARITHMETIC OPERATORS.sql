@@ -6,4 +6,7 @@ select 10+100;
 
 select 10-5;
 
-select 
+select -10;
+
+select 123/2;
+
