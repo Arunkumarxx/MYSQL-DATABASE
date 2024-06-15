@@ -19,6 +19,8 @@ show engines;
 11 rows in set (0.00 sec)
  */
 
-
-SELECT * from customers
-INTO OUTFILE 'H:/file_name.csv';
+SELECT *
+INTO OUTFILE '/tmp/file_name.csv'
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+FROM customers;
