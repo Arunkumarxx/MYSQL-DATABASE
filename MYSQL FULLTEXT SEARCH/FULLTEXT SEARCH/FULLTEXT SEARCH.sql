@@ -1,3 +1,3 @@
 select * from customers
 where match(name,age)
-against ('^a');
+against ('^a' in boolean mode);
