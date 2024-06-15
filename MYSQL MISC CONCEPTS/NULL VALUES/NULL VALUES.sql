@@ -19,4 +19,4 @@ select * from some;
 
 # is not null
 # is null
-select id from some ;
+select id is not null from some ;
