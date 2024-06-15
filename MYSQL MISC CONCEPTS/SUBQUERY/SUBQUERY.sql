@@ -1,1 +1,1 @@
-select * form 
+select * 
