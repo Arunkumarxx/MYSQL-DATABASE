@@ -19,4 +19,4 @@ FROM customers;
  */
 
 select * from customers
-where name regexp '[[:upper:]]';
+where name regexp '[[::]]';
