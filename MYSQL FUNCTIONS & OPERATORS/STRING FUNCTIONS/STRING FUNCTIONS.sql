@@ -59,3 +59,4 @@ select position('w' in 'welcome come ');
 select quote('arun');
 
 select right('aarun',2);
+
