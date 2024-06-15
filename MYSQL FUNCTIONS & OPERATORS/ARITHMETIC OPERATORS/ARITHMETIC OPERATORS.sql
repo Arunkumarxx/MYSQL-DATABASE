@@ -4,4 +4,6 @@ select 10*2;
 
 select 10+100;
 
+select 10-5;
+
 select 
