@@ -1,6 +1,6 @@
 update customers
 set name ='bank of baroda'
-where regexp_replace(name,'Eve','');
+where regexp_replace(name,'^e','');
 
 UPDATE customers
 SET name = 'bank of baroda'
