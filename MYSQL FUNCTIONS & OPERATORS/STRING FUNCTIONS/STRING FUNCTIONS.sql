@@ -38,4 +38,4 @@ select right('arun',1);
 
 select length('arun');
 
-select 
+select locate()
