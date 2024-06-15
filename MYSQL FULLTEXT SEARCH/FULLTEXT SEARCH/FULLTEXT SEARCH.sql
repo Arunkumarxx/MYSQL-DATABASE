@@ -10,4 +10,4 @@ insert into some values('kcds',3);
 
 select * from some
 where match(name,id)
-against('Arun|');
+against('Arun|3');
