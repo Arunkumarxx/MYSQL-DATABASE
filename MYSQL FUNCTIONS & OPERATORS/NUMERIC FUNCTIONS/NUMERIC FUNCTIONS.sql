@@ -17,4 +17,4 @@ select pow(2,2);
 
 select power(2,2);
 
-select rand(100);
+select rand() as result;
