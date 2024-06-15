@@ -43,3 +43,5 @@ select locate('r','arun',1);
 select lpad('arun',5,'$') ;
 
   select rpad('arun',5,'$');
+
+
