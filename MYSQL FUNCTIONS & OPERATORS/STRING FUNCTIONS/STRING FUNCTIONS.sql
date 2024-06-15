@@ -1,1 +1,1 @@
-select ascii('b');
+select ascii('B');
