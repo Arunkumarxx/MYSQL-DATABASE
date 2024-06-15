@@ -1,6 +1,5 @@
 select * from customers;
 
 
-select  name  as somes
-from customers
+select  name  from customers
 where name regexp '^a';
