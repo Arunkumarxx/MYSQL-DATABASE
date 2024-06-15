@@ -4,4 +4,4 @@ create table some(
 );
 
 
-insert into some values ();
+insert into some() values (1);
