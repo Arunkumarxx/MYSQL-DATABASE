@@ -18,7 +18,7 @@ select adddate('2004-08-21','23');
 1 row in set (0.00 sec)
  */
 
- select curdate()-233;
+ select curdate()-;
 
 /*
 +------------+
