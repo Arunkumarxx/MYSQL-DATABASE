@@ -2,4 +2,6 @@ create table some(
     id int
 );
 
-insert into some values ()
+insert into some values (null)
+sele
+;
