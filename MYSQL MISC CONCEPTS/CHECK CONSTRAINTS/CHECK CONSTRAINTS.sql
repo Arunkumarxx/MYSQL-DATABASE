@@ -5,6 +5,9 @@ create table list(
 
 insert into list values(1,22);
 /*
- 
+ done
  */
 insert into list values(1,12);
+/*
+ 
+ */
