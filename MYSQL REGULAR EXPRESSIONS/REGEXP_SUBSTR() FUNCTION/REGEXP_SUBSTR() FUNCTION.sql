@@ -1,3 +1,4 @@
 select * from customers;
 
-select *;
+select * from customers
+;
