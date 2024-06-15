@@ -21,4 +21,4 @@ select * from some;
 # is null
 select id is not null from some ;
 
-select 
+select some.name is null  from some
