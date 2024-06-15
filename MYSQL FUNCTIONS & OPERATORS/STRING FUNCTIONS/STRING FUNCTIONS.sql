@@ -1,3 +1,3 @@
 select ascii('a');
 
-select 
+select bin('arunkumar');
