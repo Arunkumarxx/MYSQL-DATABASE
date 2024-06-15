@@ -1,2 +1,2 @@
 select * from userlist
-where id=any()
+where id=any(select id from customers);
