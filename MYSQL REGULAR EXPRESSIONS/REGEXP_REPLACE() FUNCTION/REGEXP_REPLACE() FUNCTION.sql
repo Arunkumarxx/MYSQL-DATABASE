@@ -1,5 +1,3 @@
 update customers
-set name='Jhon Wick'
-where regexp_replace(name,'^a','i');
-
+set 
 select * from customers;
