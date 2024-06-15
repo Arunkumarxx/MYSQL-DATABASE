@@ -18,3 +18,5 @@ select elt(3,'one','two','three');
 
 
 select field('fd','some','creaet','fd','fdas');
+
+select 
