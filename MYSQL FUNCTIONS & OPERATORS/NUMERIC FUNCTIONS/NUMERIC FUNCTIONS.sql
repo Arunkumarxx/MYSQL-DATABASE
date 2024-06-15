@@ -20,3 +20,4 @@ select power(2,2);
 select rand() as result;
 
 select truncate('234.2323',2);
+
