@@ -1,2 +1,2 @@
 select  *from customers
-where regexp_replace(name,'a','Arun Kumar',1,1,'');
+where regexp_replace(name,'a','Arun Kumar',1,1,'[[:aplha:]]');
