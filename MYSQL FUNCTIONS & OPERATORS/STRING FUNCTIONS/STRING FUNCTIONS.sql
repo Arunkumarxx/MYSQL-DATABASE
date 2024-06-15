@@ -19,4 +19,4 @@ select elt(3,'one','two','three');
 
 select field('fd','some','creaet','fd','fdas');
 
-SELECT INSERT('ar', 3, 1, 'un');
+SELECT INSERT('Tutorialspoint', 20, 5, 'Tutorials');
