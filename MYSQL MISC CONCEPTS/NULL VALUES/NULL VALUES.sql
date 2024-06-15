@@ -4,4 +4,4 @@ create table some(
 );
 
 
-insert into some values (null)
+insert into some values (null);
