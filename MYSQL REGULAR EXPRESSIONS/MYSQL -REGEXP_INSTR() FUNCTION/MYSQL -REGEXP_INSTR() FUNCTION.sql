@@ -1,3 +1,3 @@
 select * from customers;
 
-select *from customers
+select name  from customers
