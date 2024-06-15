@@ -8,4 +8,4 @@ select adddate('2004-08-21','23');
 1 row in set (0.00 sec)
  */
 
- select addtime('10:48:32.2334','06:34:');
+ select addtime('10:48:32.2334','06:34:23.23');
