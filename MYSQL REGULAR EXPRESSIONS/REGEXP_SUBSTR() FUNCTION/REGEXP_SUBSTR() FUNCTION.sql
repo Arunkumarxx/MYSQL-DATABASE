@@ -1,6 +1,6 @@
-SELECT 23+23
+SELECT 
 FROM customers 
-WHERE regexp_substr('Arunkumaar', 'x',1,1,'i');
+WHERE regexp_substr('Arunkumaar', '',1,1,'i');
 
 
 select * from customers;
