@@ -40,4 +40,5 @@ select length('arun');
 
 select locate('r','arun',1);
 
-select lpad('arun',52,'$');
+select lpad('arun',52,'$') union
+                           select ;
