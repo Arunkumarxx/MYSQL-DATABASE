@@ -9,3 +9,5 @@ select char(23);
 select character_length('Arun');
 
 select char_length('Arun');
+
+select concat()
