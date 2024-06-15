@@ -400,5 +400,3 @@ mysql> select 'arun' sounds like 'arun';
 
 mysql>
  */
-
- 
