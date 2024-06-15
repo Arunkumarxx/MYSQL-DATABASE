@@ -1,3 +1,3 @@
 create table some(
-    int id not null,
+    id int
 );
