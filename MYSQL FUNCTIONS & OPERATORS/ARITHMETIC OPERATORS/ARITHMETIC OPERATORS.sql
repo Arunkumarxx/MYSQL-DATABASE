@@ -10,4 +10,4 @@ select -10;
 
 select 123/2;
 
-select 23 div
+select 23 div 343;
