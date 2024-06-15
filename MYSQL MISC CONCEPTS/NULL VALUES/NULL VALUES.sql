@@ -3,5 +3,3 @@ create table some(
 );
 
 insert into some values (null)
-sele
-;
