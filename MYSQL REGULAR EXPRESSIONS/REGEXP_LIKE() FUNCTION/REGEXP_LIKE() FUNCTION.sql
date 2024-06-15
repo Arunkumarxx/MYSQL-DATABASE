@@ -3,7 +3,6 @@ CREATE TABLE customers (
     name VARCHAR(50),
     age INT
 );
-drop table customers;
 INSERT INTO customers (name, age) VALUES
 ('Alice', 25),
 ('Bob', 32),
