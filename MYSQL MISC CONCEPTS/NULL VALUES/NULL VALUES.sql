@@ -17,4 +17,5 @@ select * from some;
 1 row in set (0.00 sec)
  */
 
- 
+# is not null
+# is null
