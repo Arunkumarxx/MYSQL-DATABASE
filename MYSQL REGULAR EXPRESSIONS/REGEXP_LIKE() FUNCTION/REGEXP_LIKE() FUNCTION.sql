@@ -15,12 +15,7 @@ INSERT INTO customers (name, age) VALUES
 
 SELECT name
 FROM customers
-WHERE REGEXP_LIKE(name, '^a', 'i');
+WHERE REGEXP_LIKE(name, '^a', 'c');
 /*
-+-------+
-| name  |
-+-------+
-| Alice |
-+-------+
-1 row in set (0.00 sec)
+
  */
