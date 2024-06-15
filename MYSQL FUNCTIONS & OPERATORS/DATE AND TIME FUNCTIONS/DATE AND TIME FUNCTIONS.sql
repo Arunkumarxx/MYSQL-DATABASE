@@ -45,4 +45,4 @@ select utc_date();
 
 select week('2004-08-21');
 
-select to_seconds();
+select to_seconds('2004');
