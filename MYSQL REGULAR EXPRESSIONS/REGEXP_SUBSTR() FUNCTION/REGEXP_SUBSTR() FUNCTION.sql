@@ -1,6 +1,6 @@
 SELECT * 
 FROM customers 
-WHERE regexp_substr(name, 'Arun kumar');
+WHERE regexp_substr(name, '');
 
 
 select * from customers;
