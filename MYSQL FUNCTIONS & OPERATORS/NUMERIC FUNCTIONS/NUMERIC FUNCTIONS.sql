@@ -13,4 +13,4 @@ select format(250,0);
 
 select hex(234);
 
-select 
+select pow(2);
