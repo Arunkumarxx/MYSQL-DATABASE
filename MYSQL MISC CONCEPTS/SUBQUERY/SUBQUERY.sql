@@ -1,1 +1,1 @@
-select * form customers
+select * form 
