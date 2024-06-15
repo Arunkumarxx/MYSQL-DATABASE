@@ -46,4 +46,3 @@ WHERE REGEXP_LIKE(age, '^2[1-8]');
 2 rows in set (0.00 sec)
  */
 
- 
