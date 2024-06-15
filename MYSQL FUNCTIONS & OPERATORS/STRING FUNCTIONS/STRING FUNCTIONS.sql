@@ -20,3 +20,5 @@ select elt(3,'one','two','three');
 select field('fd','some','creaet','fd','fdas');
 
 SELECT INSERT('Tutorialspoint', 20, 5, 'Tutorials');
+
+select insert()
