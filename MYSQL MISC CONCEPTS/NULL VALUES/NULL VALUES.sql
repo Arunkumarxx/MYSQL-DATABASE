@@ -20,3 +20,5 @@ select * from some;
 # is not null
 # is null
 select id is not null from some ;
+
+select name is null some
