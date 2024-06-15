@@ -64,4 +64,4 @@ select rpad('arun',char_length('arun')+23,'*');
 
 select  concat('arun',space(100),'kumar');
 
-select 
+select strcmp('arun','arunk');
