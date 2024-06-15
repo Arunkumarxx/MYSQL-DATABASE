@@ -2,4 +2,4 @@ use sakila;
 
 select avg(film_list.price) from film_list;
 
-select bit_and();
+select bit_and(2);
