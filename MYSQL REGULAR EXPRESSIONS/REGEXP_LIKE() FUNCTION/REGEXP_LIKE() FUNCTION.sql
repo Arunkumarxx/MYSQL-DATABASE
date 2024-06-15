@@ -22,4 +22,5 @@ mysql> SELECT name
     -> WHERE REGEXP_LIKE(name, '^a', 'c');
 Empty set (0.00 sec)
  */
- 
+select name from customers
+where regexp_like(name,'^a','c');
