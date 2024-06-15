@@ -1,1 +1,1 @@
-create table custome
+create table 
