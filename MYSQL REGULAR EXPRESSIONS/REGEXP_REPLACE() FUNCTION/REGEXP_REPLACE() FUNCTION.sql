@@ -1,5 +1,5 @@
 update customers
-set name='Arun kumar'
+set name=''
 where name='Arun kumar';
 # where regexp_replace(name,'^a','i');
 
