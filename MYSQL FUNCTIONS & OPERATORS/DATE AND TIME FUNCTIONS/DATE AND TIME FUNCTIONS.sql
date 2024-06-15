@@ -1,1 +1,1 @@
-select adddate();
+select adddate('');
