@@ -57,3 +57,5 @@ select oct(432432);
 select position('w' in 'welcome come ');
 
 select quote('arun');
+
+select repeat('arun',32);
