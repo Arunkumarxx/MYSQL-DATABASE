@@ -34,3 +34,5 @@ select  date_add('2004-09-21',23);
 
 select day('2004-08-21');
 select dayname('2004-08-21');
+
+select 
