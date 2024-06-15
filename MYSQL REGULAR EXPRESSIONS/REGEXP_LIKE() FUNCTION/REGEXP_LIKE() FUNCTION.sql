@@ -37,5 +37,13 @@ SELECT name, age
 FROM customers
 WHERE REGEXP_LIKE(age, '^2[1-8]');
 /*
-
++---------+------+
+| name    | age  |
++---------+------+
+| Alice   |   25 |
+| Hexa1F2 |   28 |
++---------+------+
+2 rows in set (0.00 sec)
  */
+
+ 
