@@ -52,4 +52,4 @@ select  trim(' we  we ');
 
 select mid('arunkumar',2);
 
-select ;
+select oct(23);
