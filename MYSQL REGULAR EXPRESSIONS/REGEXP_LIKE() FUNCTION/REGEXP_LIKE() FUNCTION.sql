@@ -13,6 +13,6 @@ INSERT INTO customers (name, age) VALUES
 ('M@rk!', 33),
 ('Hexa1F2', 28);
 
-
-select name from customers
-where regexp_instr(name,'^a','[[:alpha:]]');
+SELECT name
+FROM customers
+WHERE REGEXP_LIKE(name, '^a', 'i');
