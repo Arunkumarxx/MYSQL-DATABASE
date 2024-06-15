@@ -48,3 +48,4 @@ select ltrim(' wel we ');
 
 
 select rtrim(' we wel ');
+select  trim(' we  we ');
