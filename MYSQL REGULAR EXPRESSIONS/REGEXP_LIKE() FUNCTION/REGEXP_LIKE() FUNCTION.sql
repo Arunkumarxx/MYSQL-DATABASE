@@ -17,5 +17,10 @@ SELECT name
 FROM customers
 WHERE REGEXP_LIKE(name, '^a', 'i');
 /*
-
++-------+
+| name  |
++-------+
+| Alice |
++-------+
+1 row in set (0.00 sec)
  */
