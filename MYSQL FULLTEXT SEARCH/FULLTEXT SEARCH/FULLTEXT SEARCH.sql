@@ -1,3 +1,4 @@
-select * from customers
-where match(name,age)
-against ('^a' );
+create table some (
+    name varchar(10),
+    
+);
