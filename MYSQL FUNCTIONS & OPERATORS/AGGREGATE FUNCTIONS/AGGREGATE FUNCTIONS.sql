@@ -1,3 +1,3 @@
 use sakila;
 
-select 
+select film_list.price
