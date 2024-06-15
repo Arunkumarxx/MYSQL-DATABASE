@@ -1,3 +1,5 @@
 create table list(
-    name varchar(2)
+    name varchar(20),
+    age tinyint
+                 
 );
