@@ -1,4 +1,4 @@
 select * from customers;
 
 
-select name REGEXP_ from customers
+select name  from customers
