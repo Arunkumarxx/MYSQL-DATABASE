@@ -54,4 +54,4 @@ select mid('arunkumar',2);
 
 select oct(432432);
 
-select position('w','welcome');
+select position('w' in '');
