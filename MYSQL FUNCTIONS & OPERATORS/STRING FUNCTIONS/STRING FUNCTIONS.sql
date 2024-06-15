@@ -26,4 +26,4 @@ select insert('kumar',1,3,'Arun');
 select instr('kumar','a');
 
 
-select 
+select lower()
