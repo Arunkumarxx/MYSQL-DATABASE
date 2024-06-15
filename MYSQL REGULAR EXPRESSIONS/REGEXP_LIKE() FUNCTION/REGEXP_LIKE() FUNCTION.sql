@@ -23,4 +23,4 @@ mysql> SELECT name
 Empty set (0.00 sec)
  */
 select name from customers
-where regexp_like(name,'^a','c');
+where regexp_like(name,'^a','i');
