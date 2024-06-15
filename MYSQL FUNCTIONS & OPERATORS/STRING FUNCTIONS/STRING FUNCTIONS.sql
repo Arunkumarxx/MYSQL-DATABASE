@@ -70,4 +70,4 @@ select substr('arun',2);
 
 select substring('arun','',1);
 
-select 
+select 'arun' sounds like 'arun';
