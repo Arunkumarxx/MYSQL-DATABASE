@@ -16,3 +16,6 @@ INSERT INTO customers (name, age) VALUES
 SELECT name
 FROM customers
 WHERE REGEXP_LIKE(name, '^a', 'c');
+/*
+ 
+ */
