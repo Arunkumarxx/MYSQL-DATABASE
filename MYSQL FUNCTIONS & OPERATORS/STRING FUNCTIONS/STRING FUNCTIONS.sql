@@ -68,4 +68,4 @@ select strcmp('arun','arun');
 
 select substr('arun',2);
 
-select 
+select substring('arun','',2);
