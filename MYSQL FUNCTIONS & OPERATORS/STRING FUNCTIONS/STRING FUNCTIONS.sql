@@ -32,4 +32,4 @@ select upper('kumar');
 
 select lcase('arun');
 
-select left('2323');
+select left('2323',2);
