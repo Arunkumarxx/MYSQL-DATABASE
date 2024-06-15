@@ -36,3 +36,7 @@ where regexp_like(name,'^a','i');
 SELECT name, age
 FROM customers
 WHERE REGEXP_LIKE(name, '^2');
+
+/*
+ 
+ */
