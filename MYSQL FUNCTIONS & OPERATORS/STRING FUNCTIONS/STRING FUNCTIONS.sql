@@ -21,4 +21,4 @@ select field('fd','some','creaet','fd','fdas');
 
 SELECT INSERT('Tutorialspoint', 20, 5, 'Tutorials');
 
-select insert('kumar',4,2,'Arun')
+select insert('kumar',1,2,'Arun')
