@@ -7,3 +7,6 @@ create table some(
 insert into some(id) values (1);
 
 select * from some;
+
+/*
+ */
