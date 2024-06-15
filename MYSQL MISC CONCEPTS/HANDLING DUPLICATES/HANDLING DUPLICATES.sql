@@ -5,3 +5,4 @@ create table userList
 );
 
 insert into userList values (1,'arun');
+insert into userList values (2,'arun');
