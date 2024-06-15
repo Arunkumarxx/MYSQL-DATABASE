@@ -58,4 +58,4 @@ select position('w' in 'welcome come ');
 
 select quote('arun');
 
-select reverse('arun');
+select right('')
