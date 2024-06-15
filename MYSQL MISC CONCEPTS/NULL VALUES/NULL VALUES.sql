@@ -1,5 +1,6 @@
 create table some(
-    id int
+    id int,
+    
 );
 
 insert into some values (null)
