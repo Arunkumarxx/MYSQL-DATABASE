@@ -33,4 +33,3 @@ where regexp_like(name,'^a','i');
 1 row in set (0.00 sec)
  */
 
- 
