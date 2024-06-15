@@ -33,3 +33,5 @@ select upper('kumar');
 select lcase('arun');
 
 select left('2323',1);
+
+select right('arun',1);
