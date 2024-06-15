@@ -14,4 +14,5 @@ INSERT INTO customers (name, age) VALUES
 ('Hexa1F2', 28);
 
 
-[HY000][3686] Index out of bounds in regular expression search.
+select name from customers
+where regexp_instr(name,'^a','[[:alpha:]]');
