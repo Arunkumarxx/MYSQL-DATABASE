@@ -1,4 +1,4 @@
 select * from customers;
 
 
-select name 
+select name  from customers
