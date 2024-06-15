@@ -10,4 +10,4 @@ select max(price) from film_list;
 
 select min(price) from film_list;
 
-select 
+select std(price) from film_list;
