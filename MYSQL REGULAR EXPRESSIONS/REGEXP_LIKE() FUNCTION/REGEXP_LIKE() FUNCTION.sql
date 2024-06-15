@@ -15,4 +15,4 @@ INSERT INTO customers (name, age) VALUES
 
 
 select name from customers
-where regexp_instr(name,'^a','c');
+where regexp_instr(name,'^a','[[::]]');
