@@ -12,4 +12,4 @@ select char_length('Arun');
 
 select concat('Arun ','Kumar');
 
-select concat_ws('_','')
+select concat_ws('_','arun','ckja','cdas');
