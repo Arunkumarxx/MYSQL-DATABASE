@@ -22,3 +22,4 @@ select * from some;
 select id is not null from some ;
 
 select some.name is null  from some
+
