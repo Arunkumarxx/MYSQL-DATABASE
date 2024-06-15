@@ -30,4 +30,6 @@ select lower('kumaR');
 
 select upper('kumar');
 
-select lcase();
+select lcase('arun');
+
+
