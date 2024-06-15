@@ -1,3 +1,3 @@
 use sakila;
 
-select 
+select price from 
