@@ -60,3 +60,4 @@ select quote('arun');
 
 select right('aarun',2);
 
+select rpad('arun',)
