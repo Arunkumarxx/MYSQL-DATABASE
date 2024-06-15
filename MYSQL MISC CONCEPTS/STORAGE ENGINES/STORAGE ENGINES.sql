@@ -18,3 +18,7 @@ show engines;
 +--------------------+---------+----------------------------------------------------------------+--------------+------+------------+
 11 rows in set (0.00 sec)
  */
+
+
+SELECT column_name1, column_name2,...
+INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/file_name.csv'  
