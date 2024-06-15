@@ -20,5 +20,5 @@ show engines;
  */
 
 
-SELECT 
-INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/file_name.csv'
+select * from customers
+INTO OUTFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/file_name.csv';
