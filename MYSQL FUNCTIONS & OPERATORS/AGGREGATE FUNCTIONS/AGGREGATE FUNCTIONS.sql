@@ -11,3 +11,5 @@ select max(price) from film_list;
 select min(price) from film_list;
 
 select std(price) from film_list;
+
+
