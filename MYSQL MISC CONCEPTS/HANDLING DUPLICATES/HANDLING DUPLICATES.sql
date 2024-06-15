@@ -1,5 +1,6 @@
 create table userList9
 (
     id tinyint,
-    name varchar()
+    name varchar(12),
+    
 );
