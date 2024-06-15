@@ -36,4 +36,4 @@ select left('2323',1);
 
 select right('arun',1);
 
-select 
+select length('arun');
