@@ -44,4 +44,7 @@ select lpad('arun',5,'$') ;
 
   select rpad('arun',5,'$');
 
-select trim(' wel we ');
+select ltrim(' wel we ');
+
+
+select rtrim(' we wel ');
