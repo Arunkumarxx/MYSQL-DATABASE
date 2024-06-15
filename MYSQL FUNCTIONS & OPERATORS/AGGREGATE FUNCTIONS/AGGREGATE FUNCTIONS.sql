@@ -9,3 +9,5 @@ select  sum(price) from film_list;
 select max(price) from film_list;
 
 select min(price) from film_list;
+
+slee
