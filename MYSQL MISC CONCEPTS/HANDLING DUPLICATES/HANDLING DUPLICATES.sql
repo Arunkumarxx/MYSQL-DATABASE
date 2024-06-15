@@ -4,4 +4,4 @@ create table userList
     name varchar(12) unique
 );
 
-insert into userList values ();
+insert into userList values (1,'');
