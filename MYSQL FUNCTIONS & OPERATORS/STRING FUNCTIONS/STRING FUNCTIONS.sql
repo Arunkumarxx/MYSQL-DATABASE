@@ -1,1 +1,2 @@
-select ascii('');
+select ascii('a
+');
