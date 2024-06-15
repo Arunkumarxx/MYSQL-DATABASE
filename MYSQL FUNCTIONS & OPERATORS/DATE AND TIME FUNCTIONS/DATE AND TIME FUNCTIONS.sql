@@ -1,1 +1,1 @@
-select adddate('');
+select adddate('2004-08-21',);
