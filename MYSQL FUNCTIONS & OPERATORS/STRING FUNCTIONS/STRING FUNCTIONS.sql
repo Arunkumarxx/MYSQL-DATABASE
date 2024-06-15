@@ -52,6 +52,6 @@ select  trim(' we  we ');
 
 select mid('arunkumar',2);
 
-select oct('arunds');
+select oct(432432);
 
 select
