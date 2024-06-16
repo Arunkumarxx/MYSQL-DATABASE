@@ -7,7 +7,7 @@ LINES TERMINATED BY '\n'
 
 select * from customers where id =2;
 select * from namelist where name='A^';
-select 
+select
 /*
  done
 
