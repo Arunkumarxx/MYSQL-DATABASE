@@ -8,8 +8,8 @@ LINES TERMINATED BY '\n'
 select * from customers where id =2;
 select * from namelist where name='A^';
 
-sele
-
+select * from customers
+where customers.name='Arunkumar';
 /*
  done
 
