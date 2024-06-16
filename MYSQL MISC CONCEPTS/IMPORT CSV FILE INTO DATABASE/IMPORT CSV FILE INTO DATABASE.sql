@@ -3,9 +3,9 @@ INTO TABLE customers
 FIELDS TERMINATED BY ','
 OPTIONALLY ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
-
 ;
 
+select * from customers where id =2;
 /*
  done
 
