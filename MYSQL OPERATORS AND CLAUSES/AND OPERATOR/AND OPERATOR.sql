@@ -8,4 +8,4 @@ select * from orders
 where OrderID >2 and OrderID<234;
 
 select * from customers
-where ordi
+where orderid >233; 
