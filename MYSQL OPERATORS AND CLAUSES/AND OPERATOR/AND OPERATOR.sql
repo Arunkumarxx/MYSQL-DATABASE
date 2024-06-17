@@ -9,4 +9,3 @@ where OrderID >2 and OrderID<234;
 
 select * from customers
 where orderid >233; and not like that before we all
-                    
