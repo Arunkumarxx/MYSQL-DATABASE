@@ -7,3 +7,4 @@ where CategoryID between  2 and 43;
 select * from orders
 where OrderID >2 and OrderID<234;
 
+select * from customers
