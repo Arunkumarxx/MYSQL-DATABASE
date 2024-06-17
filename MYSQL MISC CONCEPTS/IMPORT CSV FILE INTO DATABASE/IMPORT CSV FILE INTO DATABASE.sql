@@ -9,6 +9,7 @@ select * from customers where id =2;
 select * from namelist where name='A^';
 
 select * from customers
+         
 where customers.name not like'a%';
 /*
  done
