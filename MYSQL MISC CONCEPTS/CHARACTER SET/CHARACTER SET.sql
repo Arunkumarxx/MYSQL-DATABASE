@@ -1,1 +1,1 @@
-show character set 
+show character set like ''
