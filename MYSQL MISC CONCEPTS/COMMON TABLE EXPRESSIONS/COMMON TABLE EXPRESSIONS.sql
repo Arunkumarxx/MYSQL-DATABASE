@@ -15,4 +15,4 @@ WITH avg_salaries AS (
         employees
     GROUP BY
         department_id
-)select * from avg_salaries;
+)select * from 
