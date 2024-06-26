@@ -29,5 +29,5 @@ INSERT INTO employees (employee_id, first_name, last_name, department_id, salary
 (19, 'Christopher', 'Rodriguez', 103, 78000.00),
 (20, 'Charlotte', 'Lewis', 104, 84000.00);
 
-with LessSalary as (select id,name,employees.salary from customers )select * from employees where salary<54000;
+with LessSalary as (select id,name,employees.salary from employees )select * from employees where salary<54000;
 
