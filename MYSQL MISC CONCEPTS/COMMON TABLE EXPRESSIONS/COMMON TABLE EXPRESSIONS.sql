@@ -6,5 +6,3 @@ CREATE TABLE employees
     department_id INT,
     salary        DECIMAL(10, 2)
 );
-
-
