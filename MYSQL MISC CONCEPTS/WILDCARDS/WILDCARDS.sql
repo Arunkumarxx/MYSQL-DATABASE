@@ -1,2 +1,6 @@
 select *
-from customers where age like '2%';
+from customers where age like '_%';
+
+/*
+
+ */
