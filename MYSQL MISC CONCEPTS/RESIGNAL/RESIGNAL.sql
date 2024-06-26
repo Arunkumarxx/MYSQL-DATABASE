@@ -18,7 +18,7 @@ BEGIN
     BEGIN
         -- Log the error or perform other actions
         ROLLBACK;
-        RESIGNAL; -- Re-raise the same exception
+        RESIGNAL;
     END;
     
 
