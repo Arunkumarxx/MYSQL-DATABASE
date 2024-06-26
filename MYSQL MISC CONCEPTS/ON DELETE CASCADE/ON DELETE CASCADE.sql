@@ -9,3 +9,4 @@ create table child (
     foreign key  (id) references parent (id) on delete  cascade
 );
 
+in
