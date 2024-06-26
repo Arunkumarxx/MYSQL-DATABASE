@@ -5,8 +5,8 @@ BEGIN
     DECLARE arun VARCHAR(255);
     SELECT employees.first_name INTO arun
     FROM employees
-    WHERE age > input_age
-    ORDER BY age ASC
+    WHERE salary > input_age
+    ORDER BY salary ASC
     LIMIT 1;
     RETURN arun;
 END //
