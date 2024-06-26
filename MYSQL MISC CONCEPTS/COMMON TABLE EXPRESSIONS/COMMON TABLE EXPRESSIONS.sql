@@ -1,2 +1,2 @@
-with ageAround as (select * from customers where age>)
+with ageAround as (select * from customers where age regexp '')
 select * from customers;
