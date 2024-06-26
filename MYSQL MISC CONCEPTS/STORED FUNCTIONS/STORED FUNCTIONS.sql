@@ -13,5 +13,4 @@ END //
 
 DELIMITER ;
 
-
-select some(1);
+SELECT some(25);
