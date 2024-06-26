@@ -1,1 +1,1 @@
-SHOW VARIABLES LIKE "character_set_client";
+SHOW CHARACTER SET;
