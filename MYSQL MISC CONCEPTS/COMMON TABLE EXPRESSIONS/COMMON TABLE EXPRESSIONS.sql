@@ -29,20 +29,5 @@ INSERT INTO employees (employee_id, first_name, last_name, department_id, salary
 (19, 'Christopher', 'Rodriguez', 103, 78000.00),
 (20, 'Charlotte', 'Lewis', 104, 84000.00);
 
-WITH avg_salaries AS (
-    SELECT
-        department_id,
-        AVG(salary) AS avg_salary
-    FROM
-        employees
-    GROUP BY
-        department_id
-)
-SELECT
-    department_id,
-    avg_salary
-FROM
-    avg_salaries
-WHERE
-    avg_salary > 60000;
+with 
 
