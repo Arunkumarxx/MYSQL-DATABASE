@@ -7,4 +7,6 @@ CREATE TABLE employees
     salary        DECIMAL(10, 2)
 );
 
-with avgSalaries  as ()
+with avgSalaries  as (
+    select employees.department_id
+)
