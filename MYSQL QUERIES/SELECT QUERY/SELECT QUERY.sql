@@ -15,4 +15,4 @@ select 2%23;
 
 
 
-select * from 
+select * from customers order by rand();
