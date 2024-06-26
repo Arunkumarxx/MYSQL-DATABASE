@@ -17,6 +17,3 @@ insert into child() values
 
 delete from parent
 where id>2;
-
-
-select * from child;
