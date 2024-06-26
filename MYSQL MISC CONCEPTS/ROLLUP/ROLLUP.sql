@@ -17,4 +17,4 @@ INSERT INTO sales (region, country, product, revenue) VALUES
 
 
 select sales.region,sales.country,sum(sales.revenue)
-as revenue from sales  group by region,product with rollup ;
+as revenue from sales  group by region, with rollup ;
