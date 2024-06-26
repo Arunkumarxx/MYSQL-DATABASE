@@ -15,4 +15,4 @@ select 2%23;
 
 
 
-select 
+select * from 
