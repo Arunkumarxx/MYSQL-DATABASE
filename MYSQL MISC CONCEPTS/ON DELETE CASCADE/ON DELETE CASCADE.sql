@@ -8,3 +8,4 @@ create table child (
     id tinyint ,
     foreign key  (id) references parent (id) on delete  cascade
 );
+
