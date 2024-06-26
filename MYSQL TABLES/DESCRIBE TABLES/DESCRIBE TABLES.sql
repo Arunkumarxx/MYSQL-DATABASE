@@ -57,4 +57,4 @@ mysql> explain cust;
 
  */
 
-select 
+select json_type()
