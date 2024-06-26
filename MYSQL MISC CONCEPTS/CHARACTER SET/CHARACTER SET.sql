@@ -1,1 +1,1 @@
-show character set like 'character_set';
+show character set like 'character_set_client';
