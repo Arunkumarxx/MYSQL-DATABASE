@@ -9,6 +9,8 @@ create table child (
     foreign key  (id) references parent (id) on delete  cascade
 );
 
+
+
 insert into parent() values
 ('Arun Kumar',1),
 ('xclxzk',2),
