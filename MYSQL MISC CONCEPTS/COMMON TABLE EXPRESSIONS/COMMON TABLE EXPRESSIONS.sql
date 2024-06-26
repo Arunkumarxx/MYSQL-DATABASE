@@ -7,7 +7,12 @@ CREATE TABLE employees
     salary        DECIMAL(10, 2)
 );
 
-with avgSalaries  as (
-    select employees.department_id, avg(employees.salary)
-    from employees group by department_id
-)select * from employees;
+WITH avg_salaries AS (
+    SELECT
+        department_id,
+        AVG(salary) AS avg_salary
+    FROM
+        employees
+    GROUP BY
+        department_id
+)
