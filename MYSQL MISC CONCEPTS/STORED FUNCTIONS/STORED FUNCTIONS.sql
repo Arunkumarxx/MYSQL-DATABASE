@@ -1,5 +1,5 @@
  delimiter //
-create function some(age int )returns varchar(255)
+create function some(ages int )returns varchar(255)
 begin
     declare arun varchar(255);
     select employees.first_name into arun from employees
