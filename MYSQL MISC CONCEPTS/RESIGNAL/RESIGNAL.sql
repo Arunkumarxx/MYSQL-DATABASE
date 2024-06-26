@@ -13,10 +13,10 @@ BEGIN
             SET MESSAGE_TEXT = 'Employee salary exceeds the limit of 100000';
     END IF;
     
-    -- Handle the exception raised
+
     DECLARE CONTINUE HANDLER FOR SQLSTATE '45000'
     BEGIN
-        -- Log the error or perform other actions
+
         ROLLBACK;
         RESIGNAL;
     END;
