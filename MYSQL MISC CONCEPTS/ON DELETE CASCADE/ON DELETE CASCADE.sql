@@ -17,3 +17,4 @@ insert into child() values
 ('vczvcnz',3),
 ('vcxnzn',4);
 
+select * from child;
