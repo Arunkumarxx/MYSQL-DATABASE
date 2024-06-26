@@ -5,4 +5,5 @@ CREATE TABLE employees (
     department_id INT,
     salary DECIMAL(10, 2)
 )
-partition by list(salary);
+partition by list(salary)
+;
