@@ -3,7 +3,7 @@ create function some(ages int )returns varchar(255)
 begin
     declare arun varchar(255);
     select employees.first_name into arun from employees
-     where salary>ages order by  asc limit 1;
+     where salary>ages order by salary  desc limit 1;
     return arun;
 end //
 delimiter ;
