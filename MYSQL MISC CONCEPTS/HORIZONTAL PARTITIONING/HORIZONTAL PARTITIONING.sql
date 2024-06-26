@@ -7,6 +7,6 @@ CREATE TABLE employees (
 )
 partition by list(salary)(
     partition low values less than (55000,60000),
-    partition mid values less than (60000,70000)
+    partition mid values less than (60001,70000)
     )
 ;
