@@ -14,5 +14,3 @@ select 323/23;
 select 2%23;
 
 
-
-select * from customers order by rand() limit 1;
