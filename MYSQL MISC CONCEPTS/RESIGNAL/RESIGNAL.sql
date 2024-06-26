@@ -21,8 +21,7 @@ BEGIN
         RESIGNAL; -- Re-raise the same exception
     END;
     
-    -- Continue with other operations if condition is not met
-    -- Example: Update employee data, etc.
+
     
 END //
 
