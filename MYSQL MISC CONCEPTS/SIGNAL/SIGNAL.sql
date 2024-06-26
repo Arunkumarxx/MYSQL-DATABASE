@@ -10,3 +10,5 @@ END IF;
 END //
 DELIMITER ;
 
+call example()
+
