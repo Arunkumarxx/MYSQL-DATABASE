@@ -16,4 +16,4 @@ INSERT INTO sales (region, country, product, revenue) VALUES
 ('Europe', 'France', 'Phone', 3500.00);
 
 
-select sales.region,
+select sales.region,sales.country,
