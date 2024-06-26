@@ -6,4 +6,5 @@ CREATE TABLE employees (
     salary DECIMAL(10, 2)
 )
 partition by list(salary)
-partitions 4;
+partitions 
+;
