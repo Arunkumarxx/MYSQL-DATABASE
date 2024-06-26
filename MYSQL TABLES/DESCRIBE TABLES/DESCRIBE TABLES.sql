@@ -57,4 +57,4 @@ mysql> explain cust;
 
  */
 
- sele
+ select 
