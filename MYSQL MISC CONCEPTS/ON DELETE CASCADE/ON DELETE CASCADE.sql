@@ -15,4 +15,5 @@ insert into child() values
 ('vczvcnz',3),
 ('vcxnzn',4);
 
-delete from parent 
+delete from parent
+where id>
