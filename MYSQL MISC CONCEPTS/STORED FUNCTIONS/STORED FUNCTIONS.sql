@@ -1,3 +1,3 @@
  delimiter //
-create function some()
+create function some(age int )
 delimiter ;
