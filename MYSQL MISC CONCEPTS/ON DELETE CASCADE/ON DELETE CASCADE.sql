@@ -15,5 +15,4 @@ insert into child() values
 ('Arun Kumar',1),
 ('xclxzk',2),
 ('vczvcnz',3),
-('vcxnzn',4);
-
+('vcxnzn',4),('fdsfds',5);
