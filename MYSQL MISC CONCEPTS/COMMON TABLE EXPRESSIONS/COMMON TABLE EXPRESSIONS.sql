@@ -7,3 +7,4 @@ CREATE TABLE employees
     salary        DECIMAL(10, 2)
 );
 
+with avgSalaries  as ()
