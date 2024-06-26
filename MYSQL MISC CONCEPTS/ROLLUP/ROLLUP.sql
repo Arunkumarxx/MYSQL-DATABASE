@@ -14,3 +14,5 @@ INSERT INTO sales (region, country, product, revenue) VALUES
 ('Europe', 'Germany', 'Phone', 4500.00),
 ('Europe', 'France', 'Laptop', 5500.00),
 ('Europe', 'France', 'Phone', 3500.00);
+
+
