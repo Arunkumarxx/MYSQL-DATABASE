@@ -33,3 +33,5 @@ with LessSalary as
     (select employee_id,first_name,employees.salary from employees )
 select * from employees where salary<54000;
 
+
+
