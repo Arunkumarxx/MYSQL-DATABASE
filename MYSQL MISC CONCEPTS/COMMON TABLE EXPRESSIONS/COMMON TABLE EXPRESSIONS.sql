@@ -9,5 +9,5 @@ CREATE TABLE employees
 
 with avgSalaries  as (
     select employees.department_id, avg(employees.salary)
-    from  group by department_id
-)
+    from employees group by department_id
+)select * from employees;
