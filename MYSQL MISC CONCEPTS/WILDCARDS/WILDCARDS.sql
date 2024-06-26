@@ -11,4 +11,4 @@ select * from customers where age like '_5%';
  */
 
  select * from customers
-  where age not like '%'
+  where age not like '%5'
