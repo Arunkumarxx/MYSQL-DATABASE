@@ -7,7 +7,6 @@ BEGIN
     -- Retrieve the salary of the employee
     SELECT salary INTO emp_salary FROM employees WHERE employee_id = emp_id;
     
-    -- Check if salary exceeds a certain limit (e.g., 100000)
     IF emp_salary > 100000 THEN
         SIGNAL SQLSTATE '45000'
             SET MESSAGE_TEXT = 'Employee salary exceeds the limit of 100000';
