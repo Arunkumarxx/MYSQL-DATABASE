@@ -6,6 +6,7 @@ CREATE TABLE employees (
     salary DECIMAL(10, 2)
 )
 partition by list(salary)(
-    partition  values less than (55000,60000)
+    partition low values less than (55000,60000)
+    partition low values less than (55000,60000)
     )
 ;
