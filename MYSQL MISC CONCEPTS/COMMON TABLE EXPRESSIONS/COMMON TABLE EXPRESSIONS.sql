@@ -6,7 +6,6 @@ CREATE TABLE employees
     department_id INT,
     salary        DECIMAL(10, 2)
 );
-
 WITH avg_salaries AS (
     SELECT
         department_id,
@@ -15,4 +14,12 @@ WITH avg_salaries AS (
         employees
     GROUP BY
         department_id
-)select * 
+)
+SELECT
+    department_id,
+    avg_salary
+FROM
+    avg_salaries
+WHERE
+    avg_salary > 60000;
+
