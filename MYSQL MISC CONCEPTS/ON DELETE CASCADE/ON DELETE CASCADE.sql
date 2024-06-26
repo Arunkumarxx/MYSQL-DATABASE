@@ -10,4 +10,7 @@ create table child (
 );
 
 insert into parent() values
-('Arun Kumar',1);
+('Arun Kumar',1),
+('xclxzk',2),
+('vczvcnz',3),
+('vcxnzn',4);
