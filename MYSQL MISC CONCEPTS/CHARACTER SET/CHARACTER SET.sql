@@ -1,1 +1,1 @@
-show character set like 'char';
+show character set like 'c';
