@@ -1,16 +1,7 @@
-DELIMITER //
-
-CREATE FUNCTION some(input_age INT) RETURNS VARCHAR(255) deterministic reads sql data
+CREATE FUNCTION calculate_tax(salary DECIMAL(10,2)) RETURNS DECIMAL(10,2)
 BEGIN
-    DECLARE arun VARCHAR(255);
-    SELECT employees.first_name INTO arun
-    FROM employees
-    WHERE salary > input_age
-    ORDER BY salary ASC
-    LIMIT 1;
-    RETURN arun;
-END //
+    DECLARE tax DECIMAL(10,2);
+    SET tax = salary * 0.15; -- Example tax calculation
+    RETURN tax;
+END;
 
-DELIMITER ;
-
-SELECT some(25);
