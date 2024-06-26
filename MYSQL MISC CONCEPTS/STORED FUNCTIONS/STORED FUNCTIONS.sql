@@ -2,6 +2,6 @@
 create function some(age int )returns int
 begin
     declare arun varchar(255);
-    select 
+    select employees.first_name into arun 
 end //
 delimiter ;
