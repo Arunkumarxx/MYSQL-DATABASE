@@ -2,4 +2,4 @@ select now();
 
 select curdate();
 
-select 
+select curdate() as today;
