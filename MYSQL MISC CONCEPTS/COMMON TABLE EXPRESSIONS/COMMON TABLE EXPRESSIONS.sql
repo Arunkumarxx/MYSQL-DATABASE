@@ -8,5 +8,5 @@ CREATE TABLE employees
 );
 
 with avgSalaries  as (
-    select employees.department_id,
+    select employees.department_id, avg()
 )
