@@ -5,3 +5,4 @@ BEGIN
     RETURN tax;
 END;
 
+select calculate_tax()
