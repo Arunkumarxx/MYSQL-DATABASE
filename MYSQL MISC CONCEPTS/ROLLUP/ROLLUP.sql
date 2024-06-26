@@ -16,4 +16,5 @@ INSERT INTO sales (region, country, product, revenue) VALUES
 ('Europe', 'France', 'Phone', 3500.00);
 
 
-select sales.region,sales.country,sum(sales.revenue) as revenue from sales  group by region,country with rollup ;
+select sales.region,sales.country,sum(sales.revenue)
+as revenue from sales  group by region,country with rollup ;
