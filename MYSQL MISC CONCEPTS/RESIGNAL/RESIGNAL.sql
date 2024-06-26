@@ -1,4 +1,3 @@
 delimiter //
-create procedure some(
-  
-);
+create procedure some()
+;
