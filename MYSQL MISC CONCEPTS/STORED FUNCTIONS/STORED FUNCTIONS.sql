@@ -1,6 +1,6 @@
 DELIMITER //
 
-CREATE FUNCTION some(input_age INT) RETURNS VARCHAR(255) deterministic 
+CREATE FUNCTION some(input_age INT) RETURNS VARCHAR(255) deterministic reads sql data
 BEGIN
     DECLARE arun VARCHAR(255);
     SELECT employees.first_name INTO arun
