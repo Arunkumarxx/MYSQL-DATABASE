@@ -6,3 +6,4 @@ CREATE TABLE employees (
     salary DECIMAL(10, 2)
 );
 
+
