@@ -11,7 +11,7 @@ create table child (
 
 
 
-insert into parent() values
+insert into child() values
 ('Arun Kumar',1),
 ('xclxzk',2),
 ('vczvcnz',3),
