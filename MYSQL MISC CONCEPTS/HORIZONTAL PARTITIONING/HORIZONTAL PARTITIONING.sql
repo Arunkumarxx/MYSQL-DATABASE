@@ -12,5 +12,5 @@ partition by list(salary)(
     );
 
 
-select  
+select  * from employees where salary in (40000,)
 
