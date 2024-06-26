@@ -57,4 +57,3 @@ mysql> explain cust;
 
  */
 
-select json_type(employees.employee_id) from employees;
