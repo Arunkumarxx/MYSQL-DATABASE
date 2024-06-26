@@ -5,5 +5,6 @@ create table parent (
 
 create table child (
     name varchar(20),
-    id tinyint 
+    id tinyint ,
+    foreign key 
 );
