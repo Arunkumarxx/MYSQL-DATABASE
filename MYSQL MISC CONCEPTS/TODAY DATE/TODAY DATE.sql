@@ -1,3 +1,3 @@
 select now();
 
-select 
+select curdate();
