@@ -1,7 +1,7 @@
 delimiter //
 create procedure some()
   begin
-      declare 
+      declare arun
     end //
     ;
 delimiter //
