@@ -10,5 +10,5 @@ END IF;
 END //
 DELIMITER ;
 
-call example()
+call example(15);
 
