@@ -3,6 +3,7 @@ create table parent (
     id tinyint primary key
 );
 
+drop table parent;
 
 create table child (
     name varchar(20),
