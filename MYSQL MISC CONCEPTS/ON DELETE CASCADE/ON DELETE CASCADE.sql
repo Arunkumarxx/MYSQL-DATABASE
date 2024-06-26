@@ -6,5 +6,5 @@ create table parent (
 create table child (
     name varchar(20),
     id tinyint ,
-    foreign key parentToChild (childid) references parent (id) on delete  cascade
+    foreign key parentToChild (id) references parent (id) on delete  cascade
 );
