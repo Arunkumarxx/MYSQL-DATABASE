@@ -57,4 +57,4 @@ mysql> explain cust;
 
  */
 
- select json_type() from customers;
+ select json_type(age) from customers;
