@@ -11,5 +11,4 @@ partition by list(salary)(
     partition high values in  (70001,80001)
     );
 
-select * from 
 
