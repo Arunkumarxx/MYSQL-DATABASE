@@ -4,7 +4,6 @@ CREATE PROCEDURE check_salary(emp_id INT)
 BEGIN
     DECLARE emp_salary DECIMAL(10,2);
     
-    -- Retrieve the salary of the employee
     SELECT salary INTO emp_salary FROM employees WHERE employee_id = emp_id;
     
     IF emp_salary > 100000 THEN
