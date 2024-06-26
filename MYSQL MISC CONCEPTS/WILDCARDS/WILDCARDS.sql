@@ -1,6 +1,5 @@
 select *
-from customers where age like '_5
-%';
+from customers where age like '_5%';
 
 /*
 
