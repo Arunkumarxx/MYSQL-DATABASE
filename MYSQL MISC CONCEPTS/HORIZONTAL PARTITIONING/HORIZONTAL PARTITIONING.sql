@@ -12,3 +12,5 @@ partition by list(salary)(
     );
 
 
+select  
+
