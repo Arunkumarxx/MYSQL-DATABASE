@@ -8,4 +8,4 @@ begin
 end //
 delimiter ;
 
-select 
+select some()
