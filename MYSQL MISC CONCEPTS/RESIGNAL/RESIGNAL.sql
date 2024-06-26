@@ -1,7 +1,7 @@
 delimiter //
 create procedure some()
   begin
-      select 
+      declare 
     end //
     ;
 delimiter //
