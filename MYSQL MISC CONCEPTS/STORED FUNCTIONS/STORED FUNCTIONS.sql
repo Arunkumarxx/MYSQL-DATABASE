@@ -1,11 +1,17 @@
- delimiter //
-create function some(ages int )returns varchar(255)
-begin
-    declare arun varchar(255);
-    select employees.first_name into arun from employees
-     where salary>ages order by salary  desc limit 1;
-    return arun;
-end //
-delimiter ;
+DELIMITER //
+
+CREATE FUNCTION some(input_age INT) RETURNS VARCHAR(255)
+BEGIN
+    DECLARE arun VARCHAR(255);
+    SELECT employees.first_name INTO arun
+    FROM employees
+    WHERE age > input_age
+    ORDER BY age ASC
+    LIMIT 1;
+    RETURN arun;
+END //
+
+DELIMITER ;
+
 
 select some(1);
