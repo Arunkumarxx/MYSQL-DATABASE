@@ -15,4 +15,4 @@ insert into child() values
 ('vczvcnz',3),
 ('vcxnzn',4);
 
-delete 
+delete from parent 
