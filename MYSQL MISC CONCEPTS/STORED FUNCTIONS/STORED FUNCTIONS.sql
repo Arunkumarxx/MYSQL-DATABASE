@@ -5,4 +5,4 @@ BEGIN
     RETURN tax;
 END;
 
-select calculate_tax()
+select calculate_tax(12);
