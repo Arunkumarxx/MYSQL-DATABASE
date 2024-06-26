@@ -1,3 +1,3 @@
 // delimiter
-create function 
+create function some()
 delimiter ;
