@@ -16,4 +16,4 @@ insert into child() values
 ('vcxnzn',4);
 
 delete from parent
-where id>
+where id>2;
