@@ -19,4 +19,4 @@ delete from parent
 where id>2;
 
 
-select * form 
+select * from child;
