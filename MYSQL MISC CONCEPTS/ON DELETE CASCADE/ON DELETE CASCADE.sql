@@ -1,4 +1,4 @@
 create table parent (
-    name int ,
+    name  ,
     id tinyint
 );
