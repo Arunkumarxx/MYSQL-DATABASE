@@ -1,4 +1,4 @@
 create table parent (
-    name  ,
+    name varchar(10) ,
     id tinyint
 );
