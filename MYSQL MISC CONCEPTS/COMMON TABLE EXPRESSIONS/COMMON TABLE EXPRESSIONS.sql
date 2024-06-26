@@ -1,2 +1,2 @@
-with ageAround as (delete from ageAround where age>25)
+with ageAround as ()
 select * from customers;
