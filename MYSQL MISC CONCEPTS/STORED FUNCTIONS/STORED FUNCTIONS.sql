@@ -8,4 +8,4 @@ begin
 end //
 delimiter ;
 
-select some(age) 
+select some(age) from customers;
