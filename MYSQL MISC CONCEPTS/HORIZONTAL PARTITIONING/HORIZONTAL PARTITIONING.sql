@@ -5,5 +5,3 @@ CREATE TABLE employees (
     department_id INT,
     salary DECIMAL(10, 2)
 )
-PARTITION BY KEY (department_id)
-PARTITIONS 4;
