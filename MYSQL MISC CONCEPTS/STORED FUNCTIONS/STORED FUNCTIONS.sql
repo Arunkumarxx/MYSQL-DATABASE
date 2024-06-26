@@ -1,6 +1,6 @@
  delimiter //
 create function some(age int )returns int
 begin
-    declare 
+    declare arun
 end //
 delimiter ;
