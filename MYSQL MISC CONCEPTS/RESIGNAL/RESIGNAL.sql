@@ -4,3 +4,4 @@ create procedure some()
 
     end //
     ;
+delimiter
