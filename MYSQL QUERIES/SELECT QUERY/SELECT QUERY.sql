@@ -13,6 +13,3 @@ select 323/23;
 
 select 2%23;
 
-
-select name from customers
-where length(name)<15;
