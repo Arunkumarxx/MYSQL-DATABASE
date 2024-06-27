@@ -15,4 +15,4 @@ select 2%23;
 
 
 select name from customers
-where length()
+where length(name)>15;
